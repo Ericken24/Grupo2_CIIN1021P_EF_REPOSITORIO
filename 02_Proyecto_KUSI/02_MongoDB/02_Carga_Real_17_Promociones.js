@@ -1,0 +1,374 @@
+use KUSI_MINIMARKET_NOSQL;
+
+// Carga real de las 17 promociones (generado desde promociones_mongodb.json)
+db.promociones.insertMany(
+[
+  {
+    "id_promocion": "PROM-001",
+    "nombre": "Martes de Lácteos",
+    "descripcion": "10% de descuento en lácteos los martes",
+    "categorias": [
+      "Lácteos y Refrigerados"
+    ],
+    "tipo": "descuento_porcentual",
+    "valor": 10,
+    "dias_activos": [
+      2
+    ],
+    "sucursales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2023-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true
+  },
+  {
+    "id_promocion": "PROM-002",
+    "nombre": "Happy Hour Bebidas",
+    "descripcion": "2x1 en bebidas personales de 19:00 a 21:00",
+    "categorias": [
+      "Bebidas"
+    ],
+    "tipo": "dos_por_uno",
+    "valor": 50,
+    "hora_inicio": "19:00",
+    "hora_fin": "21:00",
+    "sucursales": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "fecha_inicio": "2023-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true
+  },
+  {
+    "id_promocion": "PROM-003",
+    "nombre": "Yape/Plin 5% Extra",
+    "descripcion": "5% adicional con Yape o Plin en compras mayores a S/20",
+    "metodos_pago": [
+      4,
+      5
+    ],
+    "tipo": "descuento_porcentual",
+    "valor": 5,
+    "monto_minimo": 20,
+    "sucursales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2023-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true
+  },
+  {
+    "id_promocion": "PROM-004",
+    "nombre": "Noche del Estudiante",
+    "descripcion": "10% en snacks y bebidas entre 20:00 y 23:00 en Evitamiento",
+    "categorias": [
+      "Snacks y Golosinas",
+      "Bebidas"
+    ],
+    "tipo": "descuento_porcentual",
+    "valor": 10,
+    "hora_inicio": "20:00",
+    "hora_fin": "23:00",
+    "sucursales": [
+      1
+    ],
+    "fecha_inicio": "2023-03-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true
+  },
+  {
+    "id_promocion": "PROM-005",
+    "nombre": "Fin de Semana Familiar",
+    "descripcion": "8% en abarrotes sábados y domingos",
+    "categorias": [
+      "Abarrotes"
+    ],
+    "tipo": "descuento_porcentual",
+    "valor": 8,
+    "dias_activos": [
+      6,
+      7
+    ],
+    "sucursales": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2023-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true
+  },
+  {
+    "id_promocion": "PROM-006",
+    "nombre": "Promoción KUSI 06",
+    "descripcion": "Promoción variable para Bebidas",
+    "categorias": [
+      "Bebidas"
+    ],
+    "tipo": "dos_por_uno",
+    "valor": 8,
+    "sucursales": [
+      1
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "dias_activos": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id_promocion": "PROM-007",
+    "nombre": "Promoción KUSI 07",
+    "descripcion": "Promoción variable para Panadería y Pastelería",
+    "categorias": [
+      "Panadería y Pastelería"
+    ],
+    "tipo": "dos_por_uno",
+    "valor": 15,
+    "sucursales": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true
+  },
+  {
+    "id_promocion": "PROM-008",
+    "nombre": "Promoción KUSI 08",
+    "descripcion": "Promoción variable para Helados y Congelados",
+    "categorias": [
+      "Helados y Congelados"
+    ],
+    "tipo": "descuento_porcentual",
+    "valor": 10,
+    "sucursales": [
+      3
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "dias_activos": [
+      1,
+      2
+    ],
+    "hora_inicio": "07:00",
+    "hora_fin": "23:00"
+  },
+  {
+    "id_promocion": "PROM-009",
+    "nombre": "Promoción KUSI 09",
+    "descripcion": "Promoción variable para Cuidado Personal",
+    "categorias": [
+      "Cuidado Personal"
+    ],
+    "tipo": "monto_fijo",
+    "valor": 5,
+    "sucursales": [
+      2,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "monto_minimo": 50
+  },
+  {
+    "id_promocion": "PROM-010",
+    "nombre": "Promoción KUSI 10",
+    "descripcion": "Promoción variable para Abarrotes",
+    "categorias": [
+      "Abarrotes"
+    ],
+    "tipo": "dos_por_uno",
+    "valor": 10,
+    "sucursales": [
+      3
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true
+  },
+  {
+    "id_promocion": "PROM-011",
+    "nombre": "Promoción KUSI 11",
+    "descripcion": "Promoción variable para Snacks y Golosinas",
+    "categorias": [
+      "Snacks y Golosinas"
+    ],
+    "tipo": "monto_fijo",
+    "valor": 15,
+    "sucursales": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "monto_minimo": 30,
+    "dias_activos": [
+      1,
+      3
+    ]
+  },
+  {
+    "id_promocion": "PROM-012",
+    "nombre": "Promoción KUSI 12",
+    "descripcion": "Promoción variable para Snacks y Golosinas",
+    "categorias": [
+      "Snacks y Golosinas"
+    ],
+    "tipo": "dos_por_uno",
+    "valor": 8,
+    "sucursales": [
+      3
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "dias_activos": [
+      2,
+      5
+    ],
+    "hora_inicio": "20:00",
+    "hora_fin": "23:00"
+  },
+  {
+    "id_promocion": "PROM-013",
+    "nombre": "Promoción KUSI 13",
+    "descripcion": "Promoción variable para Abarrotes",
+    "categorias": [
+      "Abarrotes"
+    ],
+    "tipo": "monto_fijo",
+    "valor": 20,
+    "sucursales": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "monto_minimo": 50
+  },
+  {
+    "id_promocion": "PROM-014",
+    "nombre": "Promoción KUSI 14",
+    "descripcion": "Promoción variable para Limpieza",
+    "categorias": [
+      "Limpieza"
+    ],
+    "tipo": "dos_por_uno",
+    "valor": 8,
+    "sucursales": [
+      4
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "dias_activos": [
+      7
+    ]
+  },
+  {
+    "id_promocion": "PROM-015",
+    "nombre": "Promoción KUSI 15",
+    "descripcion": "Promoción variable para Limpieza",
+    "categorias": [
+      "Limpieza"
+    ],
+    "tipo": "monto_fijo",
+    "valor": 8,
+    "sucursales": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "monto_minimo": 20,
+    "hora_inicio": "18:00",
+    "hora_fin": "21:00"
+  },
+  {
+    "id_promocion": "PROM-016",
+    "nombre": "Promoción KUSI 16",
+    "descripcion": "Promoción variable para Bebidas",
+    "categorias": [
+      "Bebidas"
+    ],
+    "tipo": "descuento_porcentual",
+    "valor": 5,
+    "sucursales": [
+      1
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "dias_activos": [
+      6,
+      3,
+      5
+    ],
+    "hora_inicio": "20:00",
+    "hora_fin": "21:00"
+  },
+  {
+    "id_promocion": "PROM-017",
+    "nombre": "Promoción KUSI 17",
+    "descripcion": "Promoción variable para Cuidado Personal",
+    "categorias": [
+      "Cuidado Personal"
+    ],
+    "tipo": "descuento_porcentual",
+    "valor": 8,
+    "sucursales": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2025-08-31",
+    "activa": true,
+    "dias_activos": [
+      1,
+      3
+    ]
+  }
+]
+);
+
+print("Documentos insertados: " + db.promociones.countDocuments());

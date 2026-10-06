@@ -1,0 +1,289 @@
+﻿periodo,anio,mes,empresa,categoria,ventas_soles,participacion_pct,dias_feriado,origen_ventas
+2023-01,2023,1,Mass,Bebidas sin alcohol,26368128.79,14.58,1,sintetico
+2023-01,2023,1,Mass,Licores y cervezas,14468367.75,8.0,1,sintetico
+2023-01,2023,1,Mass,Snacks y golosinas,19096651.87,10.56,1,sintetico
+2023-01,2023,1,Mass,Abarrotes,49626047.53,27.44,1,sintetico
+2023-01,2023,1,Mass,Lácteos y embutidos,24644774.53,13.62,1,sintetico
+2023-01,2023,1,Mass,Panadería y comidas preparadas,14281033.89,7.9,1,sintetico
+2023-01,2023,1,Mass,Limpieza y cuidado personal,21202450.41,11.72,1,sintetico
+2023-01,2023,1,Mass,Recargas y servicios,1834411.01,1.01,1,sintetico
+2023-01,2023,1,Mass,Otros,9361516.73,5.18,1,sintetico
+2023-02,2023,2,Mass,Bebidas sin alcohol,22656863.49,13.63,0,sintetico
+2023-02,2023,2,Mass,Licores y cervezas,13351120.04,8.03,0,sintetico
+2023-02,2023,2,Mass,Snacks y golosinas,16032277.7,9.65,0,sintetico
+2023-02,2023,2,Mass,Abarrotes,47422099.71,28.54,0,sintetico
+2023-02,2023,2,Mass,Lácteos y embutidos,22818409.2,13.73,0,sintetico
+2023-02,2023,2,Mass,Panadería y comidas preparadas,13544156.56,8.15,0,sintetico
+2023-02,2023,2,Mass,Limpieza y cuidado personal,20005244.37,12.04,0,sintetico
+2023-02,2023,2,Mass,Recargas y servicios,1729468.22,1.04,0,sintetico
+2023-02,2023,2,Mass,Otros,8629366.93,5.19,0,sintetico
+2023-03,2023,3,Mass,Bebidas sin alcohol,28398928.99,14.4,0,sintetico
+2023-03,2023,3,Mass,Licores y cervezas,15938276.92,8.08,0,sintetico
+2023-03,2023,3,Mass,Snacks y golosinas,19409290.56,9.84,0,sintetico
+2023-03,2023,3,Mass,Abarrotes,54526444.91,27.65,0,sintetico
+2023-03,2023,3,Mass,Lácteos y embutidos,27897785.89,14.15,0,sintetico
+2023-03,2023,3,Mass,Panadería y comidas preparadas,15832797.22,8.03,0,sintetico
+2023-03,2023,3,Mass,Limpieza y cuidado personal,23543856.35,11.94,0,sintetico
+2023-03,2023,3,Mass,Recargas y servicios,2013580.93,1.02,0,sintetico
+2023-03,2023,3,Mass,Otros,9606934.47,4.87,0,sintetico
+2023-04,2023,4,Mass,Bebidas sin alcohol,29404560.58,13.52,2,sintetico
+2023-04,2023,4,Mass,Licores y cervezas,18167218.39,8.36,2,sintetico
+2023-04,2023,4,Mass,Snacks y golosinas,22638964.54,10.41,2,sintetico
+2023-04,2023,4,Mass,Abarrotes,60259548.18,27.72,2,sintetico
+2023-04,2023,4,Mass,Lácteos y embutidos,30884424.55,14.2,2,sintetico
+2023-04,2023,4,Mass,Panadería y comidas preparadas,18399490.51,8.46,2,sintetico
+2023-04,2023,4,Mass,Limpieza y cuidado personal,25172116.46,11.58,2,sintetico
+2023-04,2023,4,Mass,Recargas y servicios,2189800.19,1.01,2,sintetico
+2023-04,2023,4,Mass,Otros,10309226.19,4.74,2,sintetico
+2023-05,2023,5,Mass,Bebidas sin alcohol,31618906.92,14.13,1,sintetico
+2023-05,2023,5,Mass,Licores y cervezas,18319362.7,8.19,1,sintetico
+2023-05,2023,5,Mass,Snacks y golosinas,23486313.53,10.5,1,sintetico
+2023-05,2023,5,Mass,Abarrotes,61620148.46,27.55,1,sintetico
+2023-05,2023,5,Mass,Lácteos y embutidos,30545161.54,13.65,1,sintetico
+2023-05,2023,5,Mass,Panadería y comidas preparadas,18354660.18,8.21,1,sintetico
+2023-05,2023,5,Mass,Limpieza y cuidado personal,26412561.39,11.81,1,sintetico
+2023-05,2023,5,Mass,Recargas y servicios,2234165.06,1.0,1,sintetico
+2023-05,2023,5,Mass,Otros,11103660.67,4.96,1,sintetico
+2023-06,2023,6,Mass,Bebidas sin alcohol,29886098.93,13.41,1,sintetico
+2023-06,2023,6,Mass,Licores y cervezas,18174793.11,8.16,1,sintetico
+2023-06,2023,6,Mass,Snacks y golosinas,21704190.6,9.74,1,sintetico
+2023-06,2023,6,Mass,Abarrotes,61840729.99,27.75,1,sintetico
+2023-06,2023,6,Mass,Lácteos y embutidos,32270131.96,14.48,1,sintetico
+2023-06,2023,6,Mass,Panadería y comidas preparadas,18391985.92,8.25,1,sintetico
+2023-06,2023,6,Mass,Limpieza y cuidado personal,27298062.79,12.25,1,sintetico
+2023-06,2023,6,Mass,Recargas y servicios,2172925.5,0.98,1,sintetico
+2023-06,2023,6,Mass,Otros,11116813.35,4.99,1,sintetico
+2023-07,2023,7,Mass,Bebidas sin alcohol,35040026.86,13.85,2,sintetico
+2023-07,2023,7,Mass,Licores y cervezas,23277539.68,9.2,2,sintetico
+2023-07,2023,7,Mass,Snacks y golosinas,26776245.25,10.58,2,sintetico
+2023-07,2023,7,Mass,Abarrotes,68473244.2,27.06,2,sintetico
+2023-07,2023,7,Mass,Lácteos y embutidos,34789795.85,13.75,2,sintetico
+2023-07,2023,7,Mass,Panadería y comidas preparadas,20283654.97,8.01,2,sintetico
+2023-07,2023,7,Mass,Limpieza y cuidado personal,29651414.34,11.72,2,sintetico
+2023-07,2023,7,Mass,Recargas y servicios,2478224.41,0.98,2,sintetico
+2023-07,2023,7,Mass,Otros,12305536.56,4.86,2,sintetico
+2023-08,2023,8,Mass,Bebidas sin alcohol,34658609.91,14.66,1,sintetico
+2023-08,2023,8,Mass,Licores y cervezas,18678079.82,7.9,1,sintetico
+2023-08,2023,8,Mass,Snacks y golosinas,23875650.2,10.1,1,sintetico
+2023-08,2023,8,Mass,Abarrotes,66299462.4,28.05,1,sintetico
+2023-08,2023,8,Mass,Lácteos y embutidos,31947330.76,13.52,1,sintetico
+2023-08,2023,8,Mass,Panadería y comidas preparadas,19233425.07,8.14,1,sintetico
+2023-08,2023,8,Mass,Limpieza y cuidado personal,27997150.53,11.85,1,sintetico
+2023-08,2023,8,Mass,Recargas y servicios,2269033.36,0.96,1,sintetico
+2023-08,2023,8,Mass,Otros,11382951.51,4.82,1,sintetico
+2023-09,2023,9,Mass,Bebidas sin alcohol,34350301.86,14.01,0,sintetico
+2023-09,2023,9,Mass,Licores y cervezas,19569381.64,7.98,0,sintetico
+2023-09,2023,9,Mass,Snacks y golosinas,24582806.55,10.03,0,sintetico
+2023-09,2023,9,Mass,Abarrotes,68630812.05,28.0,0,sintetico
+2023-09,2023,9,Mass,Lácteos y embutidos,35159297.0,14.34,0,sintetico
+2023-09,2023,9,Mass,Panadería y comidas preparadas,18378808.05,7.5,0,sintetico
+2023-09,2023,9,Mass,Limpieza y cuidado personal,29919737.12,12.21,0,sintetico
+2023-09,2023,9,Mass,Recargas y servicios,2520806.58,1.03,0,sintetico
+2023-09,2023,9,Mass,Otros,12003868.98,4.9,0,sintetico
+2023-10,2023,10,Mass,Bebidas sin alcohol,39066773.18,14.28,1,sintetico
+2023-10,2023,10,Mass,Licores y cervezas,21580197.81,7.89,1,sintetico
+2023-10,2023,10,Mass,Snacks y golosinas,27557642.91,10.07,1,sintetico
+2023-10,2023,10,Mass,Abarrotes,77038445.17,28.16,1,sintetico
+2023-10,2023,10,Mass,Lácteos y embutidos,37877576.59,13.84,1,sintetico
+2023-10,2023,10,Mass,Panadería y comidas preparadas,21029559.86,7.69,1,sintetico
+2023-10,2023,10,Mass,Limpieza y cuidado personal,33256951.56,12.16,1,sintetico
+2023-10,2023,10,Mass,Recargas y servicios,2564215.97,0.94,1,sintetico
+2023-10,2023,10,Mass,Otros,13619536.05,4.98,1,sintetico
+2023-11,2023,11,Mass,Bebidas sin alcohol,36389399.23,13.54,1,sintetico
+2023-11,2023,11,Mass,Licores y cervezas,21987788.04,8.18,1,sintetico
+2023-11,2023,11,Mass,Snacks y golosinas,27870126.57,10.37,1,sintetico
+2023-11,2023,11,Mass,Abarrotes,74208510.93,27.61,1,sintetico
+2023-11,2023,11,Mass,Lácteos y embutidos,37941465.28,14.11,1,sintetico
+2023-11,2023,11,Mass,Panadería y comidas preparadas,21275922.48,7.91,1,sintetico
+2023-11,2023,11,Mass,Limpieza y cuidado personal,33143397.01,12.33,1,sintetico
+2023-11,2023,11,Mass,Recargas y servicios,2847585.3,1.06,1,sintetico
+2023-11,2023,11,Mass,Otros,13157278.89,4.89,1,sintetico
+2023-12,2023,12,Mass,Bebidas sin alcohol,44542590.69,13.68,2,sintetico
+2023-12,2023,12,Mass,Licores y cervezas,34842012.57,10.7,2,sintetico
+2023-12,2023,12,Mass,Snacks y golosinas,32478857.33,9.97,2,sintetico
+2023-12,2023,12,Mass,Abarrotes,91300476.74,28.04,2,sintetico
+2023-12,2023,12,Mass,Lácteos y embutidos,44992714.1,13.82,2,sintetico
+2023-12,2023,12,Mass,Panadería y comidas preparadas,24473801.19,7.52,2,sintetico
+2023-12,2023,12,Mass,Limpieza y cuidado personal,34692835.52,10.65,2,sintetico
+2023-12,2023,12,Mass,Recargas y servicios,3058459.63,0.94,2,sintetico
+2023-12,2023,12,Mass,Otros,15272772.81,4.69,2,sintetico
+2024-01,2024,1,Mass,Bebidas sin alcohol,39593953.91,14.32,1,sintetico
+2024-01,2024,1,Mass,Licores y cervezas,23095840.39,8.35,1,sintetico
+2024-01,2024,1,Mass,Snacks y golosinas,27338683.47,9.89,1,sintetico
+2024-01,2024,1,Mass,Abarrotes,75080819.96,27.16,1,sintetico
+2024-01,2024,1,Mass,Lácteos y embutidos,38772090.59,14.02,1,sintetico
+2024-01,2024,1,Mass,Panadería y comidas preparadas,22540333.6,8.15,1,sintetico
+2024-01,2024,1,Mass,Limpieza y cuidado personal,33460165.66,12.1,1,sintetico
+2024-01,2024,1,Mass,Recargas y servicios,2898441.08,1.05,1,sintetico
+2024-01,2024,1,Mass,Otros,13673955.86,4.95,1,sintetico
+2024-02,2024,2,Mass,Bebidas sin alcohol,38967439.02,14.23,0,sintetico
+2024-02,2024,2,Mass,Licores y cervezas,22451408.88,8.2,0,sintetico
+2024-02,2024,2,Mass,Snacks y golosinas,27139236.59,9.91,0,sintetico
+2024-02,2024,2,Mass,Abarrotes,79125379.52,28.9,0,sintetico
+2024-02,2024,2,Mass,Lácteos y embutidos,36489213.47,13.33,0,sintetico
+2024-02,2024,2,Mass,Panadería y comidas preparadas,21311094.9,7.78,0,sintetico
+2024-02,2024,2,Mass,Limpieza y cuidado personal,32535802.01,11.88,0,sintetico
+2024-02,2024,2,Mass,Recargas y servicios,2736010.12,1.0,0,sintetico
+2024-02,2024,2,Mass,Otros,13039061.22,4.76,0,sintetico
+2024-03,2024,3,Mass,Bebidas sin alcohol,41265065.05,13.9,2,sintetico
+2024-03,2024,3,Mass,Licores y cervezas,26265092.44,8.85,2,sintetico
+2024-03,2024,3,Mass,Snacks y golosinas,30554676.6,10.29,2,sintetico
+2024-03,2024,3,Mass,Abarrotes,80882718.64,27.24,2,sintetico
+2024-03,2024,3,Mass,Lácteos y embutidos,40380910.11,13.6,2,sintetico
+2024-03,2024,3,Mass,Panadería y comidas preparadas,24934203.04,8.4,2,sintetico
+2024-03,2024,3,Mass,Limpieza y cuidado personal,34447548.62,11.6,2,sintetico
+2024-03,2024,3,Mass,Recargas y servicios,2961647.72,1.0,2,sintetico
+2024-03,2024,3,Mass,Otros,15188382.7,5.12,2,sintetico
+2024-04,2024,4,Mass,Bebidas sin alcohol,43882436.12,13.95,0,sintetico
+2024-04,2024,4,Mass,Licores y cervezas,24763717.93,7.87,0,sintetico
+2024-04,2024,4,Mass,Snacks y golosinas,30728896.94,9.77,0,sintetico
+2024-04,2024,4,Mass,Abarrotes,85870810.79,27.29,0,sintetico
+2024-04,2024,4,Mass,Lácteos y embutidos,44806493.08,14.24,0,sintetico
+2024-04,2024,4,Mass,Panadería y comidas preparadas,26983162.65,8.58,0,sintetico
+2024-04,2024,4,Mass,Limpieza y cuidado personal,38393251.72,12.2,0,sintetico
+2024-04,2024,4,Mass,Recargas y servicios,3201260.43,1.02,0,sintetico
+2024-04,2024,4,Mass,Otros,16024863.83,5.09,0,sintetico
+2024-05,2024,5,Mass,Bebidas sin alcohol,50350173.22,13.81,1,sintetico
+2024-05,2024,5,Mass,Licores y cervezas,30016002.67,8.24,1,sintetico
+2024-05,2024,5,Mass,Snacks y golosinas,39490285.46,10.83,1,sintetico
+2024-05,2024,5,Mass,Abarrotes,100445120.68,27.56,1,sintetico
+2024-05,2024,5,Mass,Lácteos y embutidos,50701441.05,13.91,1,sintetico
+2024-05,2024,5,Mass,Panadería y comidas preparadas,28392672.03,7.79,1,sintetico
+2024-05,2024,5,Mass,Limpieza y cuidado personal,42551246.09,11.67,1,sintetico
+2024-05,2024,5,Mass,Recargas y servicios,3658239.2,1.0,1,sintetico
+2024-05,2024,5,Mass,Otros,18869365.2,5.18,1,sintetico
+2024-06,2024,6,Mass,Bebidas sin alcohol,49378726.9,14.17,1,sintetico
+2024-06,2024,6,Mass,Licores y cervezas,27871424.07,8.0,1,sintetico
+2024-06,2024,6,Mass,Snacks y golosinas,36569398.96,10.5,1,sintetico
+2024-06,2024,6,Mass,Abarrotes,95126659.94,27.3,1,sintetico
+2024-06,2024,6,Mass,Lácteos y embutidos,48200164.5,13.84,1,sintetico
+2024-06,2024,6,Mass,Panadería y comidas preparadas,27985254.21,8.03,1,sintetico
+2024-06,2024,6,Mass,Limpieza y cuidado personal,42231197.81,12.12,1,sintetico
+2024-06,2024,6,Mass,Recargas y servicios,3615147.04,1.04,1,sintetico
+2024-06,2024,6,Mass,Otros,17411235.32,5.0,1,sintetico
+2024-07,2024,7,Mass,Bebidas sin alcohol,53551768.16,13.33,2,sintetico
+2024-07,2024,7,Mass,Licores y cervezas,35291228.17,8.78,2,sintetico
+2024-07,2024,7,Mass,Snacks y golosinas,43305823.65,10.78,2,sintetico
+2024-07,2024,7,Mass,Abarrotes,112839891.39,28.08,2,sintetico
+2024-07,2024,7,Mass,Lácteos y embutidos,51916896.25,12.92,2,sintetico
+2024-07,2024,7,Mass,Panadería y comidas preparadas,31727322.08,7.9,2,sintetico
+2024-07,2024,7,Mass,Limpieza y cuidado personal,49032372.01,12.2,2,sintetico
+2024-07,2024,7,Mass,Recargas y servicios,4083132.33,1.02,2,sintetico
+2024-07,2024,7,Mass,Otros,20065304.77,4.99,2,sintetico
+2024-08,2024,8,Mass,Bebidas sin alcohol,50417879.5,13.87,1,sintetico
+2024-08,2024,8,Mass,Licores y cervezas,30615796.77,8.42,1,sintetico
+2024-08,2024,8,Mass,Snacks y golosinas,36830114.75,10.14,1,sintetico
+2024-08,2024,8,Mass,Abarrotes,100596576.27,27.68,1,sintetico
+2024-08,2024,8,Mass,Lácteos y embutidos,53226740.29,14.65,1,sintetico
+2024-08,2024,8,Mass,Panadería y comidas preparadas,26978600.94,7.42,1,sintetico
+2024-08,2024,8,Mass,Limpieza y cuidado personal,42855156.14,11.79,1,sintetico
+2024-08,2024,8,Mass,Recargas y servicios,3664733.09,1.01,1,sintetico
+2024-08,2024,8,Mass,Otros,18207093.22,5.01,1,sintetico
+2024-09,2024,9,Mass,Bebidas sin alcohol,47968297.56,14.05,0,sintetico
+2024-09,2024,9,Mass,Licores y cervezas,27554188.08,8.07,0,sintetico
+2024-09,2024,9,Mass,Snacks y golosinas,37313953.8,10.93,0,sintetico
+2024-09,2024,9,Mass,Abarrotes,94672628.1,27.74,0,sintetico
+2024-09,2024,9,Mass,Lácteos y embutidos,47379210.14,13.88,0,sintetico
+2024-09,2024,9,Mass,Panadería y comidas preparadas,26131617.75,7.66,0,sintetico
+2024-09,2024,9,Mass,Limpieza y cuidado personal,38549764.75,11.29,0,sintetico
+2024-09,2024,9,Mass,Recargas y servicios,3429373.26,1.0,0,sintetico
+2024-09,2024,9,Mass,Otros,18340251.93,5.37,0,sintetico
+2024-10,2024,10,Mass,Bebidas sin alcohol,58875887.75,14.27,1,sintetico
+2024-10,2024,10,Mass,Licores y cervezas,34159692.04,8.28,1,sintetico
+2024-10,2024,10,Mass,Snacks y golosinas,42055838.93,10.19,1,sintetico
+2024-10,2024,10,Mass,Abarrotes,114275397.45,27.69,1,sintetico
+2024-10,2024,10,Mass,Lácteos y embutidos,57170895.46,13.85,1,sintetico
+2024-10,2024,10,Mass,Panadería y comidas preparadas,33205302.0,8.05,1,sintetico
+2024-10,2024,10,Mass,Limpieza y cuidado personal,49042422.69,11.88,1,sintetico
+2024-10,2024,10,Mass,Recargas y servicios,4061199.92,0.98,1,sintetico
+2024-10,2024,10,Mass,Otros,19804080.55,4.8,1,sintetico
+2024-11,2024,11,Mass,Bebidas sin alcohol,54065630.07,13.55,1,sintetico
+2024-11,2024,11,Mass,Licores y cervezas,32958963.13,8.26,1,sintetico
+2024-11,2024,11,Mass,Snacks y golosinas,40729066.27,10.2,1,sintetico
+2024-11,2024,11,Mass,Abarrotes,112361786.76,28.15,1,sintetico
+2024-11,2024,11,Mass,Lácteos y embutidos,55341720.23,13.87,1,sintetico
+2024-11,2024,11,Mass,Panadería y comidas preparadas,32208789.9,8.07,1,sintetico
+2024-11,2024,11,Mass,Limpieza y cuidado personal,47494621.23,11.9,1,sintetico
+2024-11,2024,11,Mass,Recargas y servicios,3925151.2,0.98,1,sintetico
+2024-11,2024,11,Mass,Otros,20023244.5,5.02,1,sintetico
+2024-12,2024,12,Mass,Bebidas sin alcohol,63735556.6,13.09,2,sintetico
+2024-12,2024,12,Mass,Licores y cervezas,47254729.99,9.71,2,sintetico
+2024-12,2024,12,Mass,Snacks y golosinas,48739848.61,10.01,2,sintetico
+2024-12,2024,12,Mass,Abarrotes,145364448.28,29.86,2,sintetico
+2024-12,2024,12,Mass,Lácteos y embutidos,66285703.02,13.61,2,sintetico
+2024-12,2024,12,Mass,Panadería y comidas preparadas,37225452.99,7.65,2,sintetico
+2024-12,2024,12,Mass,Limpieza y cuidado personal,51868951.69,10.65,2,sintetico
+2024-12,2024,12,Mass,Recargas y servicios,4568228.7,0.94,2,sintetico
+2024-12,2024,12,Mass,Otros,21816139.59,4.48,2,sintetico
+2025-01,2025,1,Mass,Bebidas sin alcohol,59209826.74,13.37,1,sintetico
+2025-01,2025,1,Mass,Licores y cervezas,39297782.16,8.87,1,sintetico
+2025-01,2025,1,Mass,Snacks y golosinas,44301287.74,10.0,1,sintetico
+2025-01,2025,1,Mass,Abarrotes,125582208.57,28.36,1,sintetico
+2025-01,2025,1,Mass,Lácteos y embutidos,60705712.19,13.71,1,sintetico
+2025-01,2025,1,Mass,Panadería y comidas preparadas,35341549.57,7.98,1,sintetico
+2025-01,2025,1,Mass,Limpieza y cuidado personal,52157626.46,11.78,1,sintetico
+2025-01,2025,1,Mass,Recargas y servicios,4657595.37,1.05,1,sintetico
+2025-01,2025,1,Mass,Otros,21597751.53,4.88,1,sintetico
+2025-02,2025,2,Mass,Bebidas sin alcohol,49518642.73,13.88,0,sintetico
+2025-02,2025,2,Mass,Licores y cervezas,28795857.88,8.07,0,sintetico
+2025-02,2025,2,Mass,Snacks y golosinas,36476511.31,10.22,0,sintetico
+2025-02,2025,2,Mass,Abarrotes,95070246.35,26.65,0,sintetico
+2025-02,2025,2,Mass,Lácteos y embutidos,50795006.77,14.24,0,sintetico
+2025-02,2025,2,Mass,Panadería y comidas preparadas,28694931.88,8.04,0,sintetico
+2025-02,2025,2,Mass,Limpieza y cuidado personal,46042760.12,12.91,0,sintetico
+2025-02,2025,2,Mass,Recargas y servicios,3653317.6,1.02,0,sintetico
+2025-02,2025,2,Mass,Otros,17710284.35,4.96,0,sintetico
+2025-03,2025,3,Mass,Bebidas sin alcohol,62642727.97,14.27,0,sintetico
+2025-03,2025,3,Mass,Licores y cervezas,35737535.16,8.14,0,sintetico
+2025-03,2025,3,Mass,Snacks y golosinas,43351916.92,9.88,0,sintetico
+2025-03,2025,3,Mass,Abarrotes,121727099.7,27.73,0,sintetico
+2025-03,2025,3,Mass,Lácteos y embutidos,60724538.37,13.83,0,sintetico
+2025-03,2025,3,Mass,Panadería y comidas preparadas,35819539.37,8.16,0,sintetico
+2025-03,2025,3,Mass,Limpieza y cuidado personal,51812895.86,11.8,0,sintetico
+2025-03,2025,3,Mass,Recargas y servicios,4460109.03,1.02,0,sintetico
+2025-03,2025,3,Mass,Otros,22659954.64,5.16,0,sintetico
+2025-04,2025,4,Mass,Bebidas sin alcohol,56539008.85,14.01,2,sintetico
+2025-04,2025,4,Mass,Licores y cervezas,34130902.07,8.46,2,sintetico
+2025-04,2025,4,Mass,Snacks y golosinas,42500155.66,10.53,2,sintetico
+2025-04,2025,4,Mass,Abarrotes,113299298.0,28.08,2,sintetico
+2025-04,2025,4,Mass,Lácteos y embutidos,53613431.32,13.29,2,sintetico
+2025-04,2025,4,Mass,Panadería y comidas preparadas,32539515.63,8.07,2,sintetico
+2025-04,2025,4,Mass,Limpieza y cuidado personal,47311981.74,11.73,2,sintetico
+2025-04,2025,4,Mass,Recargas y servicios,4014740.53,1.0,2,sintetico
+2025-04,2025,4,Mass,Otros,19495094.8,4.83,2,sintetico
+2025-05,2025,5,Mass,Bebidas sin alcohol,72339551.56,13.9,1,sintetico
+2025-05,2025,5,Mass,Licores y cervezas,41678506.81,8.01,1,sintetico
+2025-05,2025,5,Mass,Snacks y golosinas,53603922.55,10.3,1,sintetico
+2025-05,2025,5,Mass,Abarrotes,142399138.88,27.37,1,sintetico
+2025-05,2025,5,Mass,Lácteos y embutidos,75627996.79,14.53,1,sintetico
+2025-05,2025,5,Mass,Panadería y comidas preparadas,40586959.09,7.8,1,sintetico
+2025-05,2025,5,Mass,Limpieza y cuidado personal,63384181.59,12.18,1,sintetico
+2025-05,2025,5,Mass,Recargas y servicios,5308170.67,1.02,1,sintetico
+2025-05,2025,5,Mass,Otros,25425137.23,4.89,1,sintetico
+2025-06,2025,6,Mass,Bebidas sin alcohol,66129995.37,13.68,1,sintetico
+2025-06,2025,6,Mass,Licores y cervezas,39767051.87,8.23,1,sintetico
+2025-06,2025,6,Mass,Snacks y golosinas,47946285.9,9.92,1,sintetico
+2025-06,2025,6,Mass,Abarrotes,137799286.84,28.52,1,sintetico
+2025-06,2025,6,Mass,Lácteos y embutidos,66856093.33,13.84,1,sintetico
+2025-06,2025,6,Mass,Panadería y comidas preparadas,38289455.99,7.92,1,sintetico
+2025-06,2025,6,Mass,Limpieza y cuidado personal,57887355.33,11.98,1,sintetico
+2025-06,2025,6,Mass,Recargas y servicios,4757022.24,0.98,1,sintetico
+2025-06,2025,6,Mass,Otros,23801258.59,4.93,1,sintetico
+2025-07,2025,7,Mass,Bebidas sin alcohol,69631004.4,14.17,2,sintetico
+2025-07,2025,7,Mass,Licores y cervezas,42359269.21,8.62,2,sintetico
+2025-07,2025,7,Mass,Snacks y golosinas,52506025.91,10.69,2,sintetico
+2025-07,2025,7,Mass,Abarrotes,137244122.05,27.94,2,sintetico
+2025-07,2025,7,Mass,Lácteos y embutidos,67106773.24,13.66,2,sintetico
+2025-07,2025,7,Mass,Panadería y comidas preparadas,39695000.29,8.08,2,sintetico
+2025-07,2025,7,Mass,Limpieza y cuidado personal,53974656.43,10.99,2,sintetico
+2025-07,2025,7,Mass,Recargas y servicios,5072910.1,1.03,2,sintetico
+2025-07,2025,7,Mass,Otros,23667285.16,4.82,2,sintetico
+2025-08,2025,8,Mass,Bebidas sin alcohol,66222969.74,13.91,1,sintetico
+2025-08,2025,8,Mass,Licores y cervezas,40278942.74,8.46,1,sintetico
+2025-08,2025,8,Mass,Snacks y golosinas,47530313.87,9.99,1,sintetico
+2025-08,2025,8,Mass,Abarrotes,131546759.58,27.64,1,sintetico
+2025-08,2025,8,Mass,Lácteos y embutidos,67767554.76,14.24,1,sintetico
+2025-08,2025,8,Mass,Panadería y comidas preparadas,37138298.31,7.8,1,sintetico
+2025-08,2025,8,Mass,Limpieza y cuidado personal,58174461.84,12.22,1,sintetico
+2025-08,2025,8,Mass,Recargas y servicios,4550714.44,0.96,1,sintetico
+2025-08,2025,8,Mass,Otros,22784079.86,4.79,1,sintetico

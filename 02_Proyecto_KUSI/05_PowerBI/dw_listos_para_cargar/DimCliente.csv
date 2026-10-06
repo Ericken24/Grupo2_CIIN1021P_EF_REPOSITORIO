@@ -1,0 +1,2502 @@
+﻿KeyCliente,Distrito,ClasificacionCliente,ClienteAnonimo,Consentimiento
+0,Sin dato,Anonimo,True,
+1,Cajamarca,Frecuente,False,1
+2,Cajamarca,Ocasional,False,1
+3,Baños del Inca,Frecuente,False,1
+4,Cajamarca,Frecuente,False,1
+5,Cajamarca,Frecuente,False,1
+6,Cajamarca,Frecuente,False,1
+7,Cajamarca,Frecuente,False,0
+8,La Encañada,Frecuente,False,1
+9,Porcón,Frecuente,False,1
+10,Cajamarca,Frecuente,False,1
+11,Baños del Inca,Ocasional,False,0
+12,Cajamarca,Frecuente,False,1
+13,San Sebastián,Frecuente,False,1
+14,Cajamarca,Frecuente,False,1
+15,Cajamarca,Frecuente,False,1
+16,Cajamarca,Ocasional,False,1
+17,San Sebastián,Frecuente,False,1
+18,La Encañada,Frecuente,False,0
+19,Baños del Inca,Frecuente,False,0
+20,Llacanora,Frecuente,False,1
+21,Cajamarca,Frecuente,False,0
+22,Cajamarca,Ocasional,False,0
+23,Cajamarca,Frecuente,False,1
+24,Cajamarca,Frecuente,False,1
+25,Cajamarca,Frecuente,False,1
+26,Cajamarca,Frecuente,False,1
+27,Cajamarca,Frecuente,False,1
+28,Porcón,Frecuente,False,1
+29,Cajamarca,Ocasional,False,1
+30,Cajamarca,Frecuente,False,0
+31,Cajamarca,Ocasional,False,1
+32,Cajamarca,Frecuente,False,1
+33,Cajamarca,Ocasional,False,0
+34,Cajamarca,Ocasional,False,1
+35,Cajamarca,Ocasional,False,1
+36,Cajamarca,Frecuente,False,1
+37,Baños del Inca,Frecuente,False,1
+38,Porcón,Frecuente,False,1
+39,Cajamarca,Frecuente,False,1
+40,Cajamarca,Frecuente,False,1
+41,Cajamarca,Frecuente,False,1
+42,Cajamarca,Frecuente,False,1
+43,Cajamarca,Frecuente,False,1
+44,Cajamarca,Frecuente,False,1
+45,Cajamarca,Frecuente,False,1
+46,Porcón,Frecuente,False,0
+47,Cajamarca,Frecuente,False,0
+48,Llacanora,Frecuente,False,1
+49,Llacanora,Frecuente,False,1
+50,Cajamarca,Frecuente,False,1
+51,Jesús,Ocasional,False,1
+52,La Encañada,Frecuente,False,0
+53,Cajamarca,Frecuente,False,1
+54,Cajamarca,Ocasional,False,1
+55,Cajamarca,Frecuente,False,1
+56,Cajamarca,Ocasional,False,1
+57,Cajamarca,Frecuente,False,1
+58,Cajamarca,Frecuente,False,1
+59,Baños del Inca,Frecuente,False,0
+60,Cajamarca,Frecuente,False,1
+61,Cajamarca,Ocasional,False,0
+62,Cajamarca,Frecuente,False,1
+63,Cajamarca,Frecuente,False,1
+64,La Encañada,Frecuente,False,1
+65,Cajamarca,Ocasional,False,1
+66,Cajamarca,Frecuente,False,1
+67,Llacanora,Frecuente,False,1
+68,Jesús,Frecuente,False,1
+69,Cajamarca,Frecuente,False,1
+70,Cajamarca,Frecuente,False,1
+71,Cajamarca,Frecuente,False,1
+72,Cajamarca,Frecuente,False,1
+73,Cajamarca,Frecuente,False,0
+74,Llacanora,Frecuente,False,1
+75,Llacanora,Frecuente,False,1
+76,Cajamarca,Frecuente,False,0
+77,Cajamarca,Frecuente,False,1
+78,Cajamarca,Ocasional,False,1
+79,Cajamarca,Ocasional,False,1
+80,San Sebastián,Frecuente,False,1
+81,Cajamarca,Frecuente,False,0
+82,Cajamarca,Nuevo,False,1
+83,Cajamarca,Ocasional,False,1
+84,Cajamarca,Frecuente,False,1
+85,San Sebastián,Ocasional,False,0
+86,Porcón,Ocasional,False,0
+87,Jesús,Frecuente,False,1
+88,Cajamarca,Frecuente,False,1
+89,Cajamarca,Frecuente,False,1
+90,Cajamarca,Ocasional,False,1
+91,Cajamarca,Frecuente,False,1
+92,Cajamarca,Ocasional,False,1
+93,Cajamarca,Frecuente,False,1
+94,Cajamarca,Frecuente,False,1
+95,Cajamarca,Frecuente,False,0
+96,Cajamarca,Ocasional,False,1
+97,Cajamarca,Frecuente,False,0
+98,Cajamarca,Frecuente,False,0
+99,Cajamarca,Ocasional,False,1
+100,San Sebastián,Frecuente,False,1
+101,Cajamarca,Ocasional,False,1
+102,Baños del Inca,Sin compras,False,0
+103,Baños del Inca,Frecuente,False,1
+104,San Sebastián,Frecuente,False,1
+105,San Sebastián,Frecuente,False,1
+106,Porcón,Frecuente,False,0
+107,Porcón,Frecuente,False,1
+108,La Encañada,Ocasional,False,1
+109,Jesús,Frecuente,False,1
+110,Chetilla,Frecuente,False,1
+111,Cajamarca,Frecuente,False,1
+112,Cajamarca,Frecuente,False,1
+113,Cajamarca,Frecuente,False,1
+114,Baños del Inca,Frecuente,False,1
+115,Porcón,Ocasional,False,0
+116,Cajamarca,Frecuente,False,1
+117,Cajamarca,Frecuente,False,1
+118,Cajamarca,Frecuente,False,1
+119,Cajamarca,Frecuente,False,1
+120,Cajamarca,Frecuente,False,1
+121,Cajamarca,Frecuente,False,1
+122,Jesús,Frecuente,False,1
+123,Baños del Inca,Frecuente,False,0
+124,Cajamarca,Frecuente,False,1
+125,Cajamarca,Frecuente,False,1
+126,Cajamarca,Frecuente,False,1
+127,Cajamarca,Ocasional,False,1
+128,Llacanora,Frecuente,False,1
+129,Cajamarca,Ocasional,False,0
+130,Baños del Inca,Frecuente,False,0
+131,Cajamarca,Frecuente,False,1
+132,Cajamarca,Frecuente,False,1
+133,La Encañada,Frecuente,False,1
+134,Baños del Inca,Frecuente,False,0
+135,Cajamarca,Frecuente,False,1
+136,Cajamarca,Frecuente,False,1
+137,Llacanora,Frecuente,False,1
+138,Llacanora,Frecuente,False,1
+139,Cajamarca,Ocasional,False,1
+140,Cajamarca,Frecuente,False,1
+141,Cajamarca,Frecuente,False,1
+142,Porcón,Ocasional,False,1
+143,Baños del Inca,Frecuente,False,1
+144,Cajamarca,Frecuente,False,1
+145,Cajamarca,Frecuente,False,1
+146,Baños del Inca,Frecuente,False,1
+147,Cajamarca,Frecuente,False,1
+148,Cajamarca,Frecuente,False,1
+149,Cajamarca,Ocasional,False,1
+150,Cajamarca,Frecuente,False,1
+151,Cajamarca,Frecuente,False,0
+152,Cajamarca,Frecuente,False,0
+153,Baños del Inca,Ocasional,False,1
+154,Cajamarca,Frecuente,False,1
+155,Cajamarca,Frecuente,False,1
+156,Cajamarca,Frecuente,False,1
+157,Cajamarca,Ocasional,False,0
+158,Cajamarca,Frecuente,False,1
+159,Cajamarca,Frecuente,False,1
+160,Baños del Inca,Frecuente,False,1
+161,Cajamarca,Frecuente,False,1
+162,Cajamarca,Frecuente,False,1
+163,Cajamarca,Frecuente,False,1
+164,Cajamarca,Frecuente,False,1
+165,Cajamarca,Frecuente,False,1
+166,Cajamarca,Frecuente,False,1
+167,Cajamarca,Ocasional,False,1
+168,Cajamarca,Nuevo,False,1
+169,Cajamarca,Frecuente,False,1
+170,Cajamarca,Frecuente,False,0
+171,Cajamarca,Frecuente,False,1
+172,Cajamarca,Ocasional,False,0
+173,Cajamarca,Frecuente,False,1
+174,Cajamarca,Frecuente,False,1
+175,Chetilla,Frecuente,False,1
+176,Cajamarca,Frecuente,False,1
+177,Cajamarca,Frecuente,False,1
+178,Cajamarca,Frecuente,False,1
+179,Cajamarca,Ocasional,False,1
+180,Cajamarca,Ocasional,False,1
+181,Cajamarca,Frecuente,False,0
+182,La Encañada,Frecuente,False,0
+183,La Encañada,Nuevo,False,1
+184,Cajamarca,Frecuente,False,1
+185,Cajamarca,Ocasional,False,1
+186,Cajamarca,Frecuente,False,1
+187,Cajamarca,Frecuente,False,0
+188,Cajamarca,Ocasional,False,1
+189,Cajamarca,Frecuente,False,1
+190,Porcón,Ocasional,False,1
+191,Cajamarca,Frecuente,False,1
+192,Cajamarca,Frecuente,False,1
+193,Cajamarca,Frecuente,False,1
+194,Cajamarca,Frecuente,False,1
+195,Cajamarca,Frecuente,False,1
+196,Cajamarca,Frecuente,False,1
+197,Cajamarca,Frecuente,False,0
+198,Cajamarca,Ocasional,False,1
+199,Baños del Inca,Frecuente,False,1
+200,Baños del Inca,Ocasional,False,1
+201,Cajamarca,Frecuente,False,1
+202,Baños del Inca,Frecuente,False,1
+203,San Sebastián,Ocasional,False,1
+204,Cajamarca,Ocasional,False,0
+205,Llacanora,Frecuente,False,0
+206,Cajamarca,Frecuente,False,1
+207,Cajamarca,Ocasional,False,1
+208,Cajamarca,Frecuente,False,1
+209,Cajamarca,Frecuente,False,0
+210,Cajamarca,Frecuente,False,1
+211,Cajamarca,Frecuente,False,1
+212,Cajamarca,Ocasional,False,0
+213,Cajamarca,Frecuente,False,1
+214,San Sebastián,Frecuente,False,1
+215,Cajamarca,Frecuente,False,1
+216,Cajamarca,Frecuente,False,1
+217,Cajamarca,Frecuente,False,1
+218,Cajamarca,Frecuente,False,1
+219,Baños del Inca,Frecuente,False,0
+220,Cajamarca,Frecuente,False,1
+221,Cajamarca,Frecuente,False,1
+222,Cajamarca,Frecuente,False,1
+223,Cajamarca,Ocasional,False,1
+224,Baños del Inca,Frecuente,False,1
+225,Cajamarca,Frecuente,False,0
+226,Cajamarca,Frecuente,False,1
+227,Cajamarca,Frecuente,False,1
+228,San Sebastián,Ocasional,False,1
+229,Cajamarca,Frecuente,False,1
+230,Jesús,Frecuente,False,1
+231,Cajamarca,Frecuente,False,0
+232,Baños del Inca,Frecuente,False,1
+233,Cajamarca,Frecuente,False,1
+234,Baños del Inca,Ocasional,False,1
+235,Cajamarca,Frecuente,False,1
+236,Cajamarca,Ocasional,False,1
+237,Baños del Inca,Frecuente,False,0
+238,Cajamarca,Frecuente,False,1
+239,Cajamarca,Frecuente,False,1
+240,Cajamarca,Ocasional,False,1
+241,Cajamarca,Ocasional,False,1
+242,Baños del Inca,Frecuente,False,1
+243,Cajamarca,Frecuente,False,1
+244,Chetilla,Frecuente,False,1
+245,Cajamarca,Frecuente,False,0
+246,Cajamarca,Frecuente,False,1
+247,Cajamarca,Frecuente,False,1
+248,Jesús,Frecuente,False,0
+249,Baños del Inca,Ocasional,False,0
+250,Cajamarca,Frecuente,False,1
+251,Cajamarca,Frecuente,False,1
+252,Baños del Inca,Frecuente,False,1
+253,Cajamarca,Frecuente,False,0
+254,Cajamarca,Frecuente,False,0
+255,Cajamarca,Frecuente,False,1
+256,Cajamarca,Frecuente,False,0
+257,Baños del Inca,Frecuente,False,1
+258,San Sebastián,Frecuente,False,1
+259,Cajamarca,Ocasional,False,0
+260,Cajamarca,Frecuente,False,1
+261,Cajamarca,Frecuente,False,1
+262,Cajamarca,Frecuente,False,1
+263,Cajamarca,Frecuente,False,1
+264,Cajamarca,Frecuente,False,0
+265,Cajamarca,Frecuente,False,1
+266,Cajamarca,Frecuente,False,1
+267,Cajamarca,Frecuente,False,1
+268,Cajamarca,Frecuente,False,1
+269,Cajamarca,Frecuente,False,0
+270,Cajamarca,Ocasional,False,1
+271,Cajamarca,Frecuente,False,1
+272,Cajamarca,Ocasional,False,1
+273,Porcón,Frecuente,False,1
+274,Cajamarca,Frecuente,False,1
+275,Cajamarca,Ocasional,False,1
+276,Chetilla,Frecuente,False,1
+277,Cajamarca,Frecuente,False,0
+278,Cajamarca,Ocasional,False,1
+279,Cajamarca,Frecuente,False,1
+280,San Sebastián,Frecuente,False,1
+281,San Sebastián,Ocasional,False,0
+282,Cajamarca,Ocasional,False,0
+283,La Encañada,Frecuente,False,1
+284,Cajamarca,Frecuente,False,1
+285,Cajamarca,Frecuente,False,1
+286,Baños del Inca,Frecuente,False,1
+287,Cajamarca,Frecuente,False,1
+288,Cajamarca,Frecuente,False,1
+289,Baños del Inca,Frecuente,False,1
+290,Llacanora,Ocasional,False,1
+291,Cajamarca,Frecuente,False,1
+292,Llacanora,Frecuente,False,1
+293,Cajamarca,Ocasional,False,1
+294,San Sebastián,Frecuente,False,1
+295,Cajamarca,Frecuente,False,1
+296,San Sebastián,Frecuente,False,0
+297,Cajamarca,Frecuente,False,0
+298,Baños del Inca,Frecuente,False,1
+299,Cajamarca,Frecuente,False,1
+300,Baños del Inca,Frecuente,False,0
+301,Cajamarca,Frecuente,False,1
+302,San Sebastián,Frecuente,False,1
+303,Cajamarca,Ocasional,False,0
+304,Cajamarca,Frecuente,False,1
+305,Cajamarca,Frecuente,False,1
+306,Cajamarca,Frecuente,False,1
+307,Cajamarca,Frecuente,False,1
+308,San Sebastián,Frecuente,False,0
+309,Cajamarca,Frecuente,False,1
+310,Cajamarca,Frecuente,False,1
+311,Cajamarca,Ocasional,False,1
+312,Cajamarca,Frecuente,False,0
+313,Cajamarca,Frecuente,False,1
+314,Cajamarca,Ocasional,False,1
+315,Cajamarca,Frecuente,False,1
+316,San Sebastián,Frecuente,False,1
+317,Cajamarca,Frecuente,False,1
+318,Llacanora,Frecuente,False,1
+319,San Sebastián,Frecuente,False,1
+320,Cajamarca,Nuevo,False,1
+321,Cajamarca,Ocasional,False,1
+322,Baños del Inca,Frecuente,False,1
+323,Cajamarca,Frecuente,False,1
+324,Cajamarca,Ocasional,False,1
+325,Baños del Inca,Frecuente,False,1
+326,Cajamarca,Frecuente,False,0
+327,San Sebastián,Frecuente,False,1
+328,Cajamarca,Frecuente,False,1
+329,Cajamarca,Frecuente,False,1
+330,Cajamarca,Ocasional,False,1
+331,Cajamarca,Frecuente,False,1
+332,Cajamarca,Frecuente,False,1
+333,Cajamarca,Frecuente,False,1
+334,Cajamarca,Ocasional,False,1
+335,Cajamarca,Frecuente,False,1
+336,Cajamarca,Frecuente,False,1
+337,Cajamarca,Frecuente,False,1
+338,Porcón,Frecuente,False,0
+339,Jesús,Ocasional,False,1
+340,Cajamarca,Frecuente,False,0
+341,Cajamarca,Frecuente,False,1
+342,Cajamarca,Frecuente,False,1
+343,Baños del Inca,Frecuente,False,1
+344,Cajamarca,Frecuente,False,1
+345,Baños del Inca,Ocasional,False,1
+346,Cajamarca,Ocasional,False,1
+347,Cajamarca,Frecuente,False,0
+348,Cajamarca,Frecuente,False,1
+349,Cajamarca,Frecuente,False,0
+350,Baños del Inca,Frecuente,False,1
+351,Cajamarca,Frecuente,False,1
+352,Cajamarca,Frecuente,False,1
+353,Chetilla,Frecuente,False,1
+354,Cajamarca,Ocasional,False,1
+355,Cajamarca,Ocasional,False,1
+356,Cajamarca,Frecuente,False,0
+357,Cajamarca,Frecuente,False,1
+358,Llacanora,Frecuente,False,0
+359,Cajamarca,Ocasional,False,1
+360,Cajamarca,Ocasional,False,1
+361,Cajamarca,Frecuente,False,1
+362,Baños del Inca,Frecuente,False,1
+363,Cajamarca,Frecuente,False,1
+364,Cajamarca,Frecuente,False,1
+365,Cajamarca,Frecuente,False,1
+366,Cajamarca,Frecuente,False,1
+367,Cajamarca,Ocasional,False,1
+368,Baños del Inca,Frecuente,False,1
+369,Cajamarca,Ocasional,False,1
+370,Cajamarca,Frecuente,False,1
+371,Cajamarca,Frecuente,False,1
+372,Cajamarca,Frecuente,False,1
+373,Llacanora,Frecuente,False,0
+374,Cajamarca,Ocasional,False,1
+375,Cajamarca,Frecuente,False,1
+376,Cajamarca,Frecuente,False,1
+377,Chetilla,Frecuente,False,1
+378,Cajamarca,Frecuente,False,1
+379,Baños del Inca,Frecuente,False,0
+380,Cajamarca,Frecuente,False,1
+381,Cajamarca,Ocasional,False,1
+382,Baños del Inca,Frecuente,False,1
+383,Cajamarca,Frecuente,False,1
+384,Cajamarca,Frecuente,False,0
+385,Cajamarca,Frecuente,False,1
+386,Llacanora,Frecuente,False,1
+387,Cajamarca,Frecuente,False,0
+388,Baños del Inca,Frecuente,False,1
+389,Baños del Inca,Frecuente,False,1
+390,Cajamarca,Frecuente,False,0
+391,Cajamarca,Frecuente,False,1
+392,Cajamarca,Frecuente,False,1
+393,Cajamarca,Ocasional,False,1
+394,Baños del Inca,Frecuente,False,1
+395,Cajamarca,Frecuente,False,1
+396,Cajamarca,Frecuente,False,0
+397,Cajamarca,Ocasional,False,1
+398,Cajamarca,Frecuente,False,1
+399,Cajamarca,Ocasional,False,0
+400,Cajamarca,Ocasional,False,0
+401,Baños del Inca,Frecuente,False,1
+402,Cajamarca,Ocasional,False,0
+403,La Encañada,Frecuente,False,1
+404,Baños del Inca,Ocasional,False,0
+405,La Encañada,Frecuente,False,1
+406,Cajamarca,Ocasional,False,1
+407,Cajamarca,Frecuente,False,0
+408,Cajamarca,Frecuente,False,1
+409,Baños del Inca,Ocasional,False,1
+410,Cajamarca,Frecuente,False,1
+411,Cajamarca,Frecuente,False,1
+412,Cajamarca,Frecuente,False,1
+413,Cajamarca,Frecuente,False,0
+414,Cajamarca,Ocasional,False,1
+415,Cajamarca,Frecuente,False,1
+416,Cajamarca,Frecuente,False,1
+417,Cajamarca,Frecuente,False,0
+418,Cajamarca,Frecuente,False,1
+419,Cajamarca,Frecuente,False,1
+420,Baños del Inca,Frecuente,False,1
+421,Cajamarca,Frecuente,False,1
+422,Cajamarca,Frecuente,False,1
+423,Cajamarca,Ocasional,False,1
+424,Cajamarca,Frecuente,False,1
+425,Cajamarca,Frecuente,False,1
+426,Baños del Inca,Ocasional,False,1
+427,Cajamarca,Frecuente,False,0
+428,Cajamarca,Ocasional,False,1
+429,Cajamarca,Ocasional,False,1
+430,Cajamarca,Frecuente,False,1
+431,Cajamarca,Frecuente,False,1
+432,San Sebastián,Ocasional,False,0
+433,Cajamarca,Frecuente,False,1
+434,Cajamarca,Frecuente,False,1
+435,San Sebastián,Frecuente,False,1
+436,Cajamarca,Frecuente,False,0
+437,Baños del Inca,Frecuente,False,0
+438,Cajamarca,Frecuente,False,1
+439,Porcón,Frecuente,False,1
+440,Cajamarca,Frecuente,False,1
+441,Llacanora,Frecuente,False,1
+442,Baños del Inca,Frecuente,False,1
+443,Cajamarca,Frecuente,False,1
+444,Chetilla,Ocasional,False,1
+445,Cajamarca,Frecuente,False,1
+446,Cajamarca,Frecuente,False,1
+447,Cajamarca,Frecuente,False,0
+448,Cajamarca,Nuevo,False,1
+449,Cajamarca,Frecuente,False,1
+450,Cajamarca,Frecuente,False,0
+451,San Sebastián,Frecuente,False,1
+452,Cajamarca,Frecuente,False,1
+453,Cajamarca,Frecuente,False,1
+454,Cajamarca,Frecuente,False,1
+455,Cajamarca,Frecuente,False,1
+456,Cajamarca,Ocasional,False,1
+457,Cajamarca,Frecuente,False,1
+458,Cajamarca,Ocasional,False,1
+459,Cajamarca,Frecuente,False,1
+460,Baños del Inca,Frecuente,False,1
+461,Cajamarca,Frecuente,False,1
+462,Cajamarca,Frecuente,False,0
+463,Cajamarca,Frecuente,False,1
+464,Cajamarca,Frecuente,False,0
+465,Cajamarca,Frecuente,False,0
+466,Baños del Inca,Ocasional,False,1
+467,Cajamarca,Frecuente,False,0
+468,Cajamarca,Ocasional,False,1
+469,Cajamarca,Frecuente,False,0
+470,Cajamarca,Frecuente,False,1
+471,Jesús,Frecuente,False,1
+472,Llacanora,Frecuente,False,1
+473,Cajamarca,Frecuente,False,1
+474,Cajamarca,Frecuente,False,1
+475,Llacanora,Frecuente,False,1
+476,Cajamarca,Frecuente,False,1
+477,Baños del Inca,Frecuente,False,1
+478,Baños del Inca,Frecuente,False,1
+479,Cajamarca,Frecuente,False,1
+480,Cajamarca,Ocasional,False,1
+481,Llacanora,Ocasional,False,1
+482,Cajamarca,Frecuente,False,1
+483,Cajamarca,Frecuente,False,0
+484,Cajamarca,Frecuente,False,1
+485,Cajamarca,Frecuente,False,1
+486,La Encañada,Frecuente,False,1
+487,Cajamarca,Ocasional,False,1
+488,Cajamarca,Frecuente,False,1
+489,Cajamarca,Frecuente,False,1
+490,Cajamarca,Frecuente,False,1
+491,Cajamarca,Frecuente,False,1
+492,Cajamarca,Frecuente,False,1
+493,San Sebastián,Ocasional,False,1
+494,Cajamarca,Frecuente,False,1
+495,Cajamarca,Frecuente,False,0
+496,Cajamarca,Ocasional,False,1
+497,Baños del Inca,Frecuente,False,1
+498,Cajamarca,Frecuente,False,1
+499,Cajamarca,Frecuente,False,0
+500,Cajamarca,Frecuente,False,1
+501,Jesús,Frecuente,False,1
+502,Cajamarca,Frecuente,False,1
+503,Baños del Inca,Frecuente,False,1
+504,Llacanora,Frecuente,False,1
+505,Cajamarca,Frecuente,False,1
+506,Baños del Inca,Frecuente,False,0
+507,Cajamarca,Ocasional,False,1
+508,San Sebastián,Frecuente,False,1
+509,Cajamarca,Frecuente,False,1
+510,Cajamarca,Frecuente,False,1
+511,Cajamarca,Frecuente,False,1
+512,Cajamarca,Frecuente,False,1
+513,Cajamarca,Frecuente,False,1
+514,San Sebastián,Frecuente,False,1
+515,Cajamarca,Ocasional,False,1
+516,Cajamarca,Frecuente,False,1
+517,Baños del Inca,Frecuente,False,1
+518,Cajamarca,Frecuente,False,0
+519,Baños del Inca,Frecuente,False,1
+520,Llacanora,Frecuente,False,0
+521,Cajamarca,Frecuente,False,1
+522,Cajamarca,Frecuente,False,1
+523,Llacanora,Frecuente,False,1
+524,Cajamarca,Ocasional,False,1
+525,Baños del Inca,Frecuente,False,1
+526,Cajamarca,Frecuente,False,1
+527,Cajamarca,Frecuente,False,1
+528,Baños del Inca,Frecuente,False,0
+529,Baños del Inca,Ocasional,False,1
+530,Cajamarca,Frecuente,False,1
+531,Cajamarca,Frecuente,False,1
+532,Llacanora,Frecuente,False,0
+533,Baños del Inca,Frecuente,False,1
+534,Chetilla,Ocasional,False,1
+535,Cajamarca,Frecuente,False,1
+536,Cajamarca,Frecuente,False,1
+537,San Sebastián,Frecuente,False,1
+538,Cajamarca,Frecuente,False,1
+539,Cajamarca,Ocasional,False,0
+540,Cajamarca,Ocasional,False,0
+541,Cajamarca,Ocasional,False,1
+542,Cajamarca,Frecuente,False,1
+543,Cajamarca,Frecuente,False,1
+544,La Encañada,Frecuente,False,1
+545,San Sebastián,Frecuente,False,1
+546,Cajamarca,Ocasional,False,1
+547,San Sebastián,Ocasional,False,1
+548,Baños del Inca,Frecuente,False,1
+549,Jesús,Ocasional,False,0
+550,Cajamarca,Frecuente,False,1
+551,Baños del Inca,Frecuente,False,1
+552,Baños del Inca,Frecuente,False,0
+553,Cajamarca,Frecuente,False,0
+554,La Encañada,Ocasional,False,0
+555,Cajamarca,Ocasional,False,1
+556,Cajamarca,Frecuente,False,0
+557,Baños del Inca,Ocasional,False,1
+558,Baños del Inca,Frecuente,False,1
+559,Cajamarca,Ocasional,False,1
+560,Cajamarca,Ocasional,False,0
+561,Cajamarca,Frecuente,False,1
+562,Cajamarca,Frecuente,False,1
+563,Cajamarca,Frecuente,False,1
+564,Baños del Inca,Frecuente,False,1
+565,San Sebastián,Ocasional,False,1
+566,Cajamarca,Frecuente,False,1
+567,San Sebastián,Frecuente,False,1
+568,Cajamarca,Frecuente,False,0
+569,Baños del Inca,Frecuente,False,1
+570,Jesús,Frecuente,False,0
+571,Cajamarca,Frecuente,False,0
+572,Cajamarca,Frecuente,False,1
+573,Cajamarca,Frecuente,False,1
+574,San Sebastián,Frecuente,False,1
+575,Cajamarca,Frecuente,False,1
+576,Cajamarca,Frecuente,False,1
+577,Cajamarca,Ocasional,False,1
+578,Cajamarca,Frecuente,False,1
+579,Chetilla,Frecuente,False,1
+580,Cajamarca,Frecuente,False,1
+581,Cajamarca,Frecuente,False,1
+582,San Sebastián,Frecuente,False,0
+583,Cajamarca,Frecuente,False,0
+584,Cajamarca,Frecuente,False,1
+585,La Encañada,Frecuente,False,1
+586,Baños del Inca,Frecuente,False,0
+587,Cajamarca,Frecuente,False,1
+588,Cajamarca,Frecuente,False,1
+589,Cajamarca,Frecuente,False,1
+590,Cajamarca,Frecuente,False,0
+591,Cajamarca,Frecuente,False,1
+592,Jesús,Frecuente,False,1
+593,Cajamarca,Frecuente,False,1
+594,Cajamarca,Frecuente,False,1
+595,Cajamarca,Frecuente,False,1
+596,Cajamarca,Frecuente,False,1
+597,La Encañada,Frecuente,False,0
+598,Cajamarca,Frecuente,False,1
+599,Cajamarca,Ocasional,False,1
+600,San Sebastián,Frecuente,False,1
+601,Baños del Inca,Frecuente,False,1
+602,Chetilla,Frecuente,False,1
+603,Cajamarca,Frecuente,False,1
+604,Cajamarca,Frecuente,False,1
+605,Cajamarca,Ocasional,False,1
+606,Baños del Inca,Frecuente,False,1
+607,Cajamarca,Frecuente,False,0
+608,Cajamarca,Frecuente,False,1
+609,Cajamarca,Frecuente,False,1
+610,Cajamarca,Frecuente,False,1
+611,Baños del Inca,Frecuente,False,1
+612,Cajamarca,Frecuente,False,0
+613,Cajamarca,Frecuente,False,0
+614,Baños del Inca,Frecuente,False,0
+615,Cajamarca,Frecuente,False,1
+616,Cajamarca,Frecuente,False,1
+617,Cajamarca,Frecuente,False,1
+618,Cajamarca,Frecuente,False,1
+619,Llacanora,Frecuente,False,0
+620,Cajamarca,Frecuente,False,1
+621,Cajamarca,Frecuente,False,1
+622,Cajamarca,Frecuente,False,1
+623,Cajamarca,Frecuente,False,1
+624,Baños del Inca,Frecuente,False,1
+625,Cajamarca,Ocasional,False,1
+626,Cajamarca,Frecuente,False,0
+627,Cajamarca,Frecuente,False,1
+628,Cajamarca,Frecuente,False,1
+629,Baños del Inca,Ocasional,False,0
+630,Cajamarca,Ocasional,False,1
+631,Cajamarca,Frecuente,False,1
+632,Cajamarca,Frecuente,False,1
+633,Cajamarca,Ocasional,False,1
+634,Cajamarca,Frecuente,False,1
+635,Cajamarca,Ocasional,False,1
+636,Cajamarca,Frecuente,False,1
+637,Cajamarca,Frecuente,False,1
+638,Cajamarca,Frecuente,False,0
+639,Cajamarca,Frecuente,False,1
+640,Baños del Inca,Frecuente,False,1
+641,Cajamarca,Frecuente,False,1
+642,Cajamarca,Frecuente,False,0
+643,Cajamarca,Ocasional,False,1
+644,Cajamarca,Frecuente,False,1
+645,Cajamarca,Frecuente,False,1
+646,San Sebastián,Frecuente,False,0
+647,Cajamarca,Frecuente,False,0
+648,Cajamarca,Frecuente,False,1
+649,Cajamarca,Ocasional,False,1
+650,Cajamarca,Frecuente,False,0
+651,Cajamarca,Frecuente,False,1
+652,Cajamarca,Frecuente,False,1
+653,Cajamarca,Frecuente,False,0
+654,Cajamarca,Frecuente,False,1
+655,Cajamarca,Ocasional,False,1
+656,Baños del Inca,Ocasional,False,1
+657,Cajamarca,Frecuente,False,1
+658,Porcón,Frecuente,False,0
+659,Cajamarca,Frecuente,False,1
+660,Cajamarca,Frecuente,False,1
+661,Cajamarca,Frecuente,False,1
+662,Cajamarca,Frecuente,False,1
+663,Cajamarca,Frecuente,False,1
+664,Baños del Inca,Ocasional,False,1
+665,Porcón,Frecuente,False,1
+666,Cajamarca,Nuevo,False,0
+667,Cajamarca,Frecuente,False,1
+668,Cajamarca,Frecuente,False,1
+669,Cajamarca,Frecuente,False,1
+670,Cajamarca,Frecuente,False,1
+671,Cajamarca,Frecuente,False,0
+672,Baños del Inca,Frecuente,False,1
+673,Cajamarca,Frecuente,False,0
+674,Cajamarca,Ocasional,False,0
+675,San Sebastián,Frecuente,False,0
+676,Baños del Inca,Frecuente,False,0
+677,Baños del Inca,Ocasional,False,1
+678,Cajamarca,Frecuente,False,1
+679,Cajamarca,Frecuente,False,0
+680,Cajamarca,Frecuente,False,1
+681,Cajamarca,Frecuente,False,1
+682,Cajamarca,Frecuente,False,1
+683,Cajamarca,Frecuente,False,1
+684,La Encañada,Frecuente,False,1
+685,Cajamarca,Frecuente,False,1
+686,Cajamarca,Frecuente,False,1
+687,Cajamarca,Frecuente,False,1
+688,Cajamarca,Frecuente,False,1
+689,Cajamarca,Frecuente,False,1
+690,Cajamarca,Ocasional,False,1
+691,Cajamarca,Frecuente,False,1
+692,Cajamarca,Frecuente,False,1
+693,Cajamarca,Frecuente,False,1
+694,Cajamarca,Frecuente,False,0
+695,La Encañada,Frecuente,False,1
+696,Cajamarca,Ocasional,False,1
+697,Cajamarca,Frecuente,False,0
+698,Baños del Inca,Ocasional,False,1
+699,Cajamarca,Frecuente,False,1
+700,Cajamarca,Frecuente,False,1
+701,Baños del Inca,Frecuente,False,1
+702,Cajamarca,Frecuente,False,1
+703,Cajamarca,Ocasional,False,1
+704,Cajamarca,Frecuente,False,0
+705,Baños del Inca,Frecuente,False,1
+706,Cajamarca,Ocasional,False,0
+707,Cajamarca,Frecuente,False,1
+708,Cajamarca,Ocasional,False,1
+709,Cajamarca,Ocasional,False,0
+710,Cajamarca,Ocasional,False,0
+711,Cajamarca,Frecuente,False,1
+712,Baños del Inca,Frecuente,False,1
+713,Jesús,Frecuente,False,1
+714,Cajamarca,Frecuente,False,1
+715,Baños del Inca,Frecuente,False,1
+716,Cajamarca,Frecuente,False,1
+717,Chetilla,Ocasional,False,1
+718,Llacanora,Frecuente,False,1
+719,Cajamarca,Ocasional,False,1
+720,Cajamarca,Frecuente,False,1
+721,Cajamarca,Frecuente,False,1
+722,Cajamarca,Frecuente,False,1
+723,San Sebastián,Frecuente,False,0
+724,Cajamarca,Frecuente,False,0
+725,San Sebastián,Ocasional,False,1
+726,Cajamarca,Frecuente,False,1
+727,Cajamarca,Frecuente,False,1
+728,Llacanora,Frecuente,False,0
+729,Cajamarca,Frecuente,False,1
+730,Cajamarca,Ocasional,False,1
+731,Cajamarca,Frecuente,False,1
+732,Baños del Inca,Frecuente,False,1
+733,Cajamarca,Frecuente,False,1
+734,Cajamarca,Frecuente,False,1
+735,Cajamarca,Frecuente,False,1
+736,Baños del Inca,Frecuente,False,1
+737,Baños del Inca,Ocasional,False,1
+738,Cajamarca,Ocasional,False,1
+739,Baños del Inca,Frecuente,False,0
+740,San Sebastián,Frecuente,False,1
+741,Cajamarca,Frecuente,False,1
+742,Cajamarca,Frecuente,False,1
+743,Jesús,Frecuente,False,1
+744,Cajamarca,Nuevo,False,1
+745,Llacanora,Ocasional,False,0
+746,Porcón,Ocasional,False,1
+747,San Sebastián,Frecuente,False,0
+748,Llacanora,Ocasional,False,1
+749,Baños del Inca,Ocasional,False,0
+750,Chetilla,Frecuente,False,0
+751,Llacanora,Frecuente,False,1
+752,Cajamarca,Frecuente,False,1
+753,Baños del Inca,Frecuente,False,0
+754,Baños del Inca,Frecuente,False,1
+755,Cajamarca,Frecuente,False,1
+756,Baños del Inca,Frecuente,False,1
+757,Baños del Inca,Frecuente,False,1
+758,Porcón,Frecuente,False,1
+759,Cajamarca,Frecuente,False,1
+760,Cajamarca,Frecuente,False,1
+761,Cajamarca,Ocasional,False,1
+762,Cajamarca,Frecuente,False,0
+763,Cajamarca,Frecuente,False,1
+764,Cajamarca,Frecuente,False,1
+765,Llacanora,Frecuente,False,0
+766,Cajamarca,Ocasional,False,1
+767,Baños del Inca,Frecuente,False,1
+768,Cajamarca,Frecuente,False,0
+769,Cajamarca,Frecuente,False,1
+770,San Sebastián,Frecuente,False,1
+771,Cajamarca,Frecuente,False,1
+772,Cajamarca,Frecuente,False,1
+773,Cajamarca,Frecuente,False,0
+774,Cajamarca,Frecuente,False,0
+775,Cajamarca,Frecuente,False,0
+776,Baños del Inca,Frecuente,False,1
+777,San Sebastián,Frecuente,False,1
+778,Cajamarca,Frecuente,False,1
+779,Cajamarca,Frecuente,False,1
+780,Cajamarca,Frecuente,False,0
+781,Cajamarca,Frecuente,False,1
+782,Cajamarca,Frecuente,False,1
+783,Porcón,Frecuente,False,1
+784,Cajamarca,Frecuente,False,1
+785,San Sebastián,Nuevo,False,1
+786,Cajamarca,Frecuente,False,1
+787,Cajamarca,Ocasional,False,0
+788,Cajamarca,Frecuente,False,1
+789,Baños del Inca,Frecuente,False,1
+790,Cajamarca,Frecuente,False,0
+791,Cajamarca,Frecuente,False,1
+792,Baños del Inca,Frecuente,False,1
+793,Cajamarca,Frecuente,False,1
+794,Cajamarca,Nuevo,False,1
+795,Cajamarca,Frecuente,False,1
+796,Cajamarca,Frecuente,False,1
+797,Cajamarca,Frecuente,False,1
+798,Cajamarca,Frecuente,False,1
+799,Cajamarca,Frecuente,False,1
+800,Cajamarca,Frecuente,False,0
+801,La Encañada,Frecuente,False,1
+802,Baños del Inca,Frecuente,False,0
+803,Cajamarca,Ocasional,False,0
+804,Cajamarca,Ocasional,False,0
+805,Cajamarca,Frecuente,False,1
+806,Jesús,Ocasional,False,1
+807,Baños del Inca,Frecuente,False,1
+808,Cajamarca,Ocasional,False,1
+809,Cajamarca,Frecuente,False,1
+810,San Sebastián,Frecuente,False,1
+811,San Sebastián,Frecuente,False,1
+812,Cajamarca,Frecuente,False,0
+813,Cajamarca,Frecuente,False,1
+814,San Sebastián,Frecuente,False,1
+815,Chetilla,Frecuente,False,1
+816,Cajamarca,Frecuente,False,1
+817,Cajamarca,Frecuente,False,1
+818,Cajamarca,Frecuente,False,1
+819,Cajamarca,Frecuente,False,1
+820,Baños del Inca,Frecuente,False,0
+821,Cajamarca,Frecuente,False,1
+822,Cajamarca,Ocasional,False,1
+823,Baños del Inca,Frecuente,False,1
+824,Cajamarca,Ocasional,False,1
+825,Llacanora,Frecuente,False,1
+826,Cajamarca,Frecuente,False,1
+827,Baños del Inca,Frecuente,False,1
+828,Cajamarca,Ocasional,False,1
+829,Cajamarca,Frecuente,False,1
+830,Cajamarca,Frecuente,False,1
+831,Cajamarca,Frecuente,False,1
+832,San Sebastián,Ocasional,False,1
+833,Cajamarca,Frecuente,False,0
+834,Cajamarca,Frecuente,False,1
+835,Cajamarca,Frecuente,False,1
+836,Cajamarca,Frecuente,False,0
+837,Cajamarca,Frecuente,False,1
+838,Cajamarca,Frecuente,False,1
+839,La Encañada,Frecuente,False,1
+840,Cajamarca,Frecuente,False,1
+841,San Sebastián,Frecuente,False,1
+842,Cajamarca,Frecuente,False,0
+843,Cajamarca,Frecuente,False,1
+844,Porcón,Frecuente,False,1
+845,Cajamarca,Frecuente,False,1
+846,Cajamarca,Frecuente,False,1
+847,Cajamarca,Frecuente,False,1
+848,Cajamarca,Frecuente,False,1
+849,Baños del Inca,Frecuente,False,1
+850,Cajamarca,Frecuente,False,1
+851,Cajamarca,Frecuente,False,1
+852,Cajamarca,Frecuente,False,1
+853,Cajamarca,Frecuente,False,1
+854,Baños del Inca,Frecuente,False,1
+855,San Sebastián,Frecuente,False,1
+856,Cajamarca,Ocasional,False,1
+857,Cajamarca,Frecuente,False,0
+858,Cajamarca,Frecuente,False,1
+859,San Sebastián,Frecuente,False,1
+860,Jesús,Frecuente,False,1
+861,Cajamarca,Frecuente,False,0
+862,San Sebastián,Frecuente,False,1
+863,Cajamarca,Frecuente,False,1
+864,Cajamarca,Ocasional,False,1
+865,Cajamarca,Frecuente,False,1
+866,Cajamarca,Frecuente,False,1
+867,Cajamarca,Frecuente,False,1
+868,Cajamarca,Ocasional,False,1
+869,Cajamarca,Frecuente,False,1
+870,Baños del Inca,Frecuente,False,1
+871,Cajamarca,Frecuente,False,1
+872,Cajamarca,Frecuente,False,1
+873,Cajamarca,Frecuente,False,1
+874,Cajamarca,Frecuente,False,1
+875,Porcón,Frecuente,False,1
+876,Cajamarca,Ocasional,False,1
+877,Cajamarca,Frecuente,False,0
+878,Cajamarca,Ocasional,False,1
+879,Baños del Inca,Frecuente,False,1
+880,Cajamarca,Ocasional,False,1
+881,Llacanora,Frecuente,False,1
+882,Cajamarca,Frecuente,False,0
+883,Cajamarca,Frecuente,False,1
+884,Cajamarca,Frecuente,False,0
+885,Cajamarca,Frecuente,False,0
+886,Cajamarca,Ocasional,False,1
+887,Cajamarca,Frecuente,False,1
+888,Cajamarca,Frecuente,False,1
+889,San Sebastián,Ocasional,False,0
+890,Cajamarca,Frecuente,False,1
+891,San Sebastián,Frecuente,False,1
+892,San Sebastián,Ocasional,False,1
+893,Cajamarca,Frecuente,False,0
+894,Cajamarca,Frecuente,False,1
+895,San Sebastián,Frecuente,False,1
+896,Cajamarca,Frecuente,False,1
+897,Cajamarca,Frecuente,False,0
+898,Cajamarca,Frecuente,False,1
+899,Baños del Inca,Frecuente,False,1
+900,Cajamarca,Frecuente,False,1
+901,Cajamarca,Frecuente,False,0
+902,Cajamarca,Frecuente,False,1
+903,Cajamarca,Ocasional,False,0
+904,Cajamarca,Frecuente,False,1
+905,Cajamarca,Frecuente,False,1
+906,Cajamarca,Frecuente,False,1
+907,San Sebastián,Ocasional,False,1
+908,Cajamarca,Frecuente,False,1
+909,Cajamarca,Frecuente,False,1
+910,Baños del Inca,Frecuente,False,0
+911,Cajamarca,Frecuente,False,1
+912,Cajamarca,Frecuente,False,1
+913,Cajamarca,Frecuente,False,1
+914,Cajamarca,Frecuente,False,1
+915,Cajamarca,Frecuente,False,1
+916,Cajamarca,Sin compras,False,1
+917,Cajamarca,Ocasional,False,1
+918,Cajamarca,Frecuente,False,0
+919,Cajamarca,Frecuente,False,1
+920,Cajamarca,Frecuente,False,1
+921,Cajamarca,Frecuente,False,1
+922,Cajamarca,Frecuente,False,1
+923,Cajamarca,Frecuente,False,1
+924,Baños del Inca,Frecuente,False,0
+925,La Encañada,Frecuente,False,0
+926,Cajamarca,Frecuente,False,1
+927,Cajamarca,Frecuente,False,1
+928,Cajamarca,Frecuente,False,1
+929,Cajamarca,Frecuente,False,1
+930,Cajamarca,Nuevo,False,1
+931,San Sebastián,Frecuente,False,1
+932,Cajamarca,Ocasional,False,0
+933,Cajamarca,Frecuente,False,1
+934,Cajamarca,Frecuente,False,1
+935,Cajamarca,Frecuente,False,0
+936,Cajamarca,Frecuente,False,1
+937,San Sebastián,Frecuente,False,1
+938,Llacanora,Frecuente,False,1
+939,Cajamarca,Frecuente,False,0
+940,Baños del Inca,Ocasional,False,1
+941,Baños del Inca,Frecuente,False,0
+942,Cajamarca,Ocasional,False,1
+943,Cajamarca,Frecuente,False,0
+944,Porcón,Frecuente,False,1
+945,Baños del Inca,Ocasional,False,1
+946,Cajamarca,Ocasional,False,1
+947,Llacanora,Frecuente,False,1
+948,Cajamarca,Frecuente,False,1
+949,Baños del Inca,Frecuente,False,1
+950,Cajamarca,Ocasional,False,1
+951,Cajamarca,Ocasional,False,0
+952,Baños del Inca,Frecuente,False,1
+953,Cajamarca,Frecuente,False,1
+954,San Sebastián,Frecuente,False,1
+955,Cajamarca,Ocasional,False,1
+956,Cajamarca,Frecuente,False,1
+957,San Sebastián,Frecuente,False,1
+958,Cajamarca,Frecuente,False,1
+959,Cajamarca,Frecuente,False,1
+960,Cajamarca,Frecuente,False,1
+961,Cajamarca,Frecuente,False,0
+962,Cajamarca,Frecuente,False,1
+963,Cajamarca,Frecuente,False,1
+964,San Sebastián,Frecuente,False,1
+965,Cajamarca,Frecuente,False,1
+966,Cajamarca,Frecuente,False,0
+967,Cajamarca,Ocasional,False,1
+968,Cajamarca,Frecuente,False,1
+969,Cajamarca,Frecuente,False,1
+970,Cajamarca,Frecuente,False,1
+971,Baños del Inca,Frecuente,False,1
+972,Baños del Inca,Frecuente,False,1
+973,Cajamarca,Frecuente,False,1
+974,Cajamarca,Ocasional,False,1
+975,Cajamarca,Frecuente,False,1
+976,Cajamarca,Frecuente,False,1
+977,Llacanora,Frecuente,False,0
+978,Chetilla,Frecuente,False,1
+979,Cajamarca,Frecuente,False,1
+980,Cajamarca,Frecuente,False,1
+981,San Sebastián,Frecuente,False,1
+982,Cajamarca,Ocasional,False,1
+983,San Sebastián,Frecuente,False,1
+984,Cajamarca,Frecuente,False,1
+985,Cajamarca,Frecuente,False,1
+986,Cajamarca,Ocasional,False,1
+987,Cajamarca,Ocasional,False,1
+988,San Sebastián,Frecuente,False,1
+989,Cajamarca,Ocasional,False,1
+990,Cajamarca,Frecuente,False,1
+991,Cajamarca,Frecuente,False,1
+992,Cajamarca,Frecuente,False,1
+993,Cajamarca,Frecuente,False,1
+994,Cajamarca,Ocasional,False,1
+995,Cajamarca,Frecuente,False,0
+996,Cajamarca,Frecuente,False,1
+997,Cajamarca,Frecuente,False,1
+998,Cajamarca,Frecuente,False,1
+999,Cajamarca,Frecuente,False,0
+1000,Cajamarca,Frecuente,False,0
+1001,Baños del Inca,Frecuente,False,1
+1002,Cajamarca,Ocasional,False,1
+1003,Cajamarca,Ocasional,False,1
+1004,Porcón,Ocasional,False,1
+1005,San Sebastián,Frecuente,False,0
+1006,Cajamarca,Frecuente,False,1
+1007,Cajamarca,Frecuente,False,1
+1008,San Sebastián,Frecuente,False,1
+1009,Cajamarca,Frecuente,False,1
+1010,Cajamarca,Frecuente,False,1
+1011,San Sebastián,Frecuente,False,1
+1012,Cajamarca,Frecuente,False,1
+1013,Cajamarca,Frecuente,False,1
+1014,Cajamarca,Frecuente,False,1
+1015,San Sebastián,Frecuente,False,1
+1016,Baños del Inca,Frecuente,False,1
+1017,San Sebastián,Frecuente,False,1
+1018,Cajamarca,Frecuente,False,1
+1019,Cajamarca,Frecuente,False,0
+1020,Cajamarca,Frecuente,False,1
+1021,Cajamarca,Frecuente,False,0
+1022,Cajamarca,Frecuente,False,1
+1023,Cajamarca,Ocasional,False,1
+1024,Cajamarca,Frecuente,False,1
+1025,Cajamarca,Ocasional,False,1
+1026,Jesús,Frecuente,False,1
+1027,Cajamarca,Frecuente,False,1
+1028,Cajamarca,Ocasional,False,1
+1029,Cajamarca,Frecuente,False,1
+1030,Cajamarca,Frecuente,False,1
+1031,Cajamarca,Frecuente,False,1
+1032,Cajamarca,Frecuente,False,1
+1033,San Sebastián,Ocasional,False,1
+1034,Baños del Inca,Frecuente,False,1
+1035,Jesús,Frecuente,False,1
+1036,Cajamarca,Frecuente,False,1
+1037,Cajamarca,Ocasional,False,1
+1038,Cajamarca,Frecuente,False,1
+1039,Cajamarca,Ocasional,False,1
+1040,Cajamarca,Frecuente,False,1
+1041,Cajamarca,Frecuente,False,1
+1042,Cajamarca,Ocasional,False,1
+1043,Cajamarca,Frecuente,False,1
+1044,Cajamarca,Frecuente,False,1
+1045,Cajamarca,Ocasional,False,1
+1046,San Sebastián,Frecuente,False,1
+1047,Cajamarca,Frecuente,False,1
+1048,Cajamarca,Frecuente,False,1
+1049,San Sebastián,Frecuente,False,1
+1050,Cajamarca,Frecuente,False,1
+1051,Porcón,Frecuente,False,1
+1052,Cajamarca,Frecuente,False,1
+1053,Cajamarca,Frecuente,False,0
+1054,Baños del Inca,Frecuente,False,1
+1055,Cajamarca,Frecuente,False,1
+1056,San Sebastián,Ocasional,False,1
+1057,Jesús,Frecuente,False,1
+1058,Cajamarca,Ocasional,False,1
+1059,Cajamarca,Ocasional,False,1
+1060,Cajamarca,Ocasional,False,1
+1061,Baños del Inca,Frecuente,False,1
+1062,Baños del Inca,Frecuente,False,0
+1063,Cajamarca,Ocasional,False,0
+1064,Llacanora,Frecuente,False,1
+1065,Cajamarca,Frecuente,False,0
+1066,Cajamarca,Frecuente,False,1
+1067,Cajamarca,Ocasional,False,1
+1068,Cajamarca,Frecuente,False,1
+1069,La Encañada,Frecuente,False,1
+1070,Cajamarca,Frecuente,False,1
+1071,Cajamarca,Frecuente,False,1
+1072,Cajamarca,Frecuente,False,1
+1073,Cajamarca,Ocasional,False,1
+1074,Cajamarca,Frecuente,False,0
+1075,Cajamarca,Frecuente,False,1
+1076,Baños del Inca,Ocasional,False,1
+1077,Porcón,Frecuente,False,1
+1078,Porcón,Ocasional,False,1
+1079,Cajamarca,Frecuente,False,1
+1080,Cajamarca,Frecuente,False,1
+1081,Jesús,Ocasional,False,0
+1082,Cajamarca,Frecuente,False,1
+1083,Cajamarca,Frecuente,False,1
+1084,Cajamarca,Frecuente,False,1
+1085,Cajamarca,Frecuente,False,1
+1086,Cajamarca,Ocasional,False,1
+1087,Cajamarca,Ocasional,False,1
+1088,Cajamarca,Ocasional,False,1
+1089,Cajamarca,Frecuente,False,1
+1090,Cajamarca,Frecuente,False,1
+1091,Cajamarca,Frecuente,False,1
+1092,Cajamarca,Frecuente,False,1
+1093,Cajamarca,Frecuente,False,1
+1094,Cajamarca,Frecuente,False,1
+1095,Baños del Inca,Frecuente,False,1
+1096,Cajamarca,Frecuente,False,1
+1097,Baños del Inca,Frecuente,False,1
+1098,Cajamarca,Frecuente,False,1
+1099,Cajamarca,Frecuente,False,1
+1100,Cajamarca,Frecuente,False,1
+1101,Cajamarca,Frecuente,False,1
+1102,Cajamarca,Frecuente,False,1
+1103,Cajamarca,Ocasional,False,0
+1104,Baños del Inca,Frecuente,False,1
+1105,Porcón,Ocasional,False,1
+1106,Cajamarca,Frecuente,False,1
+1107,Cajamarca,Ocasional,False,1
+1108,Cajamarca,Frecuente,False,1
+1109,San Sebastián,Ocasional,False,1
+1110,Cajamarca,Frecuente,False,1
+1111,Cajamarca,Frecuente,False,1
+1112,Cajamarca,Frecuente,False,1
+1113,Cajamarca,Frecuente,False,1
+1114,San Sebastián,Frecuente,False,0
+1115,Llacanora,Frecuente,False,1
+1116,Cajamarca,Frecuente,False,0
+1117,Cajamarca,Frecuente,False,0
+1118,Cajamarca,Frecuente,False,1
+1119,Cajamarca,Frecuente,False,1
+1120,Llacanora,Frecuente,False,1
+1121,San Sebastián,Ocasional,False,0
+1122,Cajamarca,Ocasional,False,1
+1123,Cajamarca,Frecuente,False,1
+1124,Cajamarca,Frecuente,False,1
+1125,San Sebastián,Frecuente,False,1
+1126,Cajamarca,Frecuente,False,1
+1127,Cajamarca,Ocasional,False,1
+1128,Cajamarca,Ocasional,False,1
+1129,Cajamarca,Ocasional,False,1
+1130,Cajamarca,Frecuente,False,1
+1131,Cajamarca,Ocasional,False,1
+1132,Cajamarca,Frecuente,False,0
+1133,Baños del Inca,Frecuente,False,1
+1134,Cajamarca,Frecuente,False,1
+1135,Cajamarca,Frecuente,False,1
+1136,San Sebastián,Frecuente,False,1
+1137,Cajamarca,Frecuente,False,1
+1138,Cajamarca,Frecuente,False,1
+1139,Cajamarca,Frecuente,False,0
+1140,Cajamarca,Frecuente,False,1
+1141,Baños del Inca,Frecuente,False,1
+1142,Cajamarca,Frecuente,False,1
+1143,Cajamarca,Ocasional,False,0
+1144,Cajamarca,Ocasional,False,1
+1145,Cajamarca,Frecuente,False,1
+1146,Baños del Inca,Frecuente,False,0
+1147,Cajamarca,Frecuente,False,0
+1148,Cajamarca,Frecuente,False,1
+1149,Cajamarca,Frecuente,False,0
+1150,Llacanora,Nuevo,False,0
+1151,Cajamarca,Frecuente,False,1
+1152,Chetilla,Frecuente,False,1
+1153,Cajamarca,Ocasional,False,1
+1154,Cajamarca,Frecuente,False,0
+1155,Cajamarca,Ocasional,False,1
+1156,Cajamarca,Frecuente,False,1
+1157,Cajamarca,Frecuente,False,1
+1158,Cajamarca,Ocasional,False,1
+1159,Cajamarca,Frecuente,False,1
+1160,Cajamarca,Ocasional,False,1
+1161,Llacanora,Frecuente,False,0
+1162,Cajamarca,Frecuente,False,1
+1163,Cajamarca,Frecuente,False,1
+1164,Cajamarca,Frecuente,False,1
+1165,Cajamarca,Nuevo,False,1
+1166,Cajamarca,Frecuente,False,1
+1167,Cajamarca,Frecuente,False,1
+1168,Cajamarca,Frecuente,False,0
+1169,Baños del Inca,Frecuente,False,1
+1170,Cajamarca,Frecuente,False,1
+1171,Baños del Inca,Frecuente,False,1
+1172,Cajamarca,Ocasional,False,1
+1173,Baños del Inca,Frecuente,False,1
+1174,San Sebastián,Frecuente,False,1
+1175,Jesús,Ocasional,False,0
+1176,Baños del Inca,Frecuente,False,1
+1177,Cajamarca,Frecuente,False,0
+1178,Cajamarca,Frecuente,False,0
+1179,Baños del Inca,Frecuente,False,1
+1180,Cajamarca,Frecuente,False,1
+1181,Baños del Inca,Frecuente,False,1
+1182,Baños del Inca,Frecuente,False,1
+1183,San Sebastián,Frecuente,False,0
+1184,Cajamarca,Frecuente,False,0
+1185,Cajamarca,Frecuente,False,0
+1186,Baños del Inca,Ocasional,False,0
+1187,Cajamarca,Frecuente,False,1
+1188,Cajamarca,Frecuente,False,1
+1189,Cajamarca,Ocasional,False,0
+1190,Cajamarca,Frecuente,False,1
+1191,Cajamarca,Frecuente,False,1
+1192,Cajamarca,Ocasional,False,1
+1193,Cajamarca,Frecuente,False,1
+1194,Cajamarca,Nuevo,False,1
+1195,Cajamarca,Nuevo,False,1
+1196,Cajamarca,Ocasional,False,1
+1197,Cajamarca,Frecuente,False,0
+1198,Cajamarca,Ocasional,False,1
+1199,Cajamarca,Frecuente,False,1
+1200,Cajamarca,Frecuente,False,1
+1201,Cajamarca,Frecuente,False,0
+1202,Baños del Inca,Frecuente,False,1
+1203,Cajamarca,Frecuente,False,1
+1204,Cajamarca,Frecuente,False,1
+1205,Cajamarca,Frecuente,False,1
+1206,Cajamarca,Nuevo,False,1
+1207,Baños del Inca,Frecuente,False,1
+1208,Cajamarca,Ocasional,False,1
+1209,Llacanora,Frecuente,False,0
+1210,Jesús,Frecuente,False,0
+1211,Cajamarca,Frecuente,False,0
+1212,Cajamarca,Frecuente,False,1
+1213,Cajamarca,Ocasional,False,0
+1214,Cajamarca,Frecuente,False,1
+1215,Cajamarca,Frecuente,False,1
+1216,San Sebastián,Frecuente,False,1
+1217,Cajamarca,Ocasional,False,0
+1218,Cajamarca,Frecuente,False,0
+1219,Cajamarca,Frecuente,False,1
+1220,Llacanora,Frecuente,False,0
+1221,Cajamarca,Frecuente,False,1
+1222,Cajamarca,Frecuente,False,1
+1223,Cajamarca,Frecuente,False,1
+1224,Cajamarca,Ocasional,False,0
+1225,Cajamarca,Frecuente,False,1
+1226,Cajamarca,Ocasional,False,0
+1227,Cajamarca,Frecuente,False,1
+1228,Cajamarca,Frecuente,False,1
+1229,Cajamarca,Frecuente,False,1
+1230,Cajamarca,Frecuente,False,1
+1231,La Encañada,Frecuente,False,0
+1232,Cajamarca,Frecuente,False,1
+1233,Baños del Inca,Ocasional,False,1
+1234,Cajamarca,Frecuente,False,1
+1235,Cajamarca,Frecuente,False,1
+1236,Cajamarca,Frecuente,False,1
+1237,Cajamarca,Frecuente,False,1
+1238,Baños del Inca,Frecuente,False,1
+1239,Cajamarca,Ocasional,False,1
+1240,Cajamarca,Frecuente,False,1
+1241,Cajamarca,Frecuente,False,1
+1242,Cajamarca,Frecuente,False,0
+1243,Cajamarca,Frecuente,False,1
+1244,Cajamarca,Frecuente,False,1
+1245,Cajamarca,Frecuente,False,0
+1246,Cajamarca,Ocasional,False,1
+1247,Cajamarca,Ocasional,False,1
+1248,Cajamarca,Frecuente,False,1
+1249,Cajamarca,Frecuente,False,1
+1250,Cajamarca,Frecuente,False,1
+1251,Cajamarca,Ocasional,False,1
+1252,Llacanora,Frecuente,False,1
+1253,Cajamarca,Frecuente,False,1
+1254,Cajamarca,Ocasional,False,1
+1255,Cajamarca,Frecuente,False,1
+1256,Cajamarca,Nuevo,False,0
+1257,Cajamarca,Ocasional,False,1
+1258,Cajamarca,Frecuente,False,1
+1259,Baños del Inca,Frecuente,False,0
+1260,Cajamarca,Ocasional,False,1
+1261,San Sebastián,Frecuente,False,1
+1262,Cajamarca,Nuevo,False,1
+1263,Cajamarca,Frecuente,False,0
+1264,Cajamarca,Frecuente,False,1
+1265,Cajamarca,Ocasional,False,1
+1266,San Sebastián,Frecuente,False,1
+1267,Llacanora,Ocasional,False,0
+1268,Cajamarca,Frecuente,False,1
+1269,Cajamarca,Frecuente,False,1
+1270,Baños del Inca,Frecuente,False,1
+1271,Cajamarca,Frecuente,False,1
+1272,Cajamarca,Frecuente,False,1
+1273,Cajamarca,Frecuente,False,1
+1274,Cajamarca,Frecuente,False,1
+1275,Cajamarca,Frecuente,False,0
+1276,Cajamarca,Ocasional,False,1
+1277,Baños del Inca,Frecuente,False,1
+1278,Cajamarca,Frecuente,False,1
+1279,Llacanora,Frecuente,False,1
+1280,Baños del Inca,Ocasional,False,1
+1281,Cajamarca,Frecuente,False,0
+1282,Cajamarca,Ocasional,False,0
+1283,Cajamarca,Frecuente,False,0
+1284,Cajamarca,Frecuente,False,1
+1285,Cajamarca,Ocasional,False,1
+1286,Jesús,Ocasional,False,1
+1287,Cajamarca,Frecuente,False,1
+1288,Cajamarca,Frecuente,False,1
+1289,Cajamarca,Ocasional,False,1
+1290,Cajamarca,Frecuente,False,1
+1291,Cajamarca,Ocasional,False,1
+1292,Cajamarca,Frecuente,False,1
+1293,Cajamarca,Frecuente,False,1
+1294,San Sebastián,Frecuente,False,1
+1295,Jesús,Frecuente,False,1
+1296,Baños del Inca,Frecuente,False,1
+1297,Baños del Inca,Frecuente,False,0
+1298,Cajamarca,Frecuente,False,0
+1299,Cajamarca,Frecuente,False,1
+1300,Cajamarca,Ocasional,False,1
+1301,Cajamarca,Frecuente,False,1
+1302,Cajamarca,Ocasional,False,1
+1303,Cajamarca,Frecuente,False,1
+1304,Llacanora,Frecuente,False,1
+1305,Porcón,Frecuente,False,1
+1306,San Sebastián,Frecuente,False,1
+1307,Cajamarca,Frecuente,False,0
+1308,Cajamarca,Frecuente,False,1
+1309,Cajamarca,Frecuente,False,1
+1310,Cajamarca,Frecuente,False,1
+1311,Cajamarca,Frecuente,False,0
+1312,Cajamarca,Frecuente,False,1
+1313,Cajamarca,Frecuente,False,0
+1314,Cajamarca,Frecuente,False,1
+1315,Cajamarca,Frecuente,False,1
+1316,Porcón,Frecuente,False,1
+1317,Cajamarca,Ocasional,False,1
+1318,Cajamarca,Ocasional,False,1
+1319,Baños del Inca,Frecuente,False,1
+1320,Cajamarca,Frecuente,False,1
+1321,Cajamarca,Frecuente,False,1
+1322,San Sebastián,Ocasional,False,1
+1323,Cajamarca,Frecuente,False,1
+1324,Baños del Inca,Frecuente,False,1
+1325,Jesús,Ocasional,False,1
+1326,La Encañada,Ocasional,False,1
+1327,Cajamarca,Frecuente,False,1
+1328,Cajamarca,Frecuente,False,1
+1329,Cajamarca,Frecuente,False,1
+1330,Cajamarca,Frecuente,False,1
+1331,Cajamarca,Frecuente,False,1
+1332,Cajamarca,Frecuente,False,0
+1333,Cajamarca,Frecuente,False,0
+1334,Cajamarca,Frecuente,False,1
+1335,Cajamarca,Frecuente,False,1
+1336,Cajamarca,Ocasional,False,1
+1337,Llacanora,Ocasional,False,1
+1338,Cajamarca,Frecuente,False,1
+1339,Llacanora,Frecuente,False,1
+1340,Llacanora,Frecuente,False,0
+1341,Cajamarca,Frecuente,False,1
+1342,Cajamarca,Frecuente,False,0
+1343,Cajamarca,Ocasional,False,1
+1344,San Sebastián,Frecuente,False,1
+1345,Cajamarca,Ocasional,False,1
+1346,Cajamarca,Frecuente,False,0
+1347,Cajamarca,Frecuente,False,1
+1348,Cajamarca,Frecuente,False,1
+1349,Cajamarca,Frecuente,False,0
+1350,Cajamarca,Frecuente,False,1
+1351,Cajamarca,Frecuente,False,1
+1352,Cajamarca,Frecuente,False,0
+1353,Cajamarca,Frecuente,False,1
+1354,Cajamarca,Frecuente,False,1
+1355,San Sebastián,Frecuente,False,1
+1356,Jesús,Frecuente,False,1
+1357,Cajamarca,Frecuente,False,1
+1358,Porcón,Frecuente,False,0
+1359,Cajamarca,Frecuente,False,1
+1360,Cajamarca,Ocasional,False,0
+1361,San Sebastián,Nuevo,False,1
+1362,Cajamarca,Frecuente,False,1
+1363,Cajamarca,Frecuente,False,1
+1364,Baños del Inca,Frecuente,False,0
+1365,Cajamarca,Ocasional,False,0
+1366,San Sebastián,Frecuente,False,1
+1367,Cajamarca,Frecuente,False,1
+1368,Cajamarca,Frecuente,False,1
+1369,Cajamarca,Frecuente,False,1
+1370,Baños del Inca,Frecuente,False,1
+1371,Jesús,Frecuente,False,1
+1372,Cajamarca,Frecuente,False,1
+1373,Baños del Inca,Frecuente,False,1
+1374,Cajamarca,Frecuente,False,1
+1375,Cajamarca,Frecuente,False,1
+1376,Cajamarca,Ocasional,False,0
+1377,Llacanora,Frecuente,False,0
+1378,Cajamarca,Frecuente,False,1
+1379,Cajamarca,Frecuente,False,1
+1380,Cajamarca,Frecuente,False,1
+1381,Baños del Inca,Frecuente,False,1
+1382,Chetilla,Frecuente,False,1
+1383,Cajamarca,Frecuente,False,0
+1384,Cajamarca,Frecuente,False,1
+1385,Cajamarca,Frecuente,False,1
+1386,Cajamarca,Frecuente,False,1
+1387,Chetilla,Frecuente,False,1
+1388,Cajamarca,Frecuente,False,1
+1389,Cajamarca,Frecuente,False,0
+1390,Jesús,Frecuente,False,1
+1391,San Sebastián,Frecuente,False,0
+1392,Cajamarca,Ocasional,False,1
+1393,Cajamarca,Frecuente,False,1
+1394,Cajamarca,Frecuente,False,1
+1395,Cajamarca,Nuevo,False,1
+1396,Cajamarca,Ocasional,False,1
+1397,Chetilla,Ocasional,False,1
+1398,Cajamarca,Ocasional,False,1
+1399,Cajamarca,Frecuente,False,1
+1400,Baños del Inca,Frecuente,False,0
+1401,Baños del Inca,Frecuente,False,0
+1402,Baños del Inca,Frecuente,False,1
+1403,Cajamarca,Ocasional,False,1
+1404,Cajamarca,Ocasional,False,1
+1405,Cajamarca,Ocasional,False,1
+1406,Baños del Inca,Frecuente,False,1
+1407,Llacanora,Frecuente,False,1
+1408,Cajamarca,Frecuente,False,1
+1409,Cajamarca,Ocasional,False,1
+1410,Cajamarca,Frecuente,False,1
+1411,Baños del Inca,Frecuente,False,1
+1412,Porcón,Frecuente,False,1
+1413,Cajamarca,Frecuente,False,0
+1414,Cajamarca,Frecuente,False,1
+1415,Porcón,Frecuente,False,1
+1416,Baños del Inca,Frecuente,False,1
+1417,Jesús,Frecuente,False,1
+1418,Baños del Inca,Frecuente,False,1
+1419,Baños del Inca,Frecuente,False,1
+1420,Cajamarca,Frecuente,False,1
+1421,Baños del Inca,Frecuente,False,1
+1422,San Sebastián,Frecuente,False,1
+1423,Baños del Inca,Frecuente,False,1
+1424,Cajamarca,Frecuente,False,1
+1425,Cajamarca,Frecuente,False,1
+1426,Cajamarca,Frecuente,False,0
+1427,San Sebastián,Frecuente,False,0
+1428,Cajamarca,Frecuente,False,1
+1429,Baños del Inca,Frecuente,False,1
+1430,Baños del Inca,Frecuente,False,0
+1431,Cajamarca,Frecuente,False,0
+1432,Cajamarca,Frecuente,False,1
+1433,Cajamarca,Frecuente,False,1
+1434,Cajamarca,Frecuente,False,1
+1435,Cajamarca,Frecuente,False,0
+1436,Baños del Inca,Frecuente,False,1
+1437,San Sebastián,Frecuente,False,1
+1438,Cajamarca,Ocasional,False,1
+1439,Cajamarca,Frecuente,False,0
+1440,Cajamarca,Frecuente,False,1
+1441,Cajamarca,Frecuente,False,0
+1442,Cajamarca,Frecuente,False,1
+1443,Baños del Inca,Frecuente,False,1
+1444,Baños del Inca,Ocasional,False,0
+1445,Cajamarca,Frecuente,False,1
+1446,Cajamarca,Frecuente,False,1
+1447,Cajamarca,Frecuente,False,1
+1448,Cajamarca,Ocasional,False,1
+1449,Baños del Inca,Frecuente,False,1
+1450,Cajamarca,Frecuente,False,0
+1451,Cajamarca,Frecuente,False,1
+1452,Cajamarca,Frecuente,False,1
+1453,Cajamarca,Frecuente,False,1
+1454,Cajamarca,Frecuente,False,1
+1455,Cajamarca,Frecuente,False,1
+1456,Cajamarca,Frecuente,False,1
+1457,Cajamarca,Frecuente,False,1
+1458,Cajamarca,Frecuente,False,1
+1459,Cajamarca,Ocasional,False,1
+1460,Cajamarca,Frecuente,False,1
+1461,Cajamarca,Frecuente,False,0
+1462,Jesús,Frecuente,False,1
+1463,Cajamarca,Frecuente,False,1
+1464,Cajamarca,Frecuente,False,1
+1465,Cajamarca,Frecuente,False,1
+1466,Llacanora,Frecuente,False,1
+1467,Cajamarca,Frecuente,False,1
+1468,Cajamarca,Frecuente,False,1
+1469,Cajamarca,Frecuente,False,1
+1470,Cajamarca,Ocasional,False,1
+1471,Baños del Inca,Frecuente,False,1
+1472,Baños del Inca,Frecuente,False,1
+1473,Cajamarca,Frecuente,False,1
+1474,Cajamarca,Frecuente,False,1
+1475,Cajamarca,Frecuente,False,1
+1476,Jesús,Frecuente,False,0
+1477,Cajamarca,Ocasional,False,1
+1478,San Sebastián,Frecuente,False,1
+1479,La Encañada,Frecuente,False,0
+1480,Cajamarca,Frecuente,False,1
+1481,Chetilla,Frecuente,False,1
+1482,Cajamarca,Frecuente,False,1
+1483,Cajamarca,Frecuente,False,1
+1484,Baños del Inca,Frecuente,False,1
+1485,Cajamarca,Frecuente,False,0
+1486,Cajamarca,Frecuente,False,1
+1487,Cajamarca,Ocasional,False,1
+1488,Cajamarca,Frecuente,False,1
+1489,San Sebastián,Frecuente,False,0
+1490,Cajamarca,Frecuente,False,0
+1491,Cajamarca,Frecuente,False,0
+1492,Baños del Inca,Frecuente,False,0
+1493,Baños del Inca,Frecuente,False,1
+1494,Llacanora,Nuevo,False,1
+1495,Cajamarca,Frecuente,False,1
+1496,Cajamarca,Frecuente,False,0
+1497,Baños del Inca,Frecuente,False,1
+1498,Baños del Inca,Ocasional,False,1
+1499,Cajamarca,Frecuente,False,0
+1500,Cajamarca,Frecuente,False,0
+1501,Cajamarca,Frecuente,False,1
+1502,Cajamarca,Frecuente,False,1
+1503,Cajamarca,Frecuente,False,1
+1504,Cajamarca,Frecuente,False,0
+1505,Llacanora,Frecuente,False,1
+1506,San Sebastián,Frecuente,False,1
+1507,San Sebastián,Frecuente,False,1
+1508,Cajamarca,Frecuente,False,1
+1509,Cajamarca,Frecuente,False,1
+1510,Porcón,Frecuente,False,0
+1511,Jesús,Frecuente,False,1
+1512,La Encañada,Frecuente,False,1
+1513,Cajamarca,Frecuente,False,1
+1514,La Encañada,Frecuente,False,1
+1515,Cajamarca,Frecuente,False,1
+1516,Baños del Inca,Frecuente,False,1
+1517,Cajamarca,Frecuente,False,1
+1518,Cajamarca,Frecuente,False,1
+1519,San Sebastián,Frecuente,False,1
+1520,Cajamarca,Ocasional,False,1
+1521,Cajamarca,Frecuente,False,1
+1522,Cajamarca,Frecuente,False,1
+1523,Cajamarca,Ocasional,False,1
+1524,Cajamarca,Frecuente,False,1
+1525,Cajamarca,Frecuente,False,1
+1526,Jesús,Frecuente,False,1
+1527,Baños del Inca,Frecuente,False,1
+1528,Baños del Inca,Frecuente,False,1
+1529,Cajamarca,Frecuente,False,1
+1530,Cajamarca,Frecuente,False,1
+1531,Cajamarca,Ocasional,False,1
+1532,La Encañada,Frecuente,False,1
+1533,San Sebastián,Ocasional,False,1
+1534,Cajamarca,Frecuente,False,1
+1535,Jesús,Frecuente,False,0
+1536,Cajamarca,Frecuente,False,1
+1537,Baños del Inca,Frecuente,False,1
+1538,Cajamarca,Frecuente,False,1
+1539,Cajamarca,Ocasional,False,1
+1540,Cajamarca,Ocasional,False,1
+1541,Cajamarca,Frecuente,False,1
+1542,Cajamarca,Ocasional,False,1
+1543,Cajamarca,Frecuente,False,1
+1544,Cajamarca,Frecuente,False,1
+1545,Cajamarca,Frecuente,False,0
+1546,Cajamarca,Frecuente,False,0
+1547,Cajamarca,Frecuente,False,0
+1548,Cajamarca,Frecuente,False,1
+1549,Baños del Inca,Ocasional,False,1
+1550,Cajamarca,Ocasional,False,1
+1551,Baños del Inca,Frecuente,False,1
+1552,San Sebastián,Frecuente,False,1
+1553,Cajamarca,Nuevo,False,1
+1554,Cajamarca,Frecuente,False,0
+1555,Cajamarca,Ocasional,False,0
+1556,Cajamarca,Frecuente,False,1
+1557,Cajamarca,Frecuente,False,1
+1558,Cajamarca,Frecuente,False,1
+1559,Baños del Inca,Frecuente,False,1
+1560,Cajamarca,Frecuente,False,1
+1561,Baños del Inca,Frecuente,False,1
+1562,Cajamarca,Frecuente,False,1
+1563,Baños del Inca,Frecuente,False,1
+1564,Cajamarca,Frecuente,False,1
+1565,Cajamarca,Frecuente,False,1
+1566,Cajamarca,Frecuente,False,0
+1567,Cajamarca,Frecuente,False,1
+1568,Baños del Inca,Frecuente,False,0
+1569,Cajamarca,Ocasional,False,1
+1570,Cajamarca,Frecuente,False,0
+1571,Cajamarca,Frecuente,False,1
+1572,Cajamarca,Ocasional,False,1
+1573,Cajamarca,Frecuente,False,1
+1574,Cajamarca,Frecuente,False,1
+1575,Cajamarca,Ocasional,False,0
+1576,Chetilla,Frecuente,False,1
+1577,Cajamarca,Frecuente,False,1
+1578,Cajamarca,Ocasional,False,1
+1579,Cajamarca,Frecuente,False,1
+1580,Cajamarca,Frecuente,False,1
+1581,La Encañada,Frecuente,False,1
+1582,Baños del Inca,Frecuente,False,1
+1583,Cajamarca,Frecuente,False,1
+1584,San Sebastián,Frecuente,False,1
+1585,Jesús,Frecuente,False,1
+1586,Cajamarca,Ocasional,False,1
+1587,Cajamarca,Frecuente,False,1
+1588,Cajamarca,Frecuente,False,1
+1589,Cajamarca,Frecuente,False,1
+1590,Cajamarca,Ocasional,False,1
+1591,Baños del Inca,Frecuente,False,1
+1592,Baños del Inca,Frecuente,False,1
+1593,Cajamarca,Frecuente,False,1
+1594,Cajamarca,Frecuente,False,1
+1595,Cajamarca,Frecuente,False,1
+1596,Cajamarca,Frecuente,False,1
+1597,Cajamarca,Frecuente,False,1
+1598,Baños del Inca,Frecuente,False,1
+1599,San Sebastián,Frecuente,False,1
+1600,Cajamarca,Frecuente,False,0
+1601,San Sebastián,Ocasional,False,0
+1602,Cajamarca,Frecuente,False,1
+1603,Cajamarca,Frecuente,False,0
+1604,Cajamarca,Ocasional,False,1
+1605,Cajamarca,Frecuente,False,1
+1606,Cajamarca,Frecuente,False,1
+1607,Cajamarca,Frecuente,False,1
+1608,Cajamarca,Frecuente,False,1
+1609,Cajamarca,Frecuente,False,1
+1610,Cajamarca,Ocasional,False,1
+1611,Cajamarca,Ocasional,False,1
+1612,Cajamarca,Frecuente,False,1
+1613,Cajamarca,Frecuente,False,1
+1614,Baños del Inca,Frecuente,False,1
+1615,Porcón,Frecuente,False,1
+1616,Cajamarca,Ocasional,False,1
+1617,Cajamarca,Ocasional,False,1
+1618,Cajamarca,Ocasional,False,0
+1619,San Sebastián,Frecuente,False,1
+1620,Cajamarca,Frecuente,False,1
+1621,Cajamarca,Frecuente,False,1
+1622,Baños del Inca,Ocasional,False,1
+1623,Baños del Inca,Frecuente,False,1
+1624,Baños del Inca,Ocasional,False,1
+1625,Cajamarca,Frecuente,False,0
+1626,Llacanora,Frecuente,False,1
+1627,Baños del Inca,Frecuente,False,1
+1628,San Sebastián,Frecuente,False,1
+1629,Cajamarca,Frecuente,False,1
+1630,Cajamarca,Frecuente,False,0
+1631,Baños del Inca,Frecuente,False,1
+1632,Cajamarca,Frecuente,False,1
+1633,San Sebastián,Frecuente,False,1
+1634,Baños del Inca,Frecuente,False,1
+1635,Cajamarca,Frecuente,False,1
+1636,San Sebastián,Frecuente,False,1
+1637,Cajamarca,Frecuente,False,1
+1638,Cajamarca,Frecuente,False,1
+1639,Cajamarca,Frecuente,False,1
+1640,Cajamarca,Ocasional,False,1
+1641,Cajamarca,Frecuente,False,1
+1642,Cajamarca,Frecuente,False,1
+1643,La Encañada,Frecuente,False,0
+1644,Baños del Inca,Frecuente,False,0
+1645,Cajamarca,Frecuente,False,0
+1646,Cajamarca,Frecuente,False,1
+1647,Baños del Inca,Frecuente,False,1
+1648,Baños del Inca,Frecuente,False,1
+1649,Cajamarca,Frecuente,False,1
+1650,Cajamarca,Frecuente,False,1
+1651,Cajamarca,Frecuente,False,1
+1652,Cajamarca,Frecuente,False,1
+1653,Cajamarca,Frecuente,False,1
+1654,Cajamarca,Frecuente,False,1
+1655,Cajamarca,Frecuente,False,1
+1656,Cajamarca,Frecuente,False,0
+1657,Cajamarca,Frecuente,False,1
+1658,Cajamarca,Frecuente,False,1
+1659,La Encañada,Frecuente,False,1
+1660,Cajamarca,Ocasional,False,1
+1661,Baños del Inca,Ocasional,False,0
+1662,Cajamarca,Frecuente,False,1
+1663,Cajamarca,Frecuente,False,1
+1664,Cajamarca,Frecuente,False,1
+1665,Baños del Inca,Ocasional,False,1
+1666,Cajamarca,Frecuente,False,1
+1667,Cajamarca,Frecuente,False,1
+1668,San Sebastián,Frecuente,False,1
+1669,Cajamarca,Ocasional,False,1
+1670,Cajamarca,Ocasional,False,1
+1671,Llacanora,Frecuente,False,1
+1672,Cajamarca,Ocasional,False,0
+1673,Jesús,Ocasional,False,1
+1674,Cajamarca,Frecuente,False,1
+1675,Cajamarca,Ocasional,False,1
+1676,Cajamarca,Frecuente,False,1
+1677,Cajamarca,Ocasional,False,1
+1678,Cajamarca,Ocasional,False,1
+1679,Cajamarca,Ocasional,False,1
+1680,Baños del Inca,Frecuente,False,1
+1681,Cajamarca,Frecuente,False,1
+1682,Cajamarca,Frecuente,False,1
+1683,Cajamarca,Frecuente,False,0
+1684,Cajamarca,Frecuente,False,1
+1685,Jesús,Frecuente,False,0
+1686,Cajamarca,Ocasional,False,1
+1687,Cajamarca,Frecuente,False,0
+1688,Cajamarca,Frecuente,False,1
+1689,Cajamarca,Frecuente,False,1
+1690,Cajamarca,Frecuente,False,1
+1691,Cajamarca,Frecuente,False,0
+1692,Cajamarca,Frecuente,False,1
+1693,Cajamarca,Frecuente,False,1
+1694,Cajamarca,Frecuente,False,1
+1695,Cajamarca,Frecuente,False,1
+1696,Cajamarca,Frecuente,False,1
+1697,Cajamarca,Frecuente,False,1
+1698,Cajamarca,Frecuente,False,0
+1699,Cajamarca,Frecuente,False,1
+1700,Llacanora,Frecuente,False,1
+1701,La Encañada,Frecuente,False,0
+1702,Cajamarca,Ocasional,False,1
+1703,Cajamarca,Frecuente,False,1
+1704,Cajamarca,Frecuente,False,1
+1705,Llacanora,Ocasional,False,1
+1706,Cajamarca,Frecuente,False,1
+1707,Cajamarca,Frecuente,False,1
+1708,Cajamarca,Frecuente,False,1
+1709,San Sebastián,Frecuente,False,1
+1710,Cajamarca,Frecuente,False,1
+1711,Baños del Inca,Ocasional,False,1
+1712,Cajamarca,Frecuente,False,1
+1713,Cajamarca,Frecuente,False,1
+1714,Cajamarca,Frecuente,False,0
+1715,Cajamarca,Frecuente,False,1
+1716,Cajamarca,Frecuente,False,1
+1717,Cajamarca,Frecuente,False,1
+1718,Baños del Inca,Frecuente,False,1
+1719,Cajamarca,Frecuente,False,0
+1720,Cajamarca,Frecuente,False,1
+1721,Cajamarca,Frecuente,False,1
+1722,Llacanora,Frecuente,False,1
+1723,Cajamarca,Ocasional,False,1
+1724,San Sebastián,Frecuente,False,1
+1725,Cajamarca,Frecuente,False,1
+1726,Cajamarca,Frecuente,False,1
+1727,Cajamarca,Frecuente,False,1
+1728,Cajamarca,Frecuente,False,1
+1729,Llacanora,Frecuente,False,1
+1730,Cajamarca,Frecuente,False,1
+1731,Cajamarca,Ocasional,False,1
+1732,Cajamarca,Frecuente,False,1
+1733,La Encañada,Frecuente,False,1
+1734,Cajamarca,Ocasional,False,1
+1735,Cajamarca,Frecuente,False,1
+1736,Baños del Inca,Ocasional,False,1
+1737,Cajamarca,Frecuente,False,1
+1738,Jesús,Frecuente,False,1
+1739,Cajamarca,Frecuente,False,1
+1740,Cajamarca,Frecuente,False,1
+1741,Cajamarca,Frecuente,False,1
+1742,Cajamarca,Frecuente,False,1
+1743,Cajamarca,Frecuente,False,1
+1744,Cajamarca,Frecuente,False,1
+1745,Cajamarca,Ocasional,False,1
+1746,Llacanora,Ocasional,False,1
+1747,Cajamarca,Frecuente,False,1
+1748,Cajamarca,Ocasional,False,1
+1749,Cajamarca,Frecuente,False,1
+1750,Cajamarca,Frecuente,False,0
+1751,Cajamarca,Frecuente,False,1
+1752,Baños del Inca,Frecuente,False,1
+1753,Cajamarca,Frecuente,False,0
+1754,Cajamarca,Frecuente,False,1
+1755,Cajamarca,Frecuente,False,1
+1756,Cajamarca,Frecuente,False,1
+1757,Cajamarca,Ocasional,False,1
+1758,Cajamarca,Frecuente,False,0
+1759,Cajamarca,Ocasional,False,1
+1760,Cajamarca,Frecuente,False,1
+1761,Cajamarca,Frecuente,False,0
+1762,Cajamarca,Frecuente,False,1
+1763,Cajamarca,Frecuente,False,0
+1764,Cajamarca,Ocasional,False,1
+1765,Llacanora,Ocasional,False,1
+1766,Cajamarca,Frecuente,False,0
+1767,San Sebastián,Frecuente,False,0
+1768,Baños del Inca,Frecuente,False,1
+1769,Cajamarca,Frecuente,False,0
+1770,Cajamarca,Frecuente,False,1
+1771,San Sebastián,Ocasional,False,1
+1772,Cajamarca,Frecuente,False,1
+1773,Cajamarca,Frecuente,False,1
+1774,Cajamarca,Frecuente,False,1
+1775,Cajamarca,Frecuente,False,1
+1776,Cajamarca,Frecuente,False,1
+1777,Llacanora,Frecuente,False,0
+1778,San Sebastián,Frecuente,False,1
+1779,Cajamarca,Ocasional,False,1
+1780,Cajamarca,Frecuente,False,1
+1781,San Sebastián,Ocasional,False,1
+1782,San Sebastián,Frecuente,False,1
+1783,Cajamarca,Ocasional,False,1
+1784,Cajamarca,Nuevo,False,1
+1785,Cajamarca,Frecuente,False,1
+1786,Cajamarca,Ocasional,False,1
+1787,Cajamarca,Frecuente,False,1
+1788,Baños del Inca,Frecuente,False,1
+1789,Cajamarca,Frecuente,False,1
+1790,Baños del Inca,Frecuente,False,1
+1791,Cajamarca,Ocasional,False,1
+1792,Cajamarca,Ocasional,False,1
+1793,Baños del Inca,Frecuente,False,1
+1794,Cajamarca,Ocasional,False,1
+1795,Baños del Inca,Frecuente,False,0
+1796,Cajamarca,Ocasional,False,1
+1797,Cajamarca,Ocasional,False,1
+1798,Cajamarca,Ocasional,False,1
+1799,Cajamarca,Ocasional,False,1
+1800,San Sebastián,Frecuente,False,1
+1801,San Sebastián,Frecuente,False,1
+1802,Baños del Inca,Frecuente,False,1
+1803,Cajamarca,Ocasional,False,1
+1804,Cajamarca,Frecuente,False,1
+1805,Cajamarca,Frecuente,False,1
+1806,Cajamarca,Frecuente,False,0
+1807,Cajamarca,Frecuente,False,1
+1808,Baños del Inca,Frecuente,False,1
+1809,Cajamarca,Ocasional,False,0
+1810,Porcón,Ocasional,False,1
+1811,Cajamarca,Ocasional,False,1
+1812,Cajamarca,Frecuente,False,1
+1813,Cajamarca,Frecuente,False,1
+1814,Chetilla,Frecuente,False,1
+1815,Llacanora,Frecuente,False,1
+1816,Cajamarca,Frecuente,False,1
+1817,Cajamarca,Frecuente,False,1
+1818,Cajamarca,Frecuente,False,1
+1819,Cajamarca,Frecuente,False,1
+1820,Cajamarca,Frecuente,False,1
+1821,Baños del Inca,Frecuente,False,1
+1822,Cajamarca,Frecuente,False,1
+1823,Llacanora,Frecuente,False,1
+1824,Baños del Inca,Frecuente,False,1
+1825,Porcón,Frecuente,False,1
+1826,Cajamarca,Frecuente,False,1
+1827,Cajamarca,Frecuente,False,1
+1828,Cajamarca,Frecuente,False,1
+1829,Cajamarca,Frecuente,False,1
+1830,Baños del Inca,Frecuente,False,0
+1831,Cajamarca,Frecuente,False,1
+1832,Baños del Inca,Frecuente,False,1
+1833,San Sebastián,Frecuente,False,1
+1834,Cajamarca,Frecuente,False,1
+1835,Cajamarca,Ocasional,False,1
+1836,Cajamarca,Frecuente,False,1
+1837,Cajamarca,Frecuente,False,1
+1838,Cajamarca,Ocasional,False,1
+1839,Cajamarca,Frecuente,False,1
+1840,Cajamarca,Frecuente,False,0
+1841,Baños del Inca,Frecuente,False,1
+1842,Cajamarca,Frecuente,False,1
+1843,Cajamarca,Ocasional,False,0
+1844,Cajamarca,Ocasional,False,1
+1845,Cajamarca,Frecuente,False,0
+1846,Cajamarca,Frecuente,False,1
+1847,Baños del Inca,Ocasional,False,1
+1848,Cajamarca,Frecuente,False,1
+1849,San Sebastián,Frecuente,False,1
+1850,Cajamarca,Frecuente,False,0
+1851,Cajamarca,Frecuente,False,1
+1852,Cajamarca,Frecuente,False,1
+1853,San Sebastián,Frecuente,False,1
+1854,Cajamarca,Frecuente,False,1
+1855,Cajamarca,Frecuente,False,1
+1856,Cajamarca,Frecuente,False,1
+1857,Cajamarca,Frecuente,False,0
+1858,Cajamarca,Frecuente,False,1
+1859,Baños del Inca,Frecuente,False,1
+1860,Cajamarca,Frecuente,False,1
+1861,Cajamarca,Frecuente,False,1
+1862,Cajamarca,Frecuente,False,1
+1863,Cajamarca,Frecuente,False,1
+1864,Jesús,Frecuente,False,1
+1865,Cajamarca,Frecuente,False,1
+1866,Cajamarca,Ocasional,False,1
+1867,Baños del Inca,Frecuente,False,1
+1868,Llacanora,Frecuente,False,1
+1869,Cajamarca,Frecuente,False,1
+1870,Cajamarca,Frecuente,False,1
+1871,Cajamarca,Ocasional,False,1
+1872,San Sebastián,Frecuente,False,1
+1873,Cajamarca,Frecuente,False,1
+1874,Cajamarca,Frecuente,False,1
+1875,Cajamarca,Frecuente,False,0
+1876,Cajamarca,Frecuente,False,1
+1877,Chetilla,Frecuente,False,0
+1878,Cajamarca,Frecuente,False,1
+1879,Cajamarca,Frecuente,False,1
+1880,Cajamarca,Ocasional,False,0
+1881,Cajamarca,Ocasional,False,0
+1882,Cajamarca,Frecuente,False,1
+1883,Cajamarca,Frecuente,False,1
+1884,Cajamarca,Frecuente,False,1
+1885,Cajamarca,Frecuente,False,1
+1886,Cajamarca,Frecuente,False,1
+1887,Cajamarca,Frecuente,False,0
+1888,Cajamarca,Frecuente,False,0
+1889,Cajamarca,Frecuente,False,1
+1890,Cajamarca,Frecuente,False,1
+1891,Cajamarca,Ocasional,False,1
+1892,San Sebastián,Frecuente,False,1
+1893,Baños del Inca,Frecuente,False,1
+1894,Cajamarca,Frecuente,False,1
+1895,Cajamarca,Frecuente,False,1
+1896,Baños del Inca,Frecuente,False,1
+1897,Cajamarca,Ocasional,False,1
+1898,Cajamarca,Frecuente,False,1
+1899,Cajamarca,Frecuente,False,1
+1900,Cajamarca,Frecuente,False,1
+1901,Baños del Inca,Frecuente,False,1
+1902,Cajamarca,Frecuente,False,1
+1903,Cajamarca,Frecuente,False,1
+1904,Cajamarca,Frecuente,False,1
+1905,Baños del Inca,Frecuente,False,1
+1906,Cajamarca,Frecuente,False,1
+1907,Cajamarca,Ocasional,False,1
+1908,Baños del Inca,Frecuente,False,0
+1909,La Encañada,Frecuente,False,1
+1910,Cajamarca,Frecuente,False,1
+1911,Cajamarca,Ocasional,False,1
+1912,Baños del Inca,Frecuente,False,1
+1913,San Sebastián,Ocasional,False,1
+1914,Llacanora,Frecuente,False,1
+1915,Cajamarca,Frecuente,False,1
+1916,Cajamarca,Frecuente,False,1
+1917,Cajamarca,Frecuente,False,0
+1918,Cajamarca,Frecuente,False,1
+1919,Cajamarca,Frecuente,False,1
+1920,Cajamarca,Frecuente,False,1
+1921,Cajamarca,Ocasional,False,1
+1922,Jesús,Frecuente,False,1
+1923,Jesús,Frecuente,False,1
+1924,Cajamarca,Frecuente,False,0
+1925,Cajamarca,Frecuente,False,1
+1926,Baños del Inca,Frecuente,False,1
+1927,Baños del Inca,Ocasional,False,1
+1928,Cajamarca,Nuevo,False,1
+1929,Jesús,Frecuente,False,1
+1930,Cajamarca,Ocasional,False,1
+1931,Baños del Inca,Frecuente,False,1
+1932,Baños del Inca,Frecuente,False,1
+1933,Cajamarca,Frecuente,False,1
+1934,Baños del Inca,Frecuente,False,1
+1935,Cajamarca,Frecuente,False,0
+1936,San Sebastián,Frecuente,False,1
+1937,Chetilla,Frecuente,False,1
+1938,Cajamarca,Frecuente,False,1
+1939,Cajamarca,Frecuente,False,1
+1940,Cajamarca,Frecuente,False,1
+1941,Cajamarca,Frecuente,False,1
+1942,Cajamarca,Frecuente,False,1
+1943,Baños del Inca,Ocasional,False,1
+1944,Cajamarca,Frecuente,False,0
+1945,Cajamarca,Frecuente,False,1
+1946,Cajamarca,Ocasional,False,1
+1947,Cajamarca,Frecuente,False,0
+1948,Cajamarca,Frecuente,False,1
+1949,Cajamarca,Frecuente,False,1
+1950,Baños del Inca,Ocasional,False,1
+1951,Cajamarca,Ocasional,False,1
+1952,Baños del Inca,Frecuente,False,1
+1953,Cajamarca,Frecuente,False,1
+1954,Cajamarca,Ocasional,False,1
+1955,San Sebastián,Frecuente,False,1
+1956,Cajamarca,Frecuente,False,1
+1957,Cajamarca,Frecuente,False,1
+1958,Chetilla,Frecuente,False,1
+1959,Cajamarca,Frecuente,False,1
+1960,La Encañada,Frecuente,False,1
+1961,Porcón,Frecuente,False,1
+1962,Cajamarca,Frecuente,False,1
+1963,Baños del Inca,Frecuente,False,1
+1964,Cajamarca,Frecuente,False,1
+1965,Cajamarca,Frecuente,False,1
+1966,San Sebastián,Frecuente,False,1
+1967,Cajamarca,Frecuente,False,1
+1968,Cajamarca,Ocasional,False,1
+1969,San Sebastián,Frecuente,False,0
+1970,Cajamarca,Frecuente,False,1
+1971,Cajamarca,Frecuente,False,0
+1972,Baños del Inca,Ocasional,False,1
+1973,Cajamarca,Frecuente,False,1
+1974,Cajamarca,Ocasional,False,1
+1975,Baños del Inca,Frecuente,False,1
+1976,Cajamarca,Frecuente,False,1
+1977,Baños del Inca,Frecuente,False,1
+1978,Cajamarca,Frecuente,False,1
+1979,Cajamarca,Frecuente,False,0
+1980,Cajamarca,Frecuente,False,0
+1981,Cajamarca,Frecuente,False,1
+1982,La Encañada,Frecuente,False,1
+1983,Cajamarca,Frecuente,False,1
+1984,Cajamarca,Frecuente,False,1
+1985,Cajamarca,Frecuente,False,0
+1986,Cajamarca,Ocasional,False,1
+1987,Cajamarca,Frecuente,False,1
+1988,Cajamarca,Frecuente,False,1
+1989,Cajamarca,Frecuente,False,0
+1990,Cajamarca,Frecuente,False,0
+1991,Cajamarca,Frecuente,False,0
+1992,Cajamarca,Ocasional,False,0
+1993,Cajamarca,Ocasional,False,1
+1994,Cajamarca,Frecuente,False,1
+1995,San Sebastián,Frecuente,False,1
+1996,Jesús,Ocasional,False,0
+1997,Baños del Inca,Ocasional,False,1
+1998,Baños del Inca,Frecuente,False,1
+1999,La Encañada,Frecuente,False,0
+2000,Cajamarca,Frecuente,False,1
+2001,Cajamarca,Frecuente,False,1
+2002,Porcón,Frecuente,False,1
+2003,Llacanora,Frecuente,False,1
+2004,Baños del Inca,Frecuente,False,1
+2005,Cajamarca,Frecuente,False,1
+2006,Baños del Inca,Frecuente,False,1
+2007,Cajamarca,Frecuente,False,1
+2008,Cajamarca,Frecuente,False,1
+2009,Cajamarca,Ocasional,False,0
+2010,Cajamarca,Frecuente,False,0
+2011,Cajamarca,Frecuente,False,0
+2012,Baños del Inca,Frecuente,False,1
+2013,Cajamarca,Frecuente,False,1
+2014,Cajamarca,Ocasional,False,0
+2015,Cajamarca,Frecuente,False,1
+2016,Cajamarca,Frecuente,False,1
+2017,San Sebastián,Ocasional,False,1
+2018,Cajamarca,Frecuente,False,1
+2019,Cajamarca,Frecuente,False,1
+2020,Cajamarca,Frecuente,False,1
+2021,Cajamarca,Ocasional,False,1
+2022,Baños del Inca,Frecuente,False,0
+2023,Llacanora,Frecuente,False,1
+2024,Cajamarca,Frecuente,False,0
+2025,Llacanora,Ocasional,False,1
+2026,Cajamarca,Frecuente,False,1
+2027,Baños del Inca,Frecuente,False,1
+2028,Cajamarca,Frecuente,False,1
+2029,Cajamarca,Frecuente,False,1
+2030,Cajamarca,Frecuente,False,0
+2031,Cajamarca,Frecuente,False,1
+2032,Baños del Inca,Frecuente,False,1
+2033,Cajamarca,Frecuente,False,1
+2034,Cajamarca,Frecuente,False,1
+2035,Llacanora,Frecuente,False,1
+2036,San Sebastián,Frecuente,False,0
+2037,Cajamarca,Frecuente,False,1
+2038,Cajamarca,Frecuente,False,1
+2039,Baños del Inca,Frecuente,False,1
+2040,Cajamarca,Frecuente,False,1
+2041,Cajamarca,Ocasional,False,1
+2042,Baños del Inca,Ocasional,False,1
+2043,Cajamarca,Frecuente,False,0
+2044,Cajamarca,Frecuente,False,1
+2045,Porcón,Frecuente,False,0
+2046,Cajamarca,Frecuente,False,1
+2047,Cajamarca,Frecuente,False,1
+2048,Cajamarca,Frecuente,False,1
+2049,Cajamarca,Frecuente,False,1
+2050,Cajamarca,Frecuente,False,1
+2051,Cajamarca,Ocasional,False,1
+2052,Cajamarca,Frecuente,False,1
+2053,Cajamarca,Frecuente,False,1
+2054,Cajamarca,Frecuente,False,1
+2055,Cajamarca,Ocasional,False,1
+2056,Cajamarca,Frecuente,False,1
+2057,Cajamarca,Frecuente,False,1
+2058,La Encañada,Nuevo,False,1
+2059,Llacanora,Frecuente,False,1
+2060,Cajamarca,Frecuente,False,0
+2061,Cajamarca,Frecuente,False,1
+2062,Llacanora,Frecuente,False,1
+2063,Jesús,Frecuente,False,1
+2064,Cajamarca,Frecuente,False,1
+2065,Cajamarca,Ocasional,False,1
+2066,Cajamarca,Frecuente,False,0
+2067,Cajamarca,Frecuente,False,1
+2068,Cajamarca,Frecuente,False,1
+2069,Jesús,Frecuente,False,1
+2070,Jesús,Frecuente,False,1
+2071,Baños del Inca,Frecuente,False,0
+2072,Cajamarca,Frecuente,False,1
+2073,Cajamarca,Frecuente,False,1
+2074,Baños del Inca,Frecuente,False,1
+2075,Cajamarca,Frecuente,False,1
+2076,Cajamarca,Frecuente,False,1
+2077,Cajamarca,Frecuente,False,0
+2078,Cajamarca,Ocasional,False,1
+2079,Cajamarca,Ocasional,False,1
+2080,Cajamarca,Ocasional,False,1
+2081,Cajamarca,Frecuente,False,1
+2082,Cajamarca,Frecuente,False,0
+2083,Cajamarca,Frecuente,False,1
+2084,Cajamarca,Frecuente,False,0
+2085,Cajamarca,Frecuente,False,1
+2086,Cajamarca,Frecuente,False,1
+2087,Cajamarca,Ocasional,False,1
+2088,Cajamarca,Frecuente,False,1
+2089,Baños del Inca,Ocasional,False,1
+2090,Cajamarca,Frecuente,False,1
+2091,Cajamarca,Frecuente,False,0
+2092,Cajamarca,Frecuente,False,1
+2093,Cajamarca,Frecuente,False,1
+2094,Cajamarca,Frecuente,False,1
+2095,San Sebastián,Ocasional,False,1
+2096,Baños del Inca,Frecuente,False,1
+2097,Jesús,Frecuente,False,1
+2098,Cajamarca,Frecuente,False,1
+2099,Cajamarca,Frecuente,False,0
+2100,Cajamarca,Frecuente,False,1
+2101,Baños del Inca,Frecuente,False,1
+2102,Cajamarca,Frecuente,False,1
+2103,La Encañada,Frecuente,False,1
+2104,Cajamarca,Ocasional,False,1
+2105,Cajamarca,Frecuente,False,1
+2106,Cajamarca,Frecuente,False,0
+2107,Baños del Inca,Frecuente,False,1
+2108,Cajamarca,Frecuente,False,1
+2109,Cajamarca,Frecuente,False,0
+2110,Cajamarca,Frecuente,False,1
+2111,Cajamarca,Ocasional,False,1
+2112,Cajamarca,Frecuente,False,1
+2113,Cajamarca,Frecuente,False,0
+2114,Cajamarca,Frecuente,False,0
+2115,Cajamarca,Frecuente,False,0
+2116,Cajamarca,Frecuente,False,1
+2117,Cajamarca,Frecuente,False,1
+2118,Cajamarca,Frecuente,False,1
+2119,Cajamarca,Frecuente,False,1
+2120,San Sebastián,Frecuente,False,1
+2121,Cajamarca,Frecuente,False,1
+2122,Cajamarca,Ocasional,False,1
+2123,Cajamarca,Frecuente,False,0
+2124,Cajamarca,Frecuente,False,1
+2125,Cajamarca,Frecuente,False,0
+2126,Cajamarca,Ocasional,False,1
+2127,Cajamarca,Frecuente,False,0
+2128,Cajamarca,Frecuente,False,1
+2129,Baños del Inca,Frecuente,False,0
+2130,Cajamarca,Frecuente,False,1
+2131,Cajamarca,Ocasional,False,0
+2132,Cajamarca,Ocasional,False,1
+2133,Cajamarca,Frecuente,False,1
+2134,Cajamarca,Frecuente,False,1
+2135,Cajamarca,Frecuente,False,1
+2136,Cajamarca,Frecuente,False,1
+2137,Chetilla,Frecuente,False,1
+2138,Cajamarca,Frecuente,False,1
+2139,Cajamarca,Frecuente,False,0
+2140,Cajamarca,Frecuente,False,1
+2141,Cajamarca,Frecuente,False,1
+2142,San Sebastián,Frecuente,False,0
+2143,Cajamarca,Frecuente,False,1
+2144,Cajamarca,Frecuente,False,1
+2145,Cajamarca,Frecuente,False,1
+2146,Jesús,Frecuente,False,1
+2147,Cajamarca,Frecuente,False,1
+2148,Cajamarca,Frecuente,False,1
+2149,Cajamarca,Frecuente,False,1
+2150,Cajamarca,Frecuente,False,1
+2151,Cajamarca,Frecuente,False,0
+2152,Cajamarca,Frecuente,False,1
+2153,Cajamarca,Ocasional,False,1
+2154,Cajamarca,Frecuente,False,1
+2155,Cajamarca,Ocasional,False,1
+2156,Porcón,Frecuente,False,0
+2157,Cajamarca,Frecuente,False,1
+2158,Cajamarca,Frecuente,False,1
+2159,Cajamarca,Frecuente,False,1
+2160,Llacanora,Frecuente,False,1
+2161,Cajamarca,Frecuente,False,1
+2162,Baños del Inca,Frecuente,False,1
+2163,Cajamarca,Ocasional,False,1
+2164,Cajamarca,Frecuente,False,1
+2165,Cajamarca,Frecuente,False,1
+2166,Cajamarca,Ocasional,False,1
+2167,Cajamarca,Frecuente,False,1
+2168,Cajamarca,Ocasional,False,0
+2169,Cajamarca,Frecuente,False,1
+2170,Cajamarca,Frecuente,False,0
+2171,Cajamarca,Frecuente,False,0
+2172,Cajamarca,Frecuente,False,1
+2173,Cajamarca,Ocasional,False,1
+2174,Cajamarca,Frecuente,False,1
+2175,San Sebastián,Frecuente,False,1
+2176,La Encañada,Ocasional,False,1
+2177,Cajamarca,Frecuente,False,1
+2178,Cajamarca,Frecuente,False,1
+2179,Cajamarca,Frecuente,False,1
+2180,Cajamarca,Frecuente,False,1
+2181,Cajamarca,Frecuente,False,1
+2182,Cajamarca,Frecuente,False,1
+2183,Cajamarca,Frecuente,False,1
+2184,Cajamarca,Frecuente,False,0
+2185,La Encañada,Frecuente,False,1
+2186,Cajamarca,Frecuente,False,1
+2187,Cajamarca,Ocasional,False,1
+2188,Llacanora,Ocasional,False,1
+2189,Cajamarca,Frecuente,False,1
+2190,Porcón,Frecuente,False,1
+2191,Cajamarca,Frecuente,False,1
+2192,Cajamarca,Frecuente,False,1
+2193,Cajamarca,Ocasional,False,1
+2194,Cajamarca,Ocasional,False,1
+2195,Cajamarca,Frecuente,False,1
+2196,Baños del Inca,Frecuente,False,1
+2197,Llacanora,Frecuente,False,1
+2198,Baños del Inca,Ocasional,False,1
+2199,Cajamarca,Frecuente,False,1
+2200,Baños del Inca,Frecuente,False,1
+2201,Cajamarca,Frecuente,False,1
+2202,Cajamarca,Frecuente,False,1
+2203,Baños del Inca,Frecuente,False,1
+2204,Cajamarca,Frecuente,False,1
+2205,Chetilla,Sin compras,False,1
+2206,Cajamarca,Ocasional,False,1
+2207,Cajamarca,Frecuente,False,1
+2208,Cajamarca,Frecuente,False,1
+2209,Cajamarca,Frecuente,False,1
+2210,Cajamarca,Frecuente,False,1
+2211,Cajamarca,Frecuente,False,1
+2212,Cajamarca,Frecuente,False,1
+2213,Cajamarca,Frecuente,False,1
+2214,Cajamarca,Frecuente,False,0
+2215,Cajamarca,Frecuente,False,1
+2216,Llacanora,Ocasional,False,1
+2217,Baños del Inca,Ocasional,False,1
+2218,Cajamarca,Ocasional,False,1
+2219,Cajamarca,Ocasional,False,0
+2220,Cajamarca,Ocasional,False,1
+2221,Cajamarca,Ocasional,False,1
+2222,Cajamarca,Frecuente,False,1
+2223,Cajamarca,Frecuente,False,1
+2224,Cajamarca,Frecuente,False,0
+2225,La Encañada,Ocasional,False,0
+2226,Cajamarca,Frecuente,False,1
+2227,Jesús,Frecuente,False,1
+2228,Cajamarca,Ocasional,False,1
+2229,Cajamarca,Frecuente,False,1
+2230,Cajamarca,Ocasional,False,1
+2231,Cajamarca,Ocasional,False,1
+2232,Chetilla,Ocasional,False,1
+2233,Baños del Inca,Ocasional,False,1
+2234,San Sebastián,Ocasional,False,1
+2235,San Sebastián,Frecuente,False,1
+2236,Cajamarca,Frecuente,False,0
+2237,Cajamarca,Frecuente,False,1
+2238,Cajamarca,Frecuente,False,0
+2239,Cajamarca,Frecuente,False,1
+2240,Cajamarca,Frecuente,False,1
+2241,Baños del Inca,Frecuente,False,1
+2242,Cajamarca,Frecuente,False,1
+2243,Baños del Inca,Frecuente,False,1
+2244,San Sebastián,Frecuente,False,1
+2245,Porcón,Frecuente,False,1
+2246,La Encañada,Frecuente,False,1
+2247,Baños del Inca,Frecuente,False,1
+2248,Cajamarca,Frecuente,False,1
+2249,Cajamarca,Ocasional,False,1
+2250,La Encañada,Frecuente,False,0
+2251,Cajamarca,Frecuente,False,1
+2252,La Encañada,Frecuente,False,1
+2253,Cajamarca,Frecuente,False,0
+2254,San Sebastián,Frecuente,False,1
+2255,Cajamarca,Frecuente,False,1
+2256,Baños del Inca,Ocasional,False,0
+2257,San Sebastián,Frecuente,False,0
+2258,Cajamarca,Frecuente,False,1
+2259,Cajamarca,Frecuente,False,1
+2260,Cajamarca,Frecuente,False,1
+2261,Llacanora,Frecuente,False,1
+2262,Llacanora,Frecuente,False,1
+2263,Cajamarca,Frecuente,False,1
+2264,San Sebastián,Frecuente,False,1
+2265,San Sebastián,Frecuente,False,1
+2266,Cajamarca,Frecuente,False,1
+2267,Baños del Inca,Frecuente,False,1
+2268,Cajamarca,Frecuente,False,1
+2269,Cajamarca,Frecuente,False,0
+2270,Baños del Inca,Frecuente,False,1
+2271,Cajamarca,Ocasional,False,1
+2272,Chetilla,Frecuente,False,1
+2273,Cajamarca,Frecuente,False,0
+2274,Cajamarca,Frecuente,False,1
+2275,Cajamarca,Frecuente,False,1
+2276,Cajamarca,Frecuente,False,1
+2277,Cajamarca,Frecuente,False,1
+2278,Porcón,Ocasional,False,0
+2279,San Sebastián,Frecuente,False,1
+2280,Cajamarca,Frecuente,False,1
+2281,Cajamarca,Frecuente,False,1
+2282,Cajamarca,Frecuente,False,1
+2283,Cajamarca,Frecuente,False,0
+2284,Cajamarca,Ocasional,False,1
+2285,San Sebastián,Frecuente,False,1
+2286,Cajamarca,Frecuente,False,1
+2287,Cajamarca,Ocasional,False,1
+2288,San Sebastián,Frecuente,False,1
+2289,Cajamarca,Frecuente,False,1
+2290,Porcón,Frecuente,False,1
+2291,Cajamarca,Frecuente,False,0
+2292,Cajamarca,Frecuente,False,1
+2293,Cajamarca,Frecuente,False,1
+2294,Cajamarca,Frecuente,False,1
+2295,Cajamarca,Frecuente,False,1
+2296,Cajamarca,Frecuente,False,1
+2297,Cajamarca,Frecuente,False,1
+2298,Llacanora,Frecuente,False,1
+2299,Baños del Inca,Frecuente,False,1
+2300,Cajamarca,Frecuente,False,1
+2301,Cajamarca,Frecuente,False,1
+2302,Llacanora,Frecuente,False,1
+2303,Cajamarca,Frecuente,False,1
+2304,Cajamarca,Frecuente,False,1
+2305,Cajamarca,Frecuente,False,1
+2306,Cajamarca,Ocasional,False,1
+2307,Cajamarca,Frecuente,False,0
+2308,Cajamarca,Frecuente,False,1
+2309,Cajamarca,Frecuente,False,1
+2310,San Sebastián,Frecuente,False,1
+2311,San Sebastián,Ocasional,False,0
+2312,Cajamarca,Frecuente,False,1
+2313,Porcón,Ocasional,False,1
+2314,Cajamarca,Frecuente,False,1
+2315,Cajamarca,Frecuente,False,1
+2316,Cajamarca,Frecuente,False,1
+2317,Llacanora,Ocasional,False,1
+2318,Cajamarca,Frecuente,False,1
+2319,Cajamarca,Ocasional,False,1
+2320,San Sebastián,Frecuente,False,1
+2321,Cajamarca,Frecuente,False,1
+2322,Baños del Inca,Frecuente,False,1
+2323,La Encañada,Frecuente,False,1
+2324,Llacanora,Frecuente,False,1
+2325,Cajamarca,Ocasional,False,1
+2326,Cajamarca,Frecuente,False,1
+2327,Cajamarca,Frecuente,False,1
+2328,Cajamarca,Frecuente,False,1
+2329,Cajamarca,Frecuente,False,1
+2330,Cajamarca,Ocasional,False,1
+2331,Cajamarca,Frecuente,False,1
+2332,Cajamarca,Frecuente,False,1
+2333,Cajamarca,Ocasional,False,1
+2334,Cajamarca,Frecuente,False,1
+2335,Chetilla,Frecuente,False,1
+2336,Cajamarca,Frecuente,False,1
+2337,Cajamarca,Frecuente,False,0
+2338,Baños del Inca,Frecuente,False,1
+2339,Cajamarca,Frecuente,False,1
+2340,Baños del Inca,Frecuente,False,0
+2341,San Sebastián,Frecuente,False,1
+2342,Cajamarca,Frecuente,False,1
+2343,Baños del Inca,Frecuente,False,1
+2344,Cajamarca,Frecuente,False,0
+2345,Cajamarca,Ocasional,False,1
+2346,Baños del Inca,Frecuente,False,1
+2347,San Sebastián,Frecuente,False,1
+2348,Cajamarca,Frecuente,False,1
+2349,Baños del Inca,Frecuente,False,1
+2350,Cajamarca,Frecuente,False,1
+2351,Baños del Inca,Ocasional,False,1
+2352,San Sebastián,Ocasional,False,1
+2353,Cajamarca,Frecuente,False,1
+2354,Cajamarca,Frecuente,False,1
+2355,La Encañada,Frecuente,False,1
+2356,Cajamarca,Frecuente,False,1
+2357,Cajamarca,Frecuente,False,1
+2358,Baños del Inca,Frecuente,False,1
+2359,Cajamarca,Ocasional,False,1
+2360,Cajamarca,Frecuente,False,1
+2361,Baños del Inca,Frecuente,False,1
+2362,Cajamarca,Frecuente,False,1
+2363,Cajamarca,Ocasional,False,1
+2364,Cajamarca,Ocasional,False,1
+2365,Cajamarca,Frecuente,False,1
+2366,Cajamarca,Frecuente,False,0
+2367,Cajamarca,Frecuente,False,1
+2368,Cajamarca,Nuevo,False,1
+2369,Cajamarca,Ocasional,False,0
+2370,San Sebastián,Ocasional,False,1
+2371,Cajamarca,Ocasional,False,1
+2372,Cajamarca,Frecuente,False,1
+2373,Jesús,Frecuente,False,1
+2374,Cajamarca,Frecuente,False,1
+2375,Cajamarca,Frecuente,False,1
+2376,Cajamarca,Frecuente,False,0
+2377,Cajamarca,Frecuente,False,1
+2378,Chetilla,Ocasional,False,1
+2379,Baños del Inca,Frecuente,False,1
+2380,Cajamarca,Frecuente,False,1
+2381,Baños del Inca,Frecuente,False,1
+2382,Llacanora,Frecuente,False,1
+2383,San Sebastián,Frecuente,False,1
+2384,Jesús,Ocasional,False,0
+2385,Cajamarca,Frecuente,False,1
+2386,Cajamarca,Frecuente,False,1
+2387,Cajamarca,Frecuente,False,1
+2388,Cajamarca,Frecuente,False,1
+2389,Cajamarca,Ocasional,False,1
+2390,Cajamarca,Frecuente,False,1
+2391,Cajamarca,Frecuente,False,1
+2392,Cajamarca,Frecuente,False,1
+2393,Cajamarca,Ocasional,False,1
+2394,Cajamarca,Ocasional,False,1
+2395,San Sebastián,Ocasional,False,1
+2396,Porcón,Frecuente,False,1
+2397,Baños del Inca,Frecuente,False,1
+2398,Cajamarca,Frecuente,False,0
+2399,Baños del Inca,Ocasional,False,1
+2400,Cajamarca,Frecuente,False,1
+2401,Cajamarca,Frecuente,False,0
+2402,Cajamarca,Frecuente,False,0
+2403,Cajamarca,Frecuente,False,1
+2404,Cajamarca,Ocasional,False,1
+2405,Cajamarca,Frecuente,False,1
+2406,Baños del Inca,Frecuente,False,1
+2407,Cajamarca,Frecuente,False,1
+2408,Cajamarca,Frecuente,False,1
+2409,Baños del Inca,Frecuente,False,1
+2410,Cajamarca,Frecuente,False,1
+2411,Jesús,Frecuente,False,1
+2412,San Sebastián,Frecuente,False,0
+2413,Cajamarca,Frecuente,False,0
+2414,Llacanora,Ocasional,False,1
+2415,Cajamarca,Ocasional,False,1
+2416,San Sebastián,Frecuente,False,1
+2417,Cajamarca,Frecuente,False,1
+2418,Cajamarca,Frecuente,False,1
+2419,Cajamarca,Frecuente,False,1
+2420,Jesús,Frecuente,False,1
+2421,Cajamarca,Frecuente,False,1
+2422,Cajamarca,Ocasional,False,0
+2423,San Sebastián,Frecuente,False,0
+2424,Cajamarca,Ocasional,False,1
+2425,Cajamarca,Frecuente,False,1
+2426,Cajamarca,Ocasional,False,1
+2427,San Sebastián,Frecuente,False,1
+2428,San Sebastián,Frecuente,False,1
+2429,San Sebastián,Frecuente,False,1
+2430,Cajamarca,Frecuente,False,1
+2431,Cajamarca,Frecuente,False,0
+2432,Cajamarca,Frecuente,False,1
+2433,Baños del Inca,Frecuente,False,1
+2434,Cajamarca,Frecuente,False,1
+2435,Llacanora,Frecuente,False,1
+2436,Jesús,Frecuente,False,1
+2437,Cajamarca,Frecuente,False,0
+2438,Cajamarca,Ocasional,False,1
+2439,Cajamarca,Nuevo,False,1
+2440,Llacanora,Frecuente,False,1
+2441,Cajamarca,Frecuente,False,1
+2442,Cajamarca,Frecuente,False,1
+2443,Cajamarca,Frecuente,False,1
+2444,Cajamarca,Frecuente,False,0
+2445,La Encañada,Frecuente,False,1
+2446,San Sebastián,Frecuente,False,1
+2447,Cajamarca,Frecuente,False,0
+2448,Cajamarca,Frecuente,False,1
+2449,Cajamarca,Frecuente,False,1
+2450,Cajamarca,Frecuente,False,1
+2451,Cajamarca,Ocasional,False,1
+2452,Cajamarca,Nuevo,False,1
+2453,Cajamarca,Frecuente,False,1
+2454,Cajamarca,Ocasional,False,1
+2455,Baños del Inca,Frecuente,False,1
+2456,Cajamarca,Frecuente,False,1
+2457,Jesús,Ocasional,False,1
+2458,Cajamarca,Ocasional,False,0
+2459,Llacanora,Frecuente,False,0
+2460,Jesús,Frecuente,False,1
+2461,Cajamarca,Ocasional,False,1
+2462,Chetilla,Frecuente,False,1
+2463,Cajamarca,Frecuente,False,1
+2464,Cajamarca,Frecuente,False,1
+2465,Cajamarca,Frecuente,False,0
+2466,Cajamarca,Frecuente,False,1
+2467,Cajamarca,Frecuente,False,1
+2468,Jesús,Ocasional,False,1
+2469,Cajamarca,Frecuente,False,1
+2470,San Sebastián,Ocasional,False,1
+2471,Cajamarca,Frecuente,False,1
+2472,Llacanora,Frecuente,False,1
+2473,Cajamarca,Frecuente,False,1
+2474,Cajamarca,Frecuente,False,1
+2475,Jesús,Ocasional,False,1
+2476,La Encañada,Frecuente,False,1
+2477,San Sebastián,Frecuente,False,1
+2478,Cajamarca,Frecuente,False,1
+2479,La Encañada,Frecuente,False,1
+2480,San Sebastián,Frecuente,False,1
+2481,La Encañada,Frecuente,False,1
+2482,Cajamarca,Frecuente,False,0
+2483,Cajamarca,Frecuente,False,1
+2484,Cajamarca,Ocasional,False,1
+2485,Cajamarca,Frecuente,False,1
+2486,Cajamarca,Frecuente,False,1
+2487,Cajamarca,Frecuente,False,1
+2488,Cajamarca,Frecuente,False,1
+2489,San Sebastián,Frecuente,False,1
+2490,Cajamarca,Frecuente,False,0
+2491,Cajamarca,Frecuente,False,0
+2492,Llacanora,Frecuente,False,1
+2493,Cajamarca,Ocasional,False,1
+2494,Jesús,Frecuente,False,1
+2495,Cajamarca,Frecuente,False,1
+2496,Baños del Inca,Frecuente,False,1
+2497,Cajamarca,Frecuente,False,1
+2498,San Sebastián,Frecuente,False,1
+2499,Cajamarca,Frecuente,False,1
+2500,Cajamarca,Ocasional,False,1

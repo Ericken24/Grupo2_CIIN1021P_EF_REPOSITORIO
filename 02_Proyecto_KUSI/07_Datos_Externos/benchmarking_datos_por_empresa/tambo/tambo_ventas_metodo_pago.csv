@@ -1,0 +1,193 @@
+﻿periodo,anio,mes,empresa,metodo_pago,ventas_soles,participacion_pct,origen_ventas
+2023-01,2023,1,Tambo,Efectivo,49977873.65,77.74,sintetico
+2023-01,2023,1,Tambo,Tarjeta débito,5233541.65,8.14,sintetico
+2023-01,2023,1,Tambo,Tarjeta crédito,2538549.25,3.95,sintetico
+2023-01,2023,1,Tambo,Yape,4599315.96,7.15,sintetico
+2023-01,2023,1,Tambo,Plin,1278942.79,1.99,sintetico
+2023-01,2023,1,Tambo,Transferencia,658078.7,1.02,sintetico
+2023-02,2023,2,Tambo,Efectivo,39956787.54,78.64,sintetico
+2023-02,2023,2,Tambo,Tarjeta débito,3938189.51,7.75,sintetico
+2023-02,2023,2,Tambo,Tarjeta crédito,2026118.76,3.99,sintetico
+2023-02,2023,2,Tambo,Yape,3354568.94,6.6,sintetico
+2023-02,2023,2,Tambo,Plin,1025823.49,2.02,sintetico
+2023-02,2023,2,Tambo,Transferencia,508717.02,1.0,sintetico
+2023-03,2023,3,Tambo,Efectivo,50674198.15,76.85,sintetico
+2023-03,2023,3,Tambo,Tarjeta débito,5312927.83,8.06,sintetico
+2023-03,2023,3,Tambo,Tarjeta crédito,2708418.45,4.11,sintetico
+2023-03,2023,3,Tambo,Yape,5066972.79,7.68,sintetico
+2023-03,2023,3,Tambo,Plin,1453593.71,2.2,sintetico
+2023-03,2023,3,Tambo,Transferencia,726651.16,1.1,sintetico
+2023-04,2023,4,Tambo,Efectivo,46645396.69,76.24,sintetico
+2023-04,2023,4,Tambo,Tarjeta débito,4959903.61,8.11,sintetico
+2023-04,2023,4,Tambo,Tarjeta crédito,2455671.86,4.01,sintetico
+2023-04,2023,4,Tambo,Yape,4993960.99,8.16,sintetico
+2023-04,2023,4,Tambo,Plin,1445513.18,2.36,sintetico
+2023-04,2023,4,Tambo,Transferencia,678551.98,1.11,sintetico
+2023-05,2023,5,Tambo,Efectivo,52565384.46,75.97,sintetico
+2023-05,2023,5,Tambo,Tarjeta débito,5891890.96,8.52,sintetico
+2023-05,2023,5,Tambo,Tarjeta crédito,2682624.83,3.88,sintetico
+2023-05,2023,5,Tambo,Yape,5650849.35,8.17,sintetico
+2023-05,2023,5,Tambo,Plin,1630619.91,2.36,sintetico
+2023-05,2023,5,Tambo,Transferencia,770431.63,1.11,sintetico
+2023-06,2023,6,Tambo,Efectivo,49057105.95,75.39,sintetico
+2023-06,2023,6,Tambo,Tarjeta débito,5269232.96,8.1,sintetico
+2023-06,2023,6,Tambo,Tarjeta crédito,2579571.41,3.96,sintetico
+2023-06,2023,6,Tambo,Yape,5831156.1,8.96,sintetico
+2023-06,2023,6,Tambo,Plin,1566522.53,2.41,sintetico
+2023-06,2023,6,Tambo,Transferencia,769206.52,1.18,sintetico
+2023-07,2023,7,Tambo,Efectivo,54239129.64,75.5,sintetico
+2023-07,2023,7,Tambo,Tarjeta débito,5842927.18,8.13,sintetico
+2023-07,2023,7,Tambo,Tarjeta crédito,2832409.82,3.94,sintetico
+2023-07,2023,7,Tambo,Yape,6385151.33,8.89,sintetico
+2023-07,2023,7,Tambo,Plin,1753375.43,2.44,sintetico
+2023-07,2023,7,Tambo,Transferencia,789252.39,1.1,sintetico
+2023-08,2023,8,Tambo,Efectivo,54811423.98,74.06,sintetico
+2023-08,2023,8,Tambo,Tarjeta débito,6246986.16,8.44,sintetico
+2023-08,2023,8,Tambo,Tarjeta crédito,3004287.36,4.06,sintetico
+2023-08,2023,8,Tambo,Yape,7120393.28,9.62,sintetico
+2023-08,2023,8,Tambo,Plin,1928559.94,2.61,sintetico
+2023-08,2023,8,Tambo,Transferencia,899568.79,1.22,sintetico
+2023-09,2023,9,Tambo,Efectivo,55611956.88,74.23,sintetico
+2023-09,2023,9,Tambo,Tarjeta débito,5946993.55,7.94,sintetico
+2023-09,2023,9,Tambo,Tarjeta crédito,2918042.74,3.9,sintetico
+2023-09,2023,9,Tambo,Yape,7463814.15,9.96,sintetico
+2023-09,2023,9,Tambo,Plin,2044148.09,2.73,sintetico
+2023-09,2023,9,Tambo,Transferencia,931867.68,1.24,sintetico
+2023-10,2023,10,Tambo,Efectivo,53120129.47,73.68,sintetico
+2023-10,2023,10,Tambo,Tarjeta débito,5690011.82,7.89,sintetico
+2023-10,2023,10,Tambo,Tarjeta crédito,2849640.19,3.95,sintetico
+2023-10,2023,10,Tambo,Yape,7455469.19,10.34,sintetico
+2023-10,2023,10,Tambo,Plin,2077731.01,2.88,sintetico
+2023-10,2023,10,Tambo,Transferencia,904854.22,1.26,sintetico
+2023-11,2023,11,Tambo,Efectivo,52934484.93,72.91,sintetico
+2023-11,2023,11,Tambo,Tarjeta débito,5976959.63,8.23,sintetico
+2023-11,2023,11,Tambo,Tarjeta crédito,2939285.14,4.05,sintetico
+2023-11,2023,11,Tambo,Yape,7600714.62,10.47,sintetico
+2023-11,2023,11,Tambo,Plin,2167889.86,2.99,sintetico
+2023-11,2023,11,Tambo,Transferencia,981128.79,1.35,sintetico
+2023-12,2023,12,Tambo,Efectivo,64384508.52,72.16,sintetico
+2023-12,2023,12,Tambo,Tarjeta débito,7576455.68,8.49,sintetico
+2023-12,2023,12,Tambo,Tarjeta crédito,3618516.31,4.06,sintetico
+2023-12,2023,12,Tambo,Yape,9782512.75,10.96,sintetico
+2023-12,2023,12,Tambo,Plin,2656215.74,2.98,sintetico
+2023-12,2023,12,Tambo,Transferencia,1206158.43,1.35,sintetico
+2024-01,2024,1,Tambo,Efectivo,59559166.08,71.59,sintetico
+2024-01,2024,1,Tambo,Tarjeta débito,7137630.77,8.58,sintetico
+2024-01,2024,1,Tambo,Tarjeta crédito,3444232.43,4.14,sintetico
+2024-01,2024,1,Tambo,Yape,9235342.24,11.1,sintetico
+2024-01,2024,1,Tambo,Plin,2671440.38,3.21,sintetico
+2024-01,2024,1,Tambo,Transferencia,1148605.71,1.38,sintetico
+2024-02,2024,2,Tambo,Efectivo,48768572.97,71.33,sintetico
+2024-02,2024,2,Tambo,Tarjeta débito,5824659.95,8.52,sintetico
+2024-02,2024,2,Tambo,Tarjeta crédito,2792607.99,4.08,sintetico
+2024-02,2024,2,Tambo,Yape,7750581.84,11.34,sintetico
+2024-02,2024,2,Tambo,Plin,2286707.91,3.34,sintetico
+2024-02,2024,2,Tambo,Transferencia,945991.59,1.38,sintetico
+2024-03,2024,3,Tambo,Efectivo,56689242.62,70.73,sintetico
+2024-03,2024,3,Tambo,Tarjeta débito,6896840.1,8.6,sintetico
+2024-03,2024,3,Tambo,Tarjeta crédito,3287339.82,4.1,sintetico
+2024-03,2024,3,Tambo,Yape,9414159.53,11.75,sintetico
+2024-03,2024,3,Tambo,Plin,2669854.08,3.33,sintetico
+2024-03,2024,3,Tambo,Transferencia,1196580.22,1.49,sintetico
+2024-04,2024,4,Tambo,Efectivo,57193065.52,70.85,sintetico
+2024-04,2024,4,Tambo,Tarjeta débito,6802483.57,8.43,sintetico
+2024-04,2024,4,Tambo,Tarjeta crédito,3174877.24,3.93,sintetico
+2024-04,2024,4,Tambo,Yape,9607745.85,11.9,sintetico
+2024-04,2024,4,Tambo,Plin,2770925.96,3.43,sintetico
+2024-04,2024,4,Tambo,Transferencia,1178816.81,1.46,sintetico
+2024-05,2024,5,Tambo,Efectivo,62761327.54,70.15,sintetico
+2024-05,2024,5,Tambo,Tarjeta débito,7520868.03,8.41,sintetico
+2024-05,2024,5,Tambo,Tarjeta crédito,3448505.39,3.85,sintetico
+2024-05,2024,5,Tambo,Yape,11257199.33,12.58,sintetico
+2024-05,2024,5,Tambo,Plin,3125595.1,3.49,sintetico
+2024-05,2024,5,Tambo,Transferencia,1347849.67,1.51,sintetico
+2024-06,2024,6,Tambo,Efectivo,59459198.0,69.3,sintetico
+2024-06,2024,6,Tambo,Tarjeta débito,7172735.35,8.36,sintetico
+2024-06,2024,6,Tambo,Tarjeta crédito,3399316.3,3.96,sintetico
+2024-06,2024,6,Tambo,Yape,11262555.67,13.13,sintetico
+2024-06,2024,6,Tambo,Plin,3208530.47,3.74,sintetico
+2024-06,2024,6,Tambo,Transferencia,1302573.6,1.52,sintetico
+2024-07,2024,7,Tambo,Efectivo,62620371.64,68.5,sintetico
+2024-07,2024,7,Tambo,Tarjeta débito,7763465.17,8.49,sintetico
+2024-07,2024,7,Tambo,Tarjeta crédito,3582673.04,3.92,sintetico
+2024-07,2024,7,Tambo,Yape,12602066.55,13.79,sintetico
+2024-07,2024,7,Tambo,Plin,3372896.22,3.69,sintetico
+2024-07,2024,7,Tambo,Transferencia,1473467.9,1.61,sintetico
+2024-08,2024,8,Tambo,Efectivo,59925879.81,68.16,sintetico
+2024-08,2024,8,Tambo,Tarjeta débito,7564043.81,8.6,sintetico
+2024-08,2024,8,Tambo,Tarjeta crédito,3427118.21,3.9,sintetico
+2024-08,2024,8,Tambo,Yape,12259336.07,13.94,sintetico
+2024-08,2024,8,Tambo,Plin,3338729.6,3.8,sintetico
+2024-08,2024,8,Tambo,Transferencia,1400978.0,1.59,sintetico
+2024-09,2024,9,Tambo,Efectivo,58313217.44,66.84,sintetico
+2024-09,2024,9,Tambo,Tarjeta débito,7693758.08,8.82,sintetico
+2024-09,2024,9,Tambo,Tarjeta crédito,3522966.03,4.04,sintetico
+2024-09,2024,9,Tambo,Yape,12643803.41,14.49,sintetico
+2024-09,2024,9,Tambo,Plin,3571001.6,4.09,sintetico
+2024-09,2024,9,Tambo,Transferencia,1499627.68,1.72,sintetico
+2024-10,2024,10,Tambo,Efectivo,61780857.3,67.46,sintetico
+2024-10,2024,10,Tambo,Tarjeta débito,7755223.99,8.47,sintetico
+2024-10,2024,10,Tambo,Tarjeta crédito,3585972.85,3.92,sintetico
+2024-10,2024,10,Tambo,Yape,13357105.74,14.58,sintetico
+2024-10,2024,10,Tambo,Plin,3626498.86,3.96,sintetico
+2024-10,2024,10,Tambo,Transferencia,1481524.32,1.62,sintetico
+2024-11,2024,11,Tambo,Efectivo,66810307.17,66.0,sintetico
+2024-11,2024,11,Tambo,Tarjeta débito,9259374.3,9.15,sintetico
+2024-11,2024,11,Tambo,Tarjeta crédito,4025764.31,3.98,sintetico
+2024-11,2024,11,Tambo,Yape,15073689.66,14.89,sintetico
+2024-11,2024,11,Tambo,Plin,4342720.02,4.29,sintetico
+2024-11,2024,11,Tambo,Transferencia,1720495.2,1.7,sintetico
+2024-12,2024,12,Tambo,Efectivo,72808141.86,66.47,sintetico
+2024-12,2024,12,Tambo,Tarjeta débito,9726126.97,8.88,sintetico
+2024-12,2024,12,Tambo,Tarjeta crédito,4450578.69,4.06,sintetico
+2024-12,2024,12,Tambo,Yape,16117057.03,14.71,sintetico
+2024-12,2024,12,Tambo,Plin,4615294.79,4.21,sintetico
+2024-12,2024,12,Tambo,Transferencia,1822606.03,1.66,sintetico
+2025-01,2025,1,Tambo,Efectivo,62707452.93,66.18,sintetico
+2025-01,2025,1,Tambo,Tarjeta débito,8500789.15,8.97,sintetico
+2025-01,2025,1,Tambo,Tarjeta crédito,3734639.25,3.94,sintetico
+2025-01,2025,1,Tambo,Yape,14141954.66,14.93,sintetico
+2025-01,2025,1,Tambo,Plin,4033822.51,4.26,sintetico
+2025-01,2025,1,Tambo,Transferencia,1629271.54,1.72,sintetico
+2025-02,2025,2,Tambo,Efectivo,59661893.34,65.74,sintetico
+2025-02,2025,2,Tambo,Tarjeta débito,7921950.68,8.73,sintetico
+2025-02,2025,2,Tambo,Tarjeta crédito,3583360.61,3.95,sintetico
+2025-02,2025,2,Tambo,Yape,14014611.41,15.44,sintetico
+2025-02,2025,2,Tambo,Plin,3921886.44,4.32,sintetico
+2025-02,2025,2,Tambo,Transferencia,1652672.85,1.82,sintetico
+2025-03,2025,3,Tambo,Efectivo,68249357.34,63.09,sintetico
+2025-03,2025,3,Tambo,Tarjeta débito,10382747.72,9.6,sintetico
+2025-03,2025,3,Tambo,Tarjeta crédito,4363559.68,4.03,sintetico
+2025-03,2025,3,Tambo,Yape,18064992.31,16.7,sintetico
+2025-03,2025,3,Tambo,Plin,5076202.47,4.69,sintetico
+2025-03,2025,3,Tambo,Transferencia,2045424.57,1.89,sintetico
+2025-04,2025,4,Tambo,Efectivo,67316235.63,64.08,sintetico
+2025-04,2025,4,Tambo,Tarjeta débito,9403757.08,8.95,sintetico
+2025-04,2025,4,Tambo,Tarjeta crédito,4159190.58,3.96,sintetico
+2025-04,2025,4,Tambo,Yape,17264548.63,16.44,sintetico
+2025-04,2025,4,Tambo,Plin,4946083.45,4.71,sintetico
+2025-04,2025,4,Tambo,Transferencia,1956905.74,1.86,sintetico
+2025-05,2025,5,Tambo,Efectivo,75332234.21,63.64,sintetico
+2025-05,2025,5,Tambo,Tarjeta débito,10506575.56,8.88,sintetico
+2025-05,2025,5,Tambo,Tarjeta crédito,4666902.95,3.94,sintetico
+2025-05,2025,5,Tambo,Yape,20021882.01,16.91,sintetico
+2025-05,2025,5,Tambo,Plin,5584238.36,4.72,sintetico
+2025-05,2025,5,Tambo,Transferencia,2269781.8,1.92,sintetico
+2025-06,2025,6,Tambo,Efectivo,75546774.41,63.05,sintetico
+2025-06,2025,6,Tambo,Tarjeta débito,10359481.12,8.65,sintetico
+2025-06,2025,6,Tambo,Tarjeta crédito,4775947.26,3.99,sintetico
+2025-06,2025,6,Tambo,Yape,21006647.33,17.53,sintetico
+2025-06,2025,6,Tambo,Plin,5826527.44,4.86,sintetico
+2025-06,2025,6,Tambo,Transferencia,2303941.92,1.92,sintetico
+2025-07,2025,7,Tambo,Efectivo,77835185.38,62.33,sintetico
+2025-07,2025,7,Tambo,Tarjeta débito,11215993.52,8.98,sintetico
+2025-07,2025,7,Tambo,Tarjeta crédito,5213702.33,4.17,sintetico
+2025-07,2025,7,Tambo,Yape,21799792.33,17.46,sintetico
+2025-07,2025,7,Tambo,Plin,6372125.03,5.1,sintetico
+2025-07,2025,7,Tambo,Transferencia,2445412.61,1.96,sintetico
+2025-08,2025,8,Tambo,Efectivo,73626751.75,63.01,sintetico
+2025-08,2025,8,Tambo,Tarjeta débito,10406549.14,8.91,sintetico
+2025-08,2025,8,Tambo,Tarjeta crédito,4566926.39,3.91,sintetico
+2025-08,2025,8,Tambo,Yape,20389807.15,17.45,sintetico
+2025-08,2025,8,Tambo,Plin,5644349.26,4.83,sintetico
+2025-08,2025,8,Tambo,Transferencia,2208515.42,1.89,sintetico

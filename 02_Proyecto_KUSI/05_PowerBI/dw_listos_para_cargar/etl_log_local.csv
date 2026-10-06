@@ -1,0 +1,24 @@
+﻿fecha_ejecucion,origen,filas_leidas,filas_aceptadas,filas_rechazadas,motivo_rechazo
+2026-10-02 18:46:12.038323,T01 Extraccion CSV (ventas),180000,180000,0,
+2026-10-02 18:46:12.038343,T01 Extraccion CSV (detalle_ventas),447532,447532,0,
+2026-10-02 18:46:12.100312,T02 Conversion de tipos (ventas),180000,180000,0,fecha_venta o total_venta no convertible
+2026-10-02 18:46:12.102244,T03 Normalizacion de distritos (clientes),2500,2500,0,9 valores normalizados con diccionario (no es rechazo)
+2026-10-02 18:46:12.104351,T04 Depuracion de feriados,36,36,0,fechas invalidas o duplicadas
+2026-10-02 18:46:12.110287,T05 Generacion DimFecha (calendario),974,974,0,
+2026-10-02 18:46:12.114694,T06 Enriquecimiento DimProducto (categoria+proveedor),515,515,0,productos sin categoria o proveedor resuelto
+2026-10-02 18:46:12.119163,T07 Filtro periodo analitico (Q01),180000,179998,2,ventas fuera de 2023-01-01..2025-08-31
+2026-10-02 18:46:12.133858,T08 Filtro total > 0 (Q06),179998,179994,4,ventas con total cero
+2026-10-02 18:46:12.194719,T09 Filtro con detalle asociado (Q07),179994,179994,0,ventas sin detalle
+2026-10-02 18:46:12.202469,T10 Filtro estado completada (R09),179994,179994,0,ventas con estado distinto de completada
+2026-10-02 18:46:12.226178,T11 Clasificacion de clientes + KeyCliente=0,2500,2500,0,se agrega 1 fila tecnica (KeyCliente=0) para venta anonima
+2026-10-02 18:46:13.550552,T12 Construccion FactVentas (detalle -> hecho),447532,447530,2,detalles de ventas excluidas por T07-T10
+2026-10-02 18:46:13.550655,T12b Filas de hecho con venta anonima,447530,447530,0,134861 filas con KeyCliente=0 conservadas (no se descartan)
+2026-10-02 18:46:13.582359,V01 Conciliacion: ventas validas = ventas en hecho,179994,179994,0,
+2026-10-02 18:46:13.582509,V02 Integridad de claves (0 huerfanas),447530,447530,0,
+2026-10-02 18:47:09.523647,V03 Post-carga dw.DimFecha,974,974,0,
+2026-10-02 18:47:09.525377,V03 Post-carga dw.DimSucursal,8,8,0,
+2026-10-02 18:47:09.526819,V03 Post-carga dw.DimProducto,515,515,0,
+2026-10-02 18:47:09.528595,V03 Post-carga dw.DimMetodoPago,6,6,0,
+2026-10-02 18:47:09.529990,V03 Post-carga dw.DimEmpleado,36,36,0,
+2026-10-02 18:47:09.533276,V03 Post-carga dw.DimCliente,2501,2501,0,
+2026-10-02 18:47:09.643655,V03 Post-carga dw.FactVentas,447530,447530,0,

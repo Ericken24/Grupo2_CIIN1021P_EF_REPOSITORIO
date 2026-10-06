@@ -1,0 +1,516 @@
+﻿KeyProducto,CodigoBarras,NombreProducto,Categoria,Proveedor,PrecioVentaActual
+1,7750000001,Arroz Extra Florida 1kg,Abarrotes,Productos Andinos S.A.C.,4.95
+2,7750000002,Azúcar Rubia Laive 2kg,Abarrotes,Panadería Industrial Cajamarca,4.08
+3,7750000003,Aceite Vegetal Nicolini 900ml,Abarrotes,Distribuidora La Libertad S.A.,7.12
+4,7750000004,Fideos Spaghetti Molitalia 1kg,Abarrotes,Snacks del Valle S.A.C.,2.73
+5,7750000005,Lenteja Primor 500g,Abarrotes,Inversiones Alimenticias E.I.R.L.,4.17
+6,7750000006,Atún Nicolini Pack 3x170g,Abarrotes,Cuidado Peruano E.I.R.L.,6.1
+7,7750000007,Avena Primor 500g,Abarrotes,Distribuidora Norte S.A.C.,4.0
+8,7750000008,Mayonesa Molitalia 500g,Abarrotes,Limpieza Total S.A.C.,6.15
+9,7750000009,Ketchup Paisana 250g,Abarrotes,Importaciones del Pacífico S.A.C.,4.75
+10,7750000010,Leche evaporada Nicolini Pack 6,Abarrotes,Lácteos Andinos S.A.C.,3.86
+11,7750000011,Harina Molitalia 1 kg,Abarrotes,Comercializadora del Norte E.I.R.L.,3.63
+12,7750000012,Café instantáneo Paisana 100g,Abarrotes,Alicorp Distribuciones E.I.R.L.,8.36
+13,7750000013,Chocolate para taza Primor 100g,Abarrotes,Comercializadora El Sol S.A.C.,6.53
+14,7750000014,Galleta de soda Paisana 12pack,Abarrotes,Bebidas del Norte S.A.C.,2.05
+15,7750000015,Sal de mesa Paisana 500g,Abarrotes,Distribuidora Botiquín Norte E.I.R.L.,1.7
+16,7750000016,Frejol Gloria 1kg,Abarrotes,Productos Andinos S.A.C.,4.89
+17,7750000017,Arroz Extra Alicorp 1kg,Abarrotes,Panadería Industrial Cajamarca,5.12
+18,7750000018,Azúcar Rubia Don Vittorio 2kg,Abarrotes,Distribuidora La Libertad S.A.,4.28
+19,7750000019,Aceite Vegetal Nicolini 900ml,Abarrotes,Snacks del Valle S.A.C.,6.64
+20,7750000020,Fideos Spaghetti Molitalia 1kg,Abarrotes,Inversiones Alimenticias E.I.R.L.,2.6
+21,7750000021,Lenteja Paisana 500g,Abarrotes,Cuidado Peruano E.I.R.L.,4.07
+22,7750000022,Atún Nicolini Pack 3x170g,Abarrotes,Distribuidora Norte S.A.C.,5.59
+23,7750000023,Avena Primor 500g,Abarrotes,Limpieza Total S.A.C.,4.03
+24,7750000024,Mayonesa Molitalia 500g,Abarrotes,Importaciones del Pacífico S.A.C.,6.41
+25,7750000025,Ketchup Costeño 250g,Abarrotes,Lácteos Andinos S.A.C.,5.25
+26,7750000026,Leche evaporada Alicorp Pack 6,Abarrotes,Comercializadora del Norte E.I.R.L.,3.94
+27,7750000027,Harina Molitalia 1kg,Abarrotes,Alicorp Distribuciones E.I.R.L.,3.69
+28,7750000028,Café instantáneo Paisana 100g,Abarrotes,Comercializadora El Sol S.A.C.,9.7
+29,7750000029,Chocolate para taza Florida 100g,Abarrotes,Bebidas del Norte S.A.C.,6.81
+30,7750000030,Galleta de soda Primor 12pack,Abarrotes,Distribuidora Botiquín Norte E.I.R.L.,1.89
+31,7750000031,Sal de mesa Nicolini 500g,Abarrotes,Productos Andinos S.A.C.,1.71
+32,7750000032,Frejol Nicolini 1kg,Abarrotes,Panadería Industrial Cajamarca,5.07
+33,7750000033,Arroz Extra Paisana 1kg,Abarrotes,Distribuidora La Libertad S.A.,4.97
+34,7750000034,Azúcar Rubia Don Vittorio 2kg,Abarrotes,Snacks del Valle S.A.C.,4.5
+35,7750000035,Aceite Vegetal Costeño 900ml,Abarrotes,Inversiones Alimenticias E.I.R.L.,7.65
+36,7750000036,Fideos Spaghetti Gloria 1kg,Abarrotes,Cuidado Peruano E.I.R.L.,3.02
+37,7750000037,Lenteja Gloria 500g,Abarrotes,Distribuidora Norte S.A.C.,4.4
+38,7750000038,Atún Florida Pack 3x170g,Abarrotes,Limpieza Total S.A.C.,6.13
+39,7750000039,Avena Nicolini 500g,Abarrotes,Importaciones del Pacífico S.A.C.,3.67
+40,7750000040,Mayonesa Don Vittorio 500g,Abarrotes,Lácteos Andinos S.A.C.,5.82
+41,7750000041,Ketchup Alicorp 250g,Abarrotes,Comercializadora del Norte E.I.R.L.,5.3
+42,7750000042,Leche evaporada Costeño Pack 6,Abarrotes,Alicorp Distribuciones E.I.R.L.,4.07
+43,7750000043,Harina Molitalia 1kg,Abarrotes,Comercializadora El Sol S.A.C.,3.71
+44,7750000044,Café instantáneo Don Vittorio 100g,Abarrotes,Bebidas del Norte S.A.C.,8.41
+45,7750000045,Chocolate para taza Paisana 100g,Abarrotes,Distribuidora Botiquín Norte E.I.R.L.,6.05
+46,7750000046,Galleta de soda Nicolini 12pack,Abarrotes,Productos Andinos S.A.C.,1.91
+47,7750000047,Sal de mesa Nicolini 500g,Abarrotes,Panadería Industrial Cajamarca,1.75
+48,7750000048,Frejol Don Vittorio 1kg,Abarrotes,Distribuidora La Libertad S.A.,4.44
+49,7750000049,Arroz Extra Don Vittorio 1kg,Abarrotes,Snacks del Valle S.A.C.,4.8
+50,7750000050,Azúcar Rubia Molitalia 2kg,Abarrotes,Inversiones Alimenticias E.I.R.L.,4.51
+51,7750000051,Aceite Vegetal Florida 900ml,Abarrotes,Cuidado Peruano E.I.R.L.,7.22
+52,7750000052,Fideos Spaghetti Gloria 1kg,Abarrotes,Distribuidora Norte S.A.C.,2.89
+53,7750000053,Lenteja Laive 500g,Abarrotes,Limpieza Total S.A.C.,4.25
+54,7750000054,Atún Molitalia Pack 3x170g,Abarrotes,Importaciones del Pacífico S.A.C.,5.7
+55,7750000055,Avena Molitalia 500g,Abarrotes,Lácteos Andinos S.A.C.,3.59
+56,7750000056,Mayonesa Molitalia 500g,Abarrotes,Comercializadora del Norte E.I.R.L.,6.4
+57,7750000057,Ketchup Nicolini 250g,Abarrotes,Alicorp Distribuciones E.I.R.L.,5.08
+58,7750000058,Leche evaporada Alicorp Pack 6,Abarrotes,Comercializadora El Sol S.A.C.,3.77
+59,7750000059,Harina Laive 1kg,Abarrotes,Bebidas del Norte S.A.C.,3.41
+60,7750000060,Café instantáneo Don Vittorio 100g,Abarrotes,Distribuidora Botiquín Norte E.I.R.L.,9.41
+61,7750000061,Chocolate para taza Laive 100g,Abarrotes,Productos Andinos S.A.C.,5.99
+62,7750000062,Galleta de soda Gloria 12pack,Abarrotes,Panadería Industrial Cajamarca,2.15
+63,7750000063,Sal de mesa Molitalia 500g,Abarrotes,Distribuidora La Libertad S.A.,1.75
+64,7750000064,Frejol Florida 1kg,Abarrotes,Snacks del Valle S.A.C.,4.96
+65,7750000065,Arroz Extra Alicorp 1kg,Abarrotes,Inversiones Alimenticias E.I.R.L.,4.61
+66,7750000066,Azúcar Rubia Gloria 2kg,Abarrotes,Cuidado Peruano E.I.R.L.,4.15
+67,7750000067,Aceite Vegetal Paisana 900ml,Abarrotes,Distribuidora Norte S.A.C.,7.29
+68,7750000068,Fideos Spaghetti Primor 1kg,Abarrotes,Limpieza Total S.A.C.,2.82
+69,7750000069,Lenteja Costeño 500g,Abarrotes,Importaciones del Pacífico S.A.C.,3.79
+70,7750000070,Atún Costeño Pack 3x170g,Abarrotes,Lácteos Andinos S.A.C.,5.34
+71,7750000071,Avena Laive 500g,Abarrotes,Comercializadora del Norte E.I.R.L.,3.77
+72,7750000072,Mayonesa Paisana 500g,Abarrotes,Alicorp Distribuciones E.I.R.L.,5.77
+73,7750000073,Ketchup Primor 250g,Abarrotes,Comercializadora El Sol S.A.C.,5.12
+74,7750000074,Leche evaporada Florida Pack 6,Abarrotes,Bebidas del Norte S.A.C.,3.82
+75,7750000075,Harina Florida 1kg,Abarrotes,Distribuidora Botiquín Norte E.I.R.L.,3.41
+76,7750000076,Café instantáneo Molitalia 100g,Abarrotes,Productos Andinos S.A.C.,9.27
+77,7750000077,Chocolate para taza Don Vittorio 100g,Abarrotes,Panadería Industrial Cajamarca,6.07
+78,7750000078,Galleta de soda Florida 12pack,Abarrotes,Distribuidora La Libertad S.A.,1.98
+79,7750000079,Sal de mesa Florida 500g,Abarrotes,Snacks del Valle S.A.C.,1.73
+80,7750000080,Frejol Florida 1kg,Abarrotes,Inversiones Alimenticias E.I.R.L.,4.85
+81,7750000081,Agua Frugos 625ml,Bebidas,Lácteos Andinos S.A.C.,1.96
+82,7750000082,Gaseosa Frugos 1.5L,Bebidas,Comercializadora del Norte E.I.R.L.,3.56
+83,7750000083,Energizante San Luis 355ml,Bebidas,Alicorp Distribuciones E.I.R.L.,5.22
+84,7750000084,Isotónica Pulp 750ml,Bebidas,Comercializadora El Sol S.A.C.,4.06
+85,7750000085,Jugo Pulp 300ml,Bebidas,Bebidas del Norte S.A.C.,3.16
+86,7750000086,Cerveza Coca-Cola 6pack,Bebidas,Distribuidora Botiquín Norte E.I.R.L.,4.82
+87,7750000087,Bebida láctea Pulp 300ml,Bebidas,Productos Andinos S.A.C.,4.31
+88,7750000088,Café listo Frugos 330ml,Bebidas,Panadería Industrial Cajamarca,4.89
+89,7750000089,Té listo Cielo 300ml,Bebidas,Distribuidora La Libertad S.A.,3.35
+90,7750000090,Agua saborizada Coca-Cola 625ml,Bebidas,Snacks del Valle S.A.C.,3.05
+91,7750000091,Agua Volt 625ml,Bebidas,Inversiones Alimenticias E.I.R.L.,1.92
+92,7750000092,Gaseosa Inca Kola 3L,Bebidas,Cuidado Peruano E.I.R.L.,3.31
+93,7750000093,Energizante Volt 355ml,Bebidas,Distribuidora Norte S.A.C.,5.31
+94,7750000094,Isotónica Sporade 750ml,Bebidas,Limpieza Total S.A.C.,3.83
+95,7750000095,Jugo Sporade 300ml,Bebidas,Importaciones del Pacífico S.A.C.,3.3
+96,7750000096,Cerveza Red Bull 355ml,Bebidas,Lácteos Andinos S.A.C.,5.25
+97,7750000097,Bebida láctea Coca-Cola 300ml,Bebidas,Comercializadora del Norte E.I.R.L.,3.75
+98,7750000098,Café listo Pulp 330ml,Bebidas,Alicorp Distribuciones E.I.R.L.,4.62
+99,7750000099,Té listo Cielo 300ml,Bebidas,Comercializadora El Sol S.A.C.,3.35
+100,7750000100,Agua saborizada Frugos 625ml,Bebidas,Bebidas del Norte S.A.C.,3.01
+101,7750000101,Agua Inca Kola 625ml,Bebidas,Distribuidora Botiquín Norte E.I.R.L.,1.98
+102,7750000102,Gaseosa Frugos 500ml,Bebidas,Productos Andinos S.A.C.,3.46
+103,7750000103,Energizante Pepsi 355ml,Bebidas,Panadería Industrial Cajamarca,5.3
+104,7750000104,Isotónica Pulp 750ml,Bebidas,Distribuidora La Libertad S.A.,4.08
+105,7750000105,Jugo Inca Kola 300ml,Bebidas,Snacks del Valle S.A.C.,3.01
+106,7750000106,Cerveza Inca Kola 620ml,Bebidas,Inversiones Alimenticias E.I.R.L.,4.69
+107,7750000107,Bebida láctea San Luis 300ml,Bebidas,Cuidado Peruano E.I.R.L.,3.99
+108,7750000108,Café listo Pulp 330ml,Bebidas,Distribuidora Norte S.A.C.,4.68
+109,7750000109,Té listo Pepsi 300ml,Bebidas,Limpieza Total S.A.C.,3.45
+110,7750000110,Agua saborizada Volt 625ml,Bebidas,Importaciones del Pacífico S.A.C.,3.18
+111,7750000111,Agua Pulp 625ml,Bebidas,Lácteos Andinos S.A.C.,2.08
+112,7750000112,Gaseosa Red Bull 1.5L,Bebidas,Comercializadora del Norte E.I.R.L.,3.7
+113,7750000113,Energizante Pulp 355ml,Bebidas,Alicorp Distribuciones E.I.R.L.,5.24
+114,7750000114,Isotónica Volt 750ml,Bebidas,Comercializadora El Sol S.A.C.,4.13
+115,7750000115,Jugo Coca-Cola 300ml,Bebidas,Bebidas del Norte S.A.C.,3.25
+116,7750000116,Cerveza Pepsi 6pack,Bebidas,Distribuidora Botiquín Norte E.I.R.L.,4.91
+117,7750000117,Bebida láctea Frugos 300ml,Bebidas,Productos Andinos S.A.C.,3.73
+118,7750000118,Café listo Volt 330ml,Bebidas,Panadería Industrial Cajamarca,4.84
+119,7750000119,Té listo Sporade 300ml,Bebidas,Distribuidora La Libertad S.A.,3.31
+120,7750000120,Agua saborizada Pulp 625ml,Bebidas,Snacks del Valle S.A.C.,3.05
+121,7750000121,Agua Red Bull 625ml,Bebidas,Inversiones Alimenticias E.I.R.L.,2.03
+122,7750000122,Gaseosa Inca Kola 3L,Bebidas,Cuidado Peruano E.I.R.L.,3.39
+123,7750000123,Energizante Red Bull 355ml,Bebidas,Distribuidora Norte S.A.C.,5.08
+124,7750000124,Isotónica Pulp 750ml,Bebidas,Limpieza Total S.A.C.,3.72
+125,7750000125,Jugo Frugos 300ml,Bebidas,Importaciones del Pacífico S.A.C.,3.14
+126,7750000126,Cerveza Volt 355ml,Bebidas,Lácteos Andinos S.A.C.,4.84
+127,7750000127,Bebida láctea San Luis 300ml,Bebidas,Comercializadora del Norte E.I.R.L.,3.83
+128,7750000128,Café listo San Luis 330ml,Bebidas,Alicorp Distribuciones E.I.R.L.,4.43
+129,7750000129,Té listo Coca-Cola 300ml,Bebidas,Comercializadora El Sol S.A.C.,3.17
+130,7750000130,Agua saborizada Volt 625ml,Bebidas,Bebidas del Norte S.A.C.,2.99
+131,7750000131,Agua Pepsi 625ml,Bebidas,Distribuidora Botiquín Norte E.I.R.L.,1.89
+132,7750000132,Gaseosa Pepsi 500ml,Bebidas,Productos Andinos S.A.C.,3.3
+133,7750000133,Energizante Frugos 355ml,Bebidas,Panadería Industrial Cajamarca,5.58
+134,7750000134,Isotónica Volt 750ml,Bebidas,Distribuidora La Libertad S.A.,3.95
+135,7750000135,Jugo Inca Kola 300ml,Bebidas,Snacks del Valle S.A.C.,3.21
+136,7750000136,Cerveza Pulp 620ml,Bebidas,Inversiones Alimenticias E.I.R.L.,5.01
+137,7750000137,Bebida láctea Volt 300ml,Bebidas,Cuidado Peruano E.I.R.L.,3.96
+138,7750000138,Café listo Volt 330ml,Bebidas,Distribuidora Norte S.A.C.,4.46
+139,7750000139,Té listo Sporade 300ml,Bebidas,Limpieza Total S.A.C.,3.52
+140,7750000140,Agua saborizada Pulp 625ml,Bebidas,Importaciones del Pacífico S.A.C.,2.8
+141,7750000141,Agua Volt 625ml,Bebidas,Lácteos Andinos S.A.C.,1.87
+142,7750000142,Gaseosa Sporade 1.5L,Bebidas,Comercializadora del Norte E.I.R.L.,3.31
+143,7750000143,Energizante Red Bull 355ml,Bebidas,Alicorp Distribuciones E.I.R.L.,5.36
+144,7750000144,Isotónica Volt 750ml,Bebidas,Comercializadora El Sol S.A.C.,3.97
+145,7750000145,Jugo Red Bull 300ml,Bebidas,Bebidas del Norte S.A.C.,3.21
+146,7750000146,Cerveza Sporade 6pack,Bebidas,Distribuidora Botiquín Norte E.I.R.L.,5.39
+147,7750000147,Bebida láctea Frugos 300ml,Bebidas,Productos Andinos S.A.C.,3.94
+148,7750000148,Café listo Red Bull 330ml,Bebidas,Panadería Industrial Cajamarca,5.12
+149,7750000149,Té listo San Luis 300ml,Bebidas,Distribuidora La Libertad S.A.,3.51
+150,7750000150,Agua saborizada San Luis 625ml,Bebidas,Snacks del Valle S.A.C.,2.88
+151,7750000151,Leche Braedt 1L,Lácteos y Refrigerados,Snacks del Valle S.A.C.,3.91
+152,7750000152,Yogur Laive 1L,Lácteos y Refrigerados,Inversiones Alimenticias E.I.R.L.,3.6
+153,7750000153,Queso Sancor 250g,Lácteos y Refrigerados,Cuidado Peruano E.I.R.L.,8.48
+154,7750000154,Mantequilla Gloria 200g,Lácteos y Refrigerados,Distribuidora Norte S.A.C.,7.37
+155,7750000155,Jamón Laive 200g,Lácteos y Refrigerados,Limpieza Total S.A.C.,8.44
+156,7750000156,Hot Dog Bonlé 500g,Lácteos y Refrigerados,Importaciones del Pacífico S.A.C.,6.8
+157,7750000157,Crema de leche Braedt 200ml,Lácteos y Refrigerados,Lácteos Andinos S.A.C.,5.62
+158,7750000158,Postre refrigerado Laive unidad,Lácteos y Refrigerados,Comercializadora del Norte E.I.R.L.,4.72
+159,7750000159,Margarina Gloria 250g,Lácteos y Refrigerados,Alicorp Distribuciones E.I.R.L.,3.98
+160,7750000160,Leche Laive Pack 6,Lácteos y Refrigerados,Comercializadora El Sol S.A.C.,3.75
+161,7750000161,Yogur Braedt 160g,Lácteos y Refrigerados,Bebidas del Norte S.A.C.,3.29
+162,7750000162,Queso Laive 500g,Lácteos y Refrigerados,Distribuidora Botiquín Norte E.I.R.L.,8.4
+163,7750000163,Mantequilla Sancor 100g,Lácteos y Refrigerados,Productos Andinos S.A.C.,6.44
+164,7750000164,Jamón Sancor 500g,Lácteos y Refrigerados,Panadería Industrial Cajamarca,8.56
+165,7750000165,Hot Dog Bonlé 200g,Lácteos y Refrigerados,Distribuidora La Libertad S.A.,7.42
+166,7750000166,Crema de leche Danlac 200ml,Lácteos y Refrigerados,Snacks del Valle S.A.C.,5.54
+167,7750000167,Postre refrigerado Laive unidad,Lácteos y Refrigerados,Inversiones Alimenticias E.I.R.L.,4.18
+168,7750000168,Margarina Bonlé 500g,Lácteos y Refrigerados,Cuidado Peruano E.I.R.L.,4.01
+169,7750000169,Leche Sancor 1L,Lácteos y Refrigerados,Distribuidora Norte S.A.C.,4.04
+170,7750000170,Yogur Gloria 1L,Lácteos y Refrigerados,Limpieza Total S.A.C.,3.28
+171,7750000171,Queso Danlac 250g,Lácteos y Refrigerados,Importaciones del Pacífico S.A.C.,9.1
+172,7750000172,Mantequilla Gloria 200g,Lácteos y Refrigerados,Lácteos Andinos S.A.C.,6.67
+173,7750000173,Jamón Sancor 200g,Lácteos y Refrigerados,Comercializadora del Norte E.I.R.L.,8.01
+174,7750000174,Hot Dog Braedt 500g,Lácteos y Refrigerados,Alicorp Distribuciones E.I.R.L.,6.62
+175,7750000175,Crema de leche Bonlé 200ml,Lácteos y Refrigerados,Comercializadora El Sol S.A.C.,6.07
+176,7750000176,Postre refrigerado Braedt unidad,Lácteos y Refrigerados,Bebidas del Norte S.A.C.,4.64
+177,7750000177,Margarina Braedt 250g,Lácteos y Refrigerados,Distribuidora Botiquín Norte E.I.R.L.,4.53
+178,7750000178,Leche Sancor Pack 6,Lácteos y Refrigerados,Productos Andinos S.A.C.,4.04
+179,7750000179,Yogur Gloria 160g,Lácteos y Refrigerados,Panadería Industrial Cajamarca,3.58
+180,7750000180,Queso Gloria 500g,Lácteos y Refrigerados,Distribuidora La Libertad S.A.,7.88
+181,7750000181,Mantequilla Gloria 100g,Lácteos y Refrigerados,Snacks del Valle S.A.C.,7.53
+182,7750000182,Jamón Danlac 500g,Lácteos y Refrigerados,Inversiones Alimenticias E.I.R.L.,9.07
+183,7750000183,Hot Dog Braedt 200g,Lácteos y Refrigerados,Cuidado Peruano E.I.R.L.,6.88
+184,7750000184,Crema de leche Gloria 200ml,Lácteos y Refrigerados,Distribuidora Norte S.A.C.,6.17
+185,7750000185,Postre refrigerado Bonlé unidad,Lácteos y Refrigerados,Limpieza Total S.A.C.,4.34
+186,7750000186,Margarina Laive 500g,Lácteos y Refrigerados,Importaciones del Pacífico S.A.C.,4.37
+187,7750000187,Leche Sancor 1L,Lácteos y Refrigerados,Lácteos Andinos S.A.C.,3.81
+188,7750000188,Yogur Bonlé 1L,Lácteos y Refrigerados,Comercializadora del Norte E.I.R.L.,3.49
+189,7750000189,Queso Sancor 250g,Lácteos y Refrigerados,Alicorp Distribuciones E.I.R.L.,8.61
+190,7750000190,Mantequilla Bonlé 200g,Lácteos y Refrigerados,Comercializadora El Sol S.A.C.,7.06
+191,7750000191,Jamón Gloria 200g,Lácteos y Refrigerados,Bebidas del Norte S.A.C.,9.04
+192,7750000192,Hot Dog Danlac 500g,Lácteos y Refrigerados,Distribuidora Botiquín Norte E.I.R.L.,6.59
+193,7750000193,Crema de leche Gloria 200ml,Lácteos y Refrigerados,Productos Andinos S.A.C.,5.48
+194,7750000194,Postre refrigerado Braedt unidad,Lácteos y Refrigerados,Panadería Industrial Cajamarca,4.52
+195,7750000195,Margarina Bonlé 250g,Lácteos y Refrigerados,Distribuidora La Libertad S.A.,3.9
+196,7750000196,Leche Bonlé Pack 6,Lácteos y Refrigerados,Snacks del Valle S.A.C.,4.31
+197,7750000197,Yogur Gloria 160g,Lácteos y Refrigerados,Inversiones Alimenticias E.I.R.L.,3.34
+198,7750000198,Queso Laive 500g,Lácteos y Refrigerados,Cuidado Peruano E.I.R.L.,7.91
+199,7750000199,Mantequilla Sancor 100g,Lácteos y Refrigerados,Distribuidora Norte S.A.C.,7.33
+200,7750000200,Jamón Bonlé 500g,Lácteos y Refrigerados,Limpieza Total S.A.C.,8.85
+201,7750000201,Hot Dog Sancor 200g,Lácteos y Refrigerados,Importaciones del Pacífico S.A.C.,6.96
+202,7750000202,Crema de leche Braedt 200ml,Lácteos y Refrigerados,Lácteos Andinos S.A.C.,6.07
+203,7750000203,Postre refrigerado Laive unidad,Lácteos y Refrigerados,Comercializadora del Norte E.I.R.L.,4.42
+204,7750000204,Margarina Sancor 500g,Lácteos y Refrigerados,Alicorp Distribuciones E.I.R.L.,4.11
+205,7750000205,Leche Braedt 1L,Lácteos y Refrigerados,Comercializadora El Sol S.A.C.,4.16
+206,7750000206,Detergente Suavitel 500g,Limpieza,Comercializadora El Sol S.A.C.,6.35
+207,7750000207,Lavavajilla Ayudín 1L,Limpieza,Bebidas del Norte S.A.C.,4.53
+208,7750000208,Lejía Pino 1L,Limpieza,Distribuidora Botiquín Norte E.I.R.L.,3.66
+209,7750000209,Limpiador pisos Clorox 1L,Limpieza,Productos Andinos S.A.C.,4.88
+210,7750000210,Desinfectante Suavitel 500ml,Limpieza,Panadería Industrial Cajamarca,4.47
+211,7750000211,Suavizante Suavitel 2L,Limpieza,Distribuidora La Libertad S.A.,5.99
+212,7750000212,Esponja Pino unidad,Limpieza,Snacks del Valle S.A.C.,2.05
+213,7750000213,Escoba Opal unidad,Limpieza,Inversiones Alimenticias E.I.R.L.,8.91
+214,7750000214,Trapeador Opal unidad,Limpieza,Cuidado Peruano E.I.R.L.,7.99
+215,7750000215,Bolsas basura Sapolio 20u,Limpieza,Distribuidora Norte S.A.C.,3.78
+216,7750000216,Detergente Opal 1kg,Limpieza,Limpieza Total S.A.C.,6.64
+217,7750000217,Lavavajilla Ayudín 1L,Limpieza,Importaciones del Pacífico S.A.C.,4.65
+218,7750000218,Lejía Opal 1L,Limpieza,Lácteos Andinos S.A.C.,3.91
+219,7750000219,Limpiador pisos Suavitel 1L,Limpieza,Comercializadora del Norte E.I.R.L.,4.86
+220,7750000220,Desinfectante Clorox 500ml,Limpieza,Alicorp Distribuciones E.I.R.L.,4.23
+221,7750000221,Suavizante Ayudín 2L,Limpieza,Comercializadora El Sol S.A.C.,6.4
+222,7750000222,Esponja Clorox unidad,Limpieza,Bebidas del Norte S.A.C.,2.13
+223,7750000223,Escoba Sapolio unidad,Limpieza,Distribuidora Botiquín Norte E.I.R.L.,8.49
+224,7750000224,Trapeador Suavitel unidad,Limpieza,Productos Andinos S.A.C.,7.56
+225,7750000225,Bolsas basura Suavitel 20u,Limpieza,Panadería Industrial Cajamarca,4.24
+226,7750000226,Detergente Suavitel 2kg,Limpieza,Distribuidora La Libertad S.A.,6.4
+227,7750000227,Lavavajilla Ayudín 1L,Limpieza,Snacks del Valle S.A.C.,4.45
+228,7750000228,Lejía Clorox 1L,Limpieza,Inversiones Alimenticias E.I.R.L.,3.54
+229,7750000229,Limpiador pisos Pino 1L,Limpieza,Cuidado Peruano E.I.R.L.,4.92
+230,7750000230,Desinfectante Ace 500ml,Limpieza,Distribuidora Norte S.A.C.,4.46
+231,7750000231,Suavizante Ace 2L,Limpieza,Limpieza Total S.A.C.,6.39
+232,7750000232,Esponja Ace unidad,Limpieza,Importaciones del Pacífico S.A.C.,2.29
+233,7750000233,Escoba Ayudín unidad,Limpieza,Lácteos Andinos S.A.C.,8.6
+234,7750000234,Trapeador Suavitel unidad,Limpieza,Comercializadora del Norte E.I.R.L.,7.48
+235,7750000235,Bolsas basura Ace 20u,Limpieza,Alicorp Distribuciones E.I.R.L.,3.93
+236,7750000236,Detergente Opal 500g,Limpieza,Comercializadora El Sol S.A.C.,6.4
+237,7750000237,Lavavajilla Ayudín 1L,Limpieza,Bebidas del Norte S.A.C.,4.68
+238,7750000238,Lejía Ayudín 1L,Limpieza,Distribuidora Botiquín Norte E.I.R.L.,3.61
+239,7750000239,Limpiador pisos Ayudín 1L,Limpieza,Productos Andinos S.A.C.,5.16
+240,7750000240,Desinfectante Pino 500ml,Limpieza,Panadería Industrial Cajamarca,4.36
+241,7750000241,Suavizante Opal 2L,Limpieza,Distribuidora La Libertad S.A.,6.79
+242,7750000242,Esponja Ayudín unidad,Limpieza,Snacks del Valle S.A.C.,2.2
+243,7750000243,Escoba Ace unidad,Limpieza,Inversiones Alimenticias E.I.R.L.,8.75
+244,7750000244,Trapeador Clorox unidad,Limpieza,Cuidado Peruano E.I.R.L.,7.42
+245,7750000245,Bolsas basura Ace 20u,Limpieza,Distribuidora Norte S.A.C.,3.93
+246,7750000246,Detergente Sapolio 1kg,Limpieza,Limpieza Total S.A.C.,6.87
+247,7750000247,Lavavajilla Pino 1L,Limpieza,Importaciones del Pacífico S.A.C.,4.73
+248,7750000248,Lejía Ace 1L,Limpieza,Lácteos Andinos S.A.C.,3.76
+249,7750000249,Limpiador pisos Clorox 1L,Limpieza,Comercializadora del Norte E.I.R.L.,5.17
+250,7750000250,Desinfectante Pino 500ml,Limpieza,Alicorp Distribuciones E.I.R.L.,4.39
+251,7750000251,Suavizante Ace 2L,Limpieza,Comercializadora El Sol S.A.C.,6.78
+252,7750000252,Esponja Opal unidad,Limpieza,Bebidas del Norte S.A.C.,2.24
+253,7750000253,Escoba Ace unidad,Limpieza,Distribuidora Botiquín Norte E.I.R.L.,9.61
+254,7750000254,Trapeador Suavitel unidad,Limpieza,Productos Andinos S.A.C.,7.65
+255,7750000255,Bolsas basura Suavitel 20u,Limpieza,Panadería Industrial Cajamarca,3.89
+256,7750000256,Shampoo Nivea 200ml,Cuidado Personal,Distribuidora Norte S.A.C.,12.19
+257,7750000257,Acondicionador Rexona 200ml,Cuidado Personal,Limpieza Total S.A.C.,11.21
+258,7750000258,Jabón tocador Dove 90g,Cuidado Personal,Importaciones del Pacífico S.A.C.,3.74
+259,7750000259,Pasta dental Colgate 100ml,Cuidado Personal,Lácteos Andinos S.A.C.,5.71
+260,7750000260,Cepillo dental Nivea unidad,Cuidado Personal,Comercializadora del Norte E.I.R.L.,4.72
+261,7750000261,Desodorante Rexona 150ml,Cuidado Personal,Alicorp Distribuciones E.I.R.L.,10.83
+262,7750000262,Papel higiénico Nosotras 4rollos,Cuidado Personal,Comercializadora El Sol S.A.C.,6.66
+263,7750000263,Toallas higiénicas Dove 16u,Cuidado Personal,Bebidas del Norte S.A.C.,5.34
+264,7750000264,Crema corporal Colgate 200ml,Cuidado Personal,Distribuidora Botiquín Norte E.I.R.L.,9.23
+265,7750000265,Gel cabello Nosotras 150g,Cuidado Personal,Productos Andinos S.A.C.,6.38
+266,7750000266,Shampoo Colgate 200ml,Cuidado Personal,Panadería Industrial Cajamarca,12.35
+267,7750000267,Acondicionador Nivea 200ml,Cuidado Personal,Distribuidora La Libertad S.A.,12.53
+268,7750000268,Jabón tocador Nivea 90g,Cuidado Personal,Snacks del Valle S.A.C.,3.23
+269,7750000269,Pasta dental Pantene 100ml,Cuidado Personal,Inversiones Alimenticias E.I.R.L.,5.23
+270,7750000270,Cepillo dental Dove unidad,Cuidado Personal,Cuidado Peruano E.I.R.L.,4.33
+271,7750000271,Desodorante Pantene 150ml,Cuidado Personal,Distribuidora Norte S.A.C.,10.35
+272,7750000272,Papel higiénico Nosotras 4rollos,Cuidado Personal,Limpieza Total S.A.C.,6.29
+273,7750000273,Toallas higiénicas Colgate 16u,Cuidado Personal,Importaciones del Pacífico S.A.C.,4.92
+274,7750000274,Crema corporal Nosotras 200ml,Cuidado Personal,Lácteos Andinos S.A.C.,9.71
+275,7750000275,Gel cabello Dove 150g,Cuidado Personal,Comercializadora del Norte E.I.R.L.,6.83
+276,7750000276,Shampoo Colgate 200ml,Cuidado Personal,Alicorp Distribuciones E.I.R.L.,12.03
+277,7750000277,Acondicionador Head & Shoulders 200ml,Cuidado Personal,Comercializadora El Sol S.A.C.,11.92
+278,7750000278,Jabón tocador Nivea 90g,Cuidado Personal,Bebidas del Norte S.A.C.,3.25
+279,7750000279,Pasta dental Head & Shoulders 100ml,Cuidado Personal,Distribuidora Botiquín Norte E.I.R.L.,5.92
+280,7750000280,Cepillo dental Pantene unidad,Cuidado Personal,Productos Andinos S.A.C.,4.65
+281,7750000281,Desodorante Dove 150ml,Cuidado Personal,Panadería Industrial Cajamarca,11.24
+282,7750000282,Papel higiénico Head & Shoulders 4rollos,Cuidado Personal,Distribuidora La Libertad S.A.,6.89
+283,7750000283,Toallas higiénicas Nosotras 16u,Cuidado Personal,Snacks del Valle S.A.C.,4.76
+284,7750000284,Crema corporal Head & Shoulders 200ml,Cuidado Personal,Inversiones Alimenticias E.I.R.L.,9.36
+285,7750000285,Gel cabello Nosotras 150g,Cuidado Personal,Cuidado Peruano E.I.R.L.,6.4
+286,7750000286,Shampoo Rexona 200ml,Cuidado Personal,Distribuidora Norte S.A.C.,12.3
+287,7750000287,Acondicionador Rexona 200ml,Cuidado Personal,Limpieza Total S.A.C.,11.65
+288,7750000288,Jabón tocador Colgate 90g,Cuidado Personal,Importaciones del Pacífico S.A.C.,3.64
+289,7750000289,Pasta dental Nosotras 100ml,Cuidado Personal,Lácteos Andinos S.A.C.,5.43
+290,7750000290,Cepillo dental Dove unidad,Cuidado Personal,Comercializadora del Norte E.I.R.L.,4.61
+291,7750000291,Desodorante Head & Shoulders 150ml,Cuidado Personal,Alicorp Distribuciones E.I.R.L.,10.57
+292,7750000292,Papel higiénico Rexona 4rollos,Cuidado Personal,Comercializadora El Sol S.A.C.,6.46
+293,7750000293,Toallas higiénicas Colgate 16u,Cuidado Personal,Bebidas del Norte S.A.C.,5.05
+294,7750000294,Crema corporal Rexona 200ml,Cuidado Personal,Distribuidora Botiquín Norte E.I.R.L.,9.11
+295,7750000295,Gel cabello Colgate 150g,Cuidado Personal,Productos Andinos S.A.C.,6.52
+296,7750000296,Shampoo Head & Shoulders 200ml,Cuidado Personal,Panadería Industrial Cajamarca,11.13
+297,7750000297,Acondicionador Colgate 200ml,Cuidado Personal,Distribuidora La Libertad S.A.,11.88
+298,7750000298,Jabón tocador Nosotras 90g,Cuidado Personal,Snacks del Valle S.A.C.,3.59
+299,7750000299,Pasta dental Head & Shoulders 100ml,Cuidado Personal,Inversiones Alimenticias E.I.R.L.,5.35
+300,7750000300,Cepillo dental Head & Shoulders unidad,Cuidado Personal,Cuidado Peruano E.I.R.L.,4.19
+301,7750000301,Desodorante Rexona 150ml,Cuidado Personal,Distribuidora Norte S.A.C.,10.13
+302,7750000302,Papel higiénico Colgate 4rollos,Cuidado Personal,Limpieza Total S.A.C.,5.99
+303,7750000303,Toallas higiénicas Pantene 16u,Cuidado Personal,Importaciones del Pacífico S.A.C.,4.85
+304,7750000304,Crema corporal Colgate 200ml,Cuidado Personal,Lácteos Andinos S.A.C.,8.96
+305,7750000305,Gel cabello Colgate 150g,Cuidado Personal,Comercializadora del Norte E.I.R.L.,6.29
+306,7750000306,Shampoo Dove 200ml,Cuidado Personal,Alicorp Distribuciones E.I.R.L.,11.91
+307,7750000307,Acondicionador Pantene 200ml,Cuidado Personal,Comercializadora El Sol S.A.C.,12.81
+308,7750000308,Jabón tocador Nivea 90g,Cuidado Personal,Bebidas del Norte S.A.C.,3.27
+309,7750000309,Pasta dental Pantene 100ml,Cuidado Personal,Distribuidora Botiquín Norte E.I.R.L.,5.62
+310,7750000310,Cepillo dental Head & Shoulders unidad,Cuidado Personal,Productos Andinos S.A.C.,4.54
+311,7750000311,Galletas Mogul pack,Snacks y Golosinas,Productos Andinos S.A.C.,2.07
+312,7750000312,Papas fritas Field 150g,Snacks y Golosinas,Panadería Industrial Cajamarca,4.57
+313,7750000313,Chizitos Lay’s 50g,Snacks y Golosinas,Distribuidora La Libertad S.A.,2.83
+314,7750000314,Chocolate Oreo 60g,Snacks y Golosinas,Snacks del Valle S.A.C.,1.95
+315,7750000315,Caramelos Sublime 100g,Snacks y Golosinas,Inversiones Alimenticias E.I.R.L.,2.87
+316,7750000316,Chicles Trident pack,Snacks y Golosinas,Cuidado Peruano E.I.R.L.,2.26
+317,7750000317,Maní Trident 100g,Snacks y Golosinas,Distribuidora Norte S.A.C.,2.93
+318,7750000318,Barra cereal Field 30g,Snacks y Golosinas,Limpieza Total S.A.C.,2.36
+319,7750000319,Gomitas Cheetos 100g,Snacks y Golosinas,Importaciones del Pacífico S.A.C.,2.68
+320,7750000320,Cancha Mogul 100g,Snacks y Golosinas,Lácteos Andinos S.A.C.,3.06
+321,7750000321,Galletas Field pack,Snacks y Golosinas,Comercializadora del Norte E.I.R.L.,2.08
+322,7750000322,Papas fritas Lay’s 150g,Snacks y Golosinas,Alicorp Distribuciones E.I.R.L.,4.29
+323,7750000323,Chizitos Ritz 50g,Snacks y Golosinas,Comercializadora El Sol S.A.C.,2.78
+324,7750000324,Chocolate Lay’s 60g,Snacks y Golosinas,Bebidas del Norte S.A.C.,2.06
+325,7750000325,Caramelos Lay’s 100g,Snacks y Golosinas,Distribuidora Botiquín Norte E.I.R.L.,3.02
+326,7750000326,Chicles Cheetos pack,Snacks y Golosinas,Productos Andinos S.A.C.,2.25
+327,7750000327,Maní Mogul 100g,Snacks y Golosinas,Panadería Industrial Cajamarca,3.04
+328,7750000328,Barra cereal Oreo 30g,Snacks y Golosinas,Distribuidora La Libertad S.A.,2.16
+329,7750000329,Gomitas Field 100g,Snacks y Golosinas,Snacks del Valle S.A.C.,2.62
+330,7750000330,Cancha Mogul 100g,Snacks y Golosinas,Inversiones Alimenticias E.I.R.L.,3.01
+331,7750000331,Galletas Field pack,Snacks y Golosinas,Cuidado Peruano E.I.R.L.,2.22
+332,7750000332,Papas fritas Field 150g,Snacks y Golosinas,Distribuidora Norte S.A.C.,4.68
+333,7750000333,Chizitos Oreo 50g,Snacks y Golosinas,Limpieza Total S.A.C.,2.89
+334,7750000334,Chocolate Cheetos 60g,Snacks y Golosinas,Importaciones del Pacífico S.A.C.,2.14
+335,7750000335,Caramelos Sublime 100g,Snacks y Golosinas,Lácteos Andinos S.A.C.,2.59
+336,7750000336,Chicles Sublime pack,Snacks y Golosinas,Comercializadora del Norte E.I.R.L.,2.31
+337,7750000337,Maní Field 100g,Snacks y Golosinas,Alicorp Distribuciones E.I.R.L.,3.04
+338,7750000338,Barra cereal Cheetos 30g,Snacks y Golosinas,Comercializadora El Sol S.A.C.,2.16
+339,7750000339,Gomitas Field 100g,Snacks y Golosinas,Bebidas del Norte S.A.C.,2.88
+340,7750000340,Cancha Mogul 100g,Snacks y Golosinas,Distribuidora Botiquín Norte E.I.R.L.,3.17
+341,7750000341,Galletas Trident pack,Snacks y Golosinas,Productos Andinos S.A.C.,2.09
+342,7750000342,Papas fritas Oreo 150g,Snacks y Golosinas,Panadería Industrial Cajamarca,4.42
+343,7750000343,Chizitos Lay’s 50g,Snacks y Golosinas,Distribuidora La Libertad S.A.,2.89
+344,7750000344,Chocolate Lay’s 60g,Snacks y Golosinas,Snacks del Valle S.A.C.,2.15
+345,7750000345,Caramelos Sublime 100g,Snacks y Golosinas,Inversiones Alimenticias E.I.R.L.,2.79
+346,7750000346,Chicles Oreo pack,Snacks y Golosinas,Cuidado Peruano E.I.R.L.,2.12
+347,7750000347,Maní Doritos 100g,Snacks y Golosinas,Distribuidora Norte S.A.C.,3.11
+348,7750000348,Barra cereal Ritz 30g,Snacks y Golosinas,Limpieza Total S.A.C.,2.1
+349,7750000349,Gomitas Mogul 100g,Snacks y Golosinas,Importaciones del Pacífico S.A.C.,2.66
+350,7750000350,Cancha Field 100g,Snacks y Golosinas,Lácteos Andinos S.A.C.,3.23
+351,7750000351,Galletas Mogul pack,Snacks y Golosinas,Comercializadora del Norte E.I.R.L.,2.2
+352,7750000352,Papas fritas Sublime 150g,Snacks y Golosinas,Alicorp Distribuciones E.I.R.L.,4.82
+353,7750000353,Chizitos Doritos 50g,Snacks y Golosinas,Comercializadora El Sol S.A.C.,3.02
+354,7750000354,Chocolate Mogul 60g,Snacks y Golosinas,Bebidas del Norte S.A.C.,2.04
+355,7750000355,Caramelos Trident 100g,Snacks y Golosinas,Distribuidora Botiquín Norte E.I.R.L.,2.81
+356,7750000356,Chicles Field pack,Snacks y Golosinas,Productos Andinos S.A.C.,2.32
+357,7750000357,Maní Sublime 100g,Snacks y Golosinas,Panadería Industrial Cajamarca,2.87
+358,7750000358,Barra cereal Ritz 30g,Snacks y Golosinas,Distribuidora La Libertad S.A.,2.17
+359,7750000359,Gomitas Cheetos 100g,Snacks y Golosinas,Snacks del Valle S.A.C.,2.67
+360,7750000360,Cancha Mogul 100g,Snacks y Golosinas,Inversiones Alimenticias E.I.R.L.,3.24
+361,7750000361,Galletas Ritz pack,Snacks y Golosinas,Cuidado Peruano E.I.R.L.,2.2
+362,7750000362,Papas fritas Cheetos 150g,Snacks y Golosinas,Distribuidora Norte S.A.C.,4.85
+363,7750000363,Chizitos Doritos 50g,Snacks y Golosinas,Limpieza Total S.A.C.,3.01
+364,7750000364,Chocolate Doritos 60g,Snacks y Golosinas,Importaciones del Pacífico S.A.C.,2.04
+365,7750000365,Caramelos Lay’s 100g,Snacks y Golosinas,Lácteos Andinos S.A.C.,2.88
+366,7750000366,Chicles Sublime pack,Snacks y Golosinas,Comercializadora del Norte E.I.R.L.,2.17
+367,7750000367,Maní Oreo 100g,Snacks y Golosinas,Alicorp Distribuciones E.I.R.L.,2.96
+368,7750000368,Barra cereal Doritos 30g,Snacks y Golosinas,Comercializadora El Sol S.A.C.,2.14
+369,7750000369,Gomitas Doritos 100g,Snacks y Golosinas,Bebidas del Norte S.A.C.,2.84
+370,7750000370,Cancha Trident 100g,Snacks y Golosinas,Distribuidora Botiquín Norte E.I.R.L.,2.95
+371,7750000371,Galletas Oreo pack,Snacks y Golosinas,Productos Andinos S.A.C.,2.03
+372,7750000372,Papas fritas Trident 150g,Snacks y Golosinas,Panadería Industrial Cajamarca,4.81
+373,7750000373,Chizitos Cheetos 50g,Snacks y Golosinas,Distribuidora La Libertad S.A.,2.87
+374,7750000374,Chocolate Cheetos 60g,Snacks y Golosinas,Snacks del Valle S.A.C.,2.09
+375,7750000375,Caramelos Field 100g,Snacks y Golosinas,Inversiones Alimenticias E.I.R.L.,2.9
+376,7750000376,Chicles Mogul pack,Snacks y Golosinas,Cuidado Peruano E.I.R.L.,2.2
+377,7750000377,Maní Ritz 100g,Snacks y Golosinas,Distribuidora Norte S.A.C.,2.86
+378,7750000378,Barra cereal Sublime 30g,Snacks y Golosinas,Limpieza Total S.A.C.,2.2
+379,7750000379,Gomitas Cheetos 100g,Snacks y Golosinas,Importaciones del Pacífico S.A.C.,2.81
+380,7750000380,Cancha Field 100g,Snacks y Golosinas,Lácteos Andinos S.A.C.,3.39
+381,7750000381,Pan de molde Bimbo 500g,Panadería y Pastelería,Lácteos Andinos S.A.C.,5.31
+382,7750000382,Pan francés KUSI 12u,Panadería y Pastelería,Comercializadora del Norte E.I.R.L.,1.8
+383,7750000383,Empanada KUSI unidad,Panadería y Pastelería,Alicorp Distribuciones E.I.R.L.,3.67
+384,7750000384,Alfajor KUSI pack 3,Panadería y Pastelería,Comercializadora El Sol S.A.C.,2.82
+385,7750000385,Brownie Field unidad,Panadería y Pastelería,Bebidas del Norte S.A.C.,3.23
+386,7750000386,Queque Field unidad,Panadería y Pastelería,Distribuidora Botiquín Norte E.I.R.L.,4.01
+387,7750000387,Croissant San Jorge unidad,Panadería y Pastelería,Productos Andinos S.A.C.,3.68
+388,7750000388,Pan de molde KUSI 500g,Panadería y Pastelería,Panadería Industrial Cajamarca,5.35
+389,7750000389,Pan francés KUSI 6u,Panadería y Pastelería,Distribuidora La Libertad S.A.,1.83
+390,7750000390,Empanada KUSI unidad,Panadería y Pastelería,Snacks del Valle S.A.C.,3.48
+391,7750000391,Alfajor San Jorge unidad,Panadería y Pastelería,Inversiones Alimenticias E.I.R.L.,2.79
+392,7750000392,Brownie KUSI unidad,Panadería y Pastelería,Cuidado Peruano E.I.R.L.,3.45
+393,7750000393,Queque San Jorge unidad,Panadería y Pastelería,Distribuidora Norte S.A.C.,3.74
+394,7750000394,Croissant KUSI unidad,Panadería y Pastelería,Limpieza Total S.A.C.,3.71
+395,7750000395,Pan de molde Field 500g,Panadería y Pastelería,Importaciones del Pacífico S.A.C.,5.55
+396,7750000396,Pan francés San Jorge 12u,Panadería y Pastelería,Lácteos Andinos S.A.C.,1.85
+397,7750000397,Empanada Bimbo unidad,Panadería y Pastelería,Comercializadora del Norte E.I.R.L.,3.28
+398,7750000398,Alfajor Field pack 3,Panadería y Pastelería,Alicorp Distribuciones E.I.R.L.,2.74
+399,7750000399,Brownie San Jorge unidad,Panadería y Pastelería,Comercializadora El Sol S.A.C.,3.36
+400,7750000400,Queque Bimbo unidad,Panadería y Pastelería,Bebidas del Norte S.A.C.,3.72
+401,7750000401,Croissant San Jorge unidad,Panadería y Pastelería,Distribuidora Botiquín Norte E.I.R.L.,3.7
+402,7750000402,Pan de molde Bimbo 500g,Panadería y Pastelería,Productos Andinos S.A.C.,5.42
+403,7750000403,Pan francés Bimbo 6u,Panadería y Pastelería,Panadería Industrial Cajamarca,1.71
+404,7750000404,Empanada Bimbo unidad,Panadería y Pastelería,Distribuidora La Libertad S.A.,3.28
+405,7750000405,Alfajor San Jorge unidad,Panadería y Pastelería,Snacks del Valle S.A.C.,2.61
+406,7750000406,Brownie Field unidad,Panadería y Pastelería,Inversiones Alimenticias E.I.R.L.,3.71
+407,7750000407,Queque Bimbo unidad,Panadería y Pastelería,Cuidado Peruano E.I.R.L.,4.11
+408,7750000408,Croissant San Jorge unidad,Panadería y Pastelería,Distribuidora Norte S.A.C.,3.34
+409,7750000409,Pan de molde Bimbo 500g,Panadería y Pastelería,Limpieza Total S.A.C.,5.5
+410,7750000410,Pan francés Bimbo 12u,Panadería y Pastelería,Importaciones del Pacífico S.A.C.,1.73
+411,7750000411,Empanada San Jorge unidad,Panadería y Pastelería,Lácteos Andinos S.A.C.,3.68
+412,7750000412,Alfajor Field pack 3,Panadería y Pastelería,Comercializadora del Norte E.I.R.L.,2.91
+413,7750000413,Brownie KUSI unidad,Panadería y Pastelería,Alicorp Distribuciones E.I.R.L.,3.33
+414,7750000414,Queque Field unidad,Panadería y Pastelería,Comercializadora El Sol S.A.C.,4.06
+415,7750000415,Croissant Bimbo unidad,Panadería y Pastelería,Bebidas del Norte S.A.C.,3.66
+416,7750000416,Pan de molde KUSI 500g,Panadería y Pastelería,Distribuidora Botiquín Norte E.I.R.L.,5.56
+417,7750000417,Pan francés Field 6u,Panadería y Pastelería,Productos Andinos S.A.C.,1.83
+418,7750000418,Empanada Bimbo unidad,Panadería y Pastelería,Panadería Industrial Cajamarca,3.72
+419,7750000419,Alfajor Bimbo unidad,Panadería y Pastelería,Distribuidora La Libertad S.A.,2.58
+420,7750000420,Brownie Bimbo unidad,Panadería y Pastelería,Snacks del Valle S.A.C.,3.24
+421,7750000421,Queque Field unidad,Panadería y Pastelería,Inversiones Alimenticias E.I.R.L.,4.13
+422,7750000422,Croissant Field unidad,Panadería y Pastelería,Cuidado Peruano E.I.R.L.,3.42
+423,7750000423,Pan de molde Field 500g,Panadería y Pastelería,Distribuidora Norte S.A.C.,5.19
+424,7750000424,Pan francés San Jorge 12u,Panadería y Pastelería,Limpieza Total S.A.C.,1.76
+425,7750000425,Empanada KUSI unidad,Panadería y Pastelería,Importaciones del Pacífico S.A.C.,3.68
+426,7750000426,Paracetamol Johnson 500mg 10u,Botiquín OTC,Snacks del Valle S.A.C.,2.73
+427,7750000427,Ibuprofeno Ibuprofeno genérico 400mg 10u,Botiquín OTC,Inversiones Alimenticias E.I.R.L.,3.38
+428,7750000428,Sales rehidratación Vick sobre,Botiquín OTC,Cuidado Peruano E.I.R.L.,2.0
+429,7750000429,Alcohol Ibuprofeno genérico 250ml,Botiquín OTC,Distribuidora Norte S.A.C.,2.85
+430,7750000430,Curitas Panadol 10u,Botiquín OTC,Limpieza Total S.A.C.,3.54
+431,7750000431,Agua oxigenada Ibuprofeno genérico 100ml,Botiquín OTC,Importaciones del Pacífico S.A.C.,2.18
+432,7750000432,Vick Ibuprofeno genérico 50g,Botiquín OTC,Lácteos Andinos S.A.C.,9.53
+433,7750000433,Suero fisiológico Panadol 500ml,Botiquín OTC,Comercializadora del Norte E.I.R.L.,3.37
+434,7750000434,Paracetamol Johnson 500mg 10u,Botiquín OTC,Alicorp Distribuciones E.I.R.L.,2.84
+435,7750000435,Ibuprofeno Panadol 400mg 10u,Botiquín OTC,Comercializadora El Sol S.A.C.,3.55
+436,7750000436,Sales rehidratación Ibuprofeno genérico sobre,Botiquín OTC,Bebidas del Norte S.A.C.,1.95
+437,7750000437,Alcohol Curitas 250ml,Botiquín OTC,Distribuidora Botiquín Norte E.I.R.L.,2.81
+438,7750000438,Curitas Panadol 10u,Botiquín OTC,Productos Andinos S.A.C.,3.43
+439,7750000439,Agua oxigenada Ibuprofeno genérico 100ml,Botiquín OTC,Panadería Industrial Cajamarca,2.18
+440,7750000440,Vick Ibuprofeno genérico 50g,Botiquín OTC,Distribuidora La Libertad S.A.,9.92
+441,7750000441,Suero fisiológico Johnson 500ml,Botiquín OTC,Snacks del Valle S.A.C.,3.56
+442,7750000442,Paracetamol Johnson 500mg 10u,Botiquín OTC,Inversiones Alimenticias E.I.R.L.,2.58
+443,7750000443,Ibuprofeno Vick 400mg 10u,Botiquín OTC,Cuidado Peruano E.I.R.L.,3.29
+444,7750000444,Sales rehidratación Vick sobre,Botiquín OTC,Distribuidora Norte S.A.C.,2.07
+445,7750000445,Alcohol Vick 250ml,Botiquín OTC,Limpieza Total S.A.C.,3.06
+446,7750000446,Curitas Vick 10u,Botiquín OTC,Importaciones del Pacífico S.A.C.,3.77
+447,7750000447,Agua oxigenada Vick 100ml,Botiquín OTC,Lácteos Andinos S.A.C.,2.07
+448,7750000448,Vick Curitas 50g,Botiquín OTC,Comercializadora del Norte E.I.R.L.,9.15
+449,7750000449,Suero fisiológico Johnson 500ml,Botiquín OTC,Alicorp Distribuciones E.I.R.L.,3.43
+450,7750000450,Paracetamol Johnson 500mg 10u,Botiquín OTC,Comercializadora El Sol S.A.C.,2.82
+451,7750000451,Ibuprofeno Vick 400mg 10u,Botiquín OTC,Bebidas del Norte S.A.C.,3.35
+452,7750000452,Sales rehidratación Johnson sobre,Botiquín OTC,Distribuidora Botiquín Norte E.I.R.L.,1.98
+453,7750000453,Alcohol Curitas 250ml,Botiquín OTC,Productos Andinos S.A.C.,3.21
+454,7750000454,Curitas Johnson 10u,Botiquín OTC,Panadería Industrial Cajamarca,3.53
+455,7750000455,Agua oxigenada Curitas 100ml,Botiquín OTC,Distribuidora La Libertad S.A.,2.24
+456,7750000456,Vick Vick 50g,Botiquín OTC,Snacks del Valle S.A.C.,9.08
+457,7750000457,Suero fisiológico Curitas 500ml,Botiquín OTC,Inversiones Alimenticias E.I.R.L.,3.66
+458,7750000458,Paracetamol Panadol 500mg 10u,Botiquín OTC,Cuidado Peruano E.I.R.L.,2.76
+459,7750000459,Ibuprofeno Vick 400mg 10u,Botiquín OTC,Distribuidora Norte S.A.C.,3.33
+460,7750000460,Sales rehidratación Ibuprofeno genérico sobre,Botiquín OTC,Limpieza Total S.A.C.,2.14
+461,7750000461,Helado D’Onofrio unidad,Helados y Congelados,Comercializadora El Sol S.A.C.,3.73
+462,7750000462,Paleta helada Artika unidad,Helados y Congelados,Bebidas del Norte S.A.C.,2.6
+463,7750000463,Helado familiar D’Onofrio 1L,Helados y Congelados,Distribuidora Botiquín Norte E.I.R.L.,11.85
+464,7750000464,Nuggets Lamborgini 500g,Helados y Congelados,Productos Andinos S.A.C.,9.46
+465,7750000465,Hamburguesa congelada Artika pack 4,Helados y Congelados,Panadería Industrial Cajamarca,9.29
+466,7750000466,Helado D’Onofrio 1L,Helados y Congelados,Distribuidora La Libertad S.A.,3.58
+467,7750000467,Paleta helada D’Onofrio unidad,Helados y Congelados,Snacks del Valle S.A.C.,2.32
+468,7750000468,Helado familiar Artika 2L,Helados y Congelados,Inversiones Alimenticias E.I.R.L.,10.65
+469,7750000469,Nuggets Artika 500g,Helados y Congelados,Cuidado Peruano E.I.R.L.,8.53
+470,7750000470,Hamburguesa congelada Lamborgini pack 4,Helados y Congelados,Distribuidora Norte S.A.C.,9.95
+471,7750000471,Helado Artika unidad,Helados y Congelados,Limpieza Total S.A.C.,3.59
+472,7750000472,Paleta helada Lamborgini unidad,Helados y Congelados,Importaciones del Pacífico S.A.C.,2.56
+473,7750000473,Helado familiar Lamborgini 1L,Helados y Congelados,Lácteos Andinos S.A.C.,11.07
+474,7750000474,Nuggets D’Onofrio 500g,Helados y Congelados,Comercializadora del Norte E.I.R.L.,9.22
+475,7750000475,Hamburguesa congelada Lamborgini pack 4,Helados y Congelados,Alicorp Distribuciones E.I.R.L.,9.84
+476,7750000476,Helado Lamborgini 1L,Helados y Congelados,Comercializadora El Sol S.A.C.,3.63
+477,7750000477,Paleta helada D’Onofrio unidad,Helados y Congelados,Bebidas del Norte S.A.C.,2.56
+478,7750000478,Helado familiar D’Onofrio 2L,Helados y Congelados,Distribuidora Botiquín Norte E.I.R.L.,11.07
+479,7750000479,Nuggets Artika 500g,Helados y Congelados,Productos Andinos S.A.C.,8.91
+480,7750000480,Hamburguesa congelada D’Onofrio pack 4,Helados y Congelados,Panadería Industrial Cajamarca,10.59
+481,7750000481,Helado D’Onofrio unidad,Helados y Congelados,Distribuidora La Libertad S.A.,3.74
+482,7750000482,Paleta helada Artika unidad,Helados y Congelados,Snacks del Valle S.A.C.,2.41
+483,7750000483,Helado familiar Artika 1L,Helados y Congelados,Inversiones Alimenticias E.I.R.L.,11.51
+484,7750000484,Nuggets Artika 500g,Helados y Congelados,Cuidado Peruano E.I.R.L.,8.28
+485,7750000485,Hamburguesa congelada Lamborgini pack 4,Helados y Congelados,Distribuidora Norte S.A.C.,10.7
+486,7750000486,Helado Lamborgini 1L,Helados y Congelados,Limpieza Total S.A.C.,3.31
+487,7750000487,Paleta helada Lamborgini unidad,Helados y Congelados,Importaciones del Pacífico S.A.C.,2.37
+488,7750000488,Helado familiar D’Onofrio 2L,Helados y Congelados,Lácteos Andinos S.A.C.,10.96
+489,7750000489,Nuggets Artika 500g,Helados y Congelados,Comercializadora del Norte E.I.R.L.,9.22
+490,7750000490,Hamburguesa congelada Lamborgini pack 4,Helados y Congelados,Alicorp Distribuciones E.I.R.L.,10.22
+491,7750000491,Pilas Virutex 2u,Hogar y Accesorios,Distribuidora Norte S.A.C.,3.7
+492,7750000492,Encendedor Tigre unidad,Hogar y Accesorios,Limpieza Total S.A.C.,3.05
+493,7750000493,Bolsas compras Rayovac 10u,Hogar y Accesorios,Importaciones del Pacífico S.A.C.,1.85
+494,7750000494,Cinta adhesiva Rayovac unidad,Hogar y Accesorios,Lácteos Andinos S.A.C.,3.91
+495,7750000495,Foco LED Tigre 9W,Hogar y Accesorios,Comercializadora del Norte E.I.R.L.,8.91
+496,7750000496,Vaso descartable Virutex 50u,Hogar y Accesorios,Alicorp Distribuciones E.I.R.L.,3.47
+497,7750000497,Plato descartable Virutex 25u,Hogar y Accesorios,Comercializadora El Sol S.A.C.,3.49
+498,7750000498,Pañuelo papel Duracell pack,Hogar y Accesorios,Bebidas del Norte S.A.C.,2.73
+499,7750000499,Pilas Duracell 2u,Hogar y Accesorios,Distribuidora Botiquín Norte E.I.R.L.,4.17
+500,7750000500,Encendedor Duracell unidad,Hogar y Accesorios,Productos Andinos S.A.C.,2.96
+501,7750000501,Bolsas compras Rayovac 10u,Hogar y Accesorios,Panadería Industrial Cajamarca,1.85
+502,7750000502,Cinta adhesiva Rayovac unidad,Hogar y Accesorios,Distribuidora La Libertad S.A.,4.15
+503,7750000503,Foco LED Rayovac 9W,Hogar y Accesorios,Snacks del Valle S.A.C.,9.16
+504,7750000504,Vaso descartable Tigre 50u,Hogar y Accesorios,Inversiones Alimenticias E.I.R.L.,3.48
+505,7750000505,Plato descartable Rayovac 25u,Hogar y Accesorios,Cuidado Peruano E.I.R.L.,3.58
+506,7750000506,Pañuelo papel Duracell pack,Hogar y Accesorios,Distribuidora Norte S.A.C.,2.87
+507,7750000507,Pilas Rayovac 2u,Hogar y Accesorios,Limpieza Total S.A.C.,4.14
+508,7750000508,Encendedor Duracell unidad,Hogar y Accesorios,Importaciones del Pacífico S.A.C.,3.07
+509,7750000509,Bolsas compras Rayovac 10u,Hogar y Accesorios,Lácteos Andinos S.A.C.,2.07
+510,7750000510,Cinta adhesiva Rayovac unidad,Hogar y Accesorios,Comercializadora del Norte E.I.R.L.,4.14
+511,7750000511,Foco LED Tigre 9W,Hogar y Accesorios,Alicorp Distribuciones E.I.R.L.,9.33
+512,7750000512,Vaso descartable Virutex 50u,Hogar y Accesorios,Comercializadora El Sol S.A.C.,3.68
+513,7750000513,Plato descartable Rayovac 25u,Hogar y Accesorios,Bebidas del Norte S.A.C.,3.44
+514,7750000514,Pañuelo papel Tigre pack,Hogar y Accesorios,Distribuidora Botiquín Norte E.I.R.L.,2.84
+515,7750000515,Pilas Virutex 2u,Hogar y Accesorios,Productos Andinos S.A.C.,4.26

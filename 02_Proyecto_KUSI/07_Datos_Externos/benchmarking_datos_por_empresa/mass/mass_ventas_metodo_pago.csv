@@ -1,0 +1,193 @@
+﻿periodo,anio,mes,empresa,metodo_pago,ventas_soles,participacion_pct,origen_ventas
+2023-01,2023,1,Mass,Efectivo,111055145.77,61.4,sintetico
+2023-01,2023,1,Mass,Tarjeta débito,26107749.63,14.43,sintetico
+2023-01,2023,1,Mass,Tarjeta crédito,18214806.68,10.07,sintetico
+2023-01,2023,1,Mass,Yape,16361645.36,9.05,sintetico
+2023-01,2023,1,Mass,Plin,5553590.39,3.07,sintetico
+2023-01,2023,1,Mass,Transferencia,3590444.68,1.98,sintetico
+2023-02,2023,2,Mass,Efectivo,101913132.54,61.32,sintetico
+2023-02,2023,2,Mass,Tarjeta débito,23332685.69,14.04,sintetico
+2023-02,2023,2,Mass,Tarjeta crédito,16658351.51,10.02,sintetico
+2023-02,2023,2,Mass,Yape,15719049.8,9.46,sintetico
+2023-02,2023,2,Mass,Plin,5105625.43,3.07,sintetico
+2023-02,2023,2,Mass,Transferencia,3460161.25,2.08,sintetico
+2023-03,2023,3,Mass,Efectivo,120194850.63,60.96,sintetico
+2023-03,2023,3,Mass,Tarjeta débito,27616429.4,14.01,sintetico
+2023-03,2023,3,Mass,Tarjeta crédito,20300869.69,10.3,sintetico
+2023-03,2023,3,Mass,Yape,18855172.34,9.56,sintetico
+2023-03,2023,3,Mass,Plin,6144579.97,3.12,sintetico
+2023-03,2023,3,Mass,Transferencia,4055994.21,2.06,sintetico
+2023-04,2023,4,Mass,Efectivo,131276347.54,60.38,sintetico
+2023-04,2023,4,Mass,Tarjeta débito,31302237.67,14.4,sintetico
+2023-04,2023,4,Mass,Tarjeta crédito,21602578.39,9.94,sintetico
+2023-04,2023,4,Mass,Yape,21377893.56,9.83,sintetico
+2023-04,2023,4,Mass,Plin,7398836.48,3.4,sintetico
+2023-04,2023,4,Mass,Transferencia,4467455.95,2.05,sintetico
+2023-05,2023,5,Mass,Efectivo,133702515.16,59.77,sintetico
+2023-05,2023,5,Mass,Tarjeta débito,31965604.57,14.29,sintetico
+2023-05,2023,5,Mass,Tarjeta crédito,22742062.87,10.17,sintetico
+2023-05,2023,5,Mass,Yape,22816512.4,10.2,sintetico
+2023-05,2023,5,Mass,Plin,7682582.9,3.43,sintetico
+2023-05,2023,5,Mass,Transferencia,4785662.55,2.14,sintetico
+2023-06,2023,6,Mass,Efectivo,131329330.23,58.93,sintetico
+2023-06,2023,6,Mass,Tarjeta débito,31887243.14,14.31,sintetico
+2023-06,2023,6,Mass,Tarjeta crédito,22706722.56,10.19,sintetico
+2023-06,2023,6,Mass,Yape,24410816.4,10.95,sintetico
+2023-06,2023,6,Mass,Plin,7779218.93,3.49,sintetico
+2023-06,2023,6,Mass,Transferencia,4742400.89,2.13,sintetico
+2023-07,2023,7,Mass,Efectivo,151387384.37,59.82,sintetico
+2023-07,2023,7,Mass,Tarjeta débito,35246444.06,13.93,sintetico
+2023-07,2023,7,Mass,Tarjeta crédito,25423089.85,10.05,sintetico
+2023-07,2023,7,Mass,Yape,26378006.18,10.42,sintetico
+2023-07,2023,7,Mass,Plin,9086633.38,3.59,sintetico
+2023-07,2023,7,Mass,Transferencia,5554124.28,2.19,sintetico
+2023-08,2023,8,Mass,Efectivo,138897150.55,58.77,sintetico
+2023-08,2023,8,Mass,Tarjeta débito,33782089.73,14.29,sintetico
+2023-08,2023,8,Mass,Tarjeta crédito,24011731.18,10.16,sintetico
+2023-08,2023,8,Mass,Yape,25562589.0,10.82,sintetico
+2023-08,2023,8,Mass,Plin,8769616.78,3.71,sintetico
+2023-08,2023,8,Mass,Transferencia,5318516.32,2.25,sintetico
+2023-09,2023,9,Mass,Efectivo,142767506.19,58.24,sintetico
+2023-09,2023,9,Mass,Tarjeta débito,34594471.26,14.11,sintetico
+2023-09,2023,9,Mass,Tarjeta crédito,24651272.6,10.06,sintetico
+2023-09,2023,9,Mass,Yape,28153283.38,11.49,sintetico
+2023-09,2023,9,Mass,Plin,9311573.08,3.8,sintetico
+2023-09,2023,9,Mass,Transferencia,5637713.32,2.3,sintetico
+2023-10,2023,10,Mass,Efectivo,158901885.64,58.08,sintetico
+2023-10,2023,10,Mass,Tarjeta débito,39376915.89,14.39,sintetico
+2023-10,2023,10,Mass,Tarjeta crédito,27122862.32,9.91,sintetico
+2023-10,2023,10,Mass,Yape,31360721.32,11.46,sintetico
+2023-10,2023,10,Mass,Plin,10606046.98,3.88,sintetico
+2023-10,2023,10,Mass,Transferencia,6222466.95,2.27,sintetico
+2023-11,2023,11,Mass,Efectivo,154728184.2,57.56,sintetico
+2023-11,2023,11,Mass,Tarjeta débito,38405655.8,14.29,sintetico
+2023-11,2023,11,Mass,Tarjeta crédito,26369465.74,9.81,sintetico
+2023-11,2023,11,Mass,Yape,31988532.63,11.9,sintetico
+2023-11,2023,11,Mass,Plin,11122582.26,4.14,sintetico
+2023-11,2023,11,Mass,Transferencia,6207053.1,2.31,sintetico
+2023-12,2023,12,Mass,Efectivo,186862649.93,57.38,sintetico
+2023-12,2023,12,Mass,Tarjeta débito,45444149.08,13.95,sintetico
+2023-12,2023,12,Mass,Tarjeta crédito,33079727.89,10.16,sintetico
+2023-12,2023,12,Mass,Yape,39849101.15,12.24,sintetico
+2023-12,2023,12,Mass,Plin,12972447.56,3.98,sintetico
+2023-12,2023,12,Mass,Transferencia,7446444.97,2.29,sintetico
+2024-01,2024,1,Mass,Efectivo,155376885.29,56.2,sintetico
+2024-01,2024,1,Mass,Tarjeta débito,40653374.0,14.71,sintetico
+2024-01,2024,1,Mass,Tarjeta crédito,27331724.4,9.89,sintetico
+2024-01,2024,1,Mass,Yape,35337433.14,12.78,sintetico
+2024-01,2024,1,Mass,Plin,11225057.51,4.06,sintetico
+2024-01,2024,1,Mass,Transferencia,6529810.18,2.36,sintetico
+2024-02,2024,2,Mass,Efectivo,155736893.69,56.88,sintetico
+2024-02,2024,2,Mass,Tarjeta débito,38995979.7,14.24,sintetico
+2024-02,2024,2,Mass,Tarjeta crédito,26592298.64,9.71,sintetico
+2024-02,2024,2,Mass,Yape,34105342.14,12.46,sintetico
+2024-02,2024,2,Mass,Plin,11876221.52,4.34,sintetico
+2024-02,2024,2,Mass,Transferencia,6487910.04,2.37,sintetico
+2024-03,2024,3,Mass,Efectivo,164320434.75,55.35,sintetico
+2024-03,2024,3,Mass,Tarjeta débito,43355621.47,14.6,sintetico
+2024-03,2024,3,Mass,Tarjeta crédito,29421727.0,9.91,sintetico
+2024-03,2024,3,Mass,Yape,39764082.19,13.39,sintetico
+2024-03,2024,3,Mass,Plin,12979933.44,4.37,sintetico
+2024-03,2024,3,Mass,Transferencia,7038446.07,2.37,sintetico
+2024-04,2024,4,Mass,Efectivo,173864898.63,55.26,sintetico
+2024-04,2024,4,Mass,Tarjeta débito,45275765.95,14.39,sintetico
+2024-04,2024,4,Mass,Tarjeta crédito,30791794.34,9.79,sintetico
+2024-04,2024,4,Mass,Yape,43390859.92,13.79,sintetico
+2024-04,2024,4,Mass,Plin,13729418.32,4.36,sintetico
+2024-04,2024,4,Mass,Transferencia,7602156.33,2.42,sintetico
+2024-05,2024,5,Mass,Efectivo,198190896.38,54.38,sintetico
+2024-05,2024,5,Mass,Tarjeta débito,52474711.07,14.4,sintetico
+2024-05,2024,5,Mass,Tarjeta crédito,37386548.44,10.26,sintetico
+2024-05,2024,5,Mass,Yape,50912074.07,13.97,sintetico
+2024-05,2024,5,Mass,Plin,16483413.79,4.52,sintetico
+2024-05,2024,5,Mass,Transferencia,9026901.85,2.48,sintetico
+2024-06,2024,6,Mass,Efectivo,190660410.73,54.73,sintetico
+2024-06,2024,6,Mass,Tarjeta débito,50206091.22,14.41,sintetico
+2024-06,2024,6,Mass,Tarjeta crédito,34671033.12,9.95,sintetico
+2024-06,2024,6,Mass,Yape,48412195.67,13.9,sintetico
+2024-06,2024,6,Mass,Plin,15705114.87,4.51,sintetico
+2024-06,2024,6,Mass,Transferencia,8734363.14,2.51,sintetico
+2024-07,2024,7,Mass,Efectivo,216145575.3,53.79,sintetico
+2024-07,2024,7,Mass,Tarjeta débito,58620038.44,14.59,sintetico
+2024-07,2024,7,Mass,Tarjeta crédito,40524791.97,10.09,sintetico
+2024-07,2024,7,Mass,Yape,57047591.54,14.2,sintetico
+2024-07,2024,7,Mass,Plin,18993787.85,4.73,sintetico
+2024-07,2024,7,Mass,Transferencia,10481953.71,2.61,sintetico
+2024-08,2024,8,Mass,Efectivo,196332381.96,54.03,sintetico
+2024-08,2024,8,Mass,Tarjeta débito,52680233.35,14.5,sintetico
+2024-08,2024,8,Mass,Tarjeta crédito,37036325.52,10.19,sintetico
+2024-08,2024,8,Mass,Yape,51131190.37,14.07,sintetico
+2024-08,2024,8,Mass,Plin,16877850.42,4.64,sintetico
+2024-08,2024,8,Mass,Transferencia,9334709.35,2.57,sintetico
+2024-09,2024,9,Mass,Efectivo,178903131.6,52.41,sintetico
+2024-09,2024,9,Mass,Tarjeta débito,51462345.26,15.08,sintetico
+2024-09,2024,9,Mass,Tarjeta crédito,33967891.67,9.95,sintetico
+2024-09,2024,9,Mass,Yape,50901533.62,14.91,sintetico
+2024-09,2024,9,Mass,Plin,16845282.37,4.94,sintetico
+2024-09,2024,9,Mass,Transferencia,9259100.85,2.71,sintetico
+2024-10,2024,10,Mass,Efectivo,214989677.62,52.1,sintetico
+2024-10,2024,10,Mass,Tarjeta débito,61068339.19,14.8,sintetico
+2024-10,2024,10,Mass,Tarjeta crédito,40954979.34,9.92,sintetico
+2024-10,2024,10,Mass,Yape,62891462.0,15.24,sintetico
+2024-10,2024,10,Mass,Plin,21458225.03,5.2,sintetico
+2024-10,2024,10,Mass,Transferencia,11288033.61,2.74,sintetico
+2024-11,2024,11,Mass,Efectivo,210708071.89,52.79,sintetico
+2024-11,2024,11,Mass,Tarjeta débito,56997679.37,14.28,sintetico
+2024-11,2024,11,Mass,Tarjeta crédito,39441989.44,9.88,sintetico
+2024-11,2024,11,Mass,Yape,60406873.68,15.14,sintetico
+2024-11,2024,11,Mass,Plin,20815011.66,5.22,sintetico
+2024-11,2024,11,Mass,Transferencia,10739347.25,2.69,sintetico
+2024-12,2024,12,Mass,Efectivo,250460078.81,51.44,sintetico
+2024-12,2024,12,Mass,Tarjeta débito,70238749.52,14.43,sintetico
+2024-12,2024,12,Mass,Tarjeta crédito,48542919.41,9.97,sintetico
+2024-12,2024,12,Mass,Yape,78507321.74,16.13,sintetico
+2024-12,2024,12,Mass,Plin,25651915.1,5.27,sintetico
+2024-12,2024,12,Mass,Transferencia,13458074.89,2.76,sintetico
+2025-01,2025,1,Mass,Efectivo,224187000.18,50.62,sintetico
+2025-01,2025,1,Mass,Tarjeta débito,65870984.14,14.87,sintetico
+2025-01,2025,1,Mass,Tarjeta crédito,45383955.91,10.25,sintetico
+2025-01,2025,1,Mass,Yape,71127988.65,16.06,sintetico
+2025-01,2025,1,Mass,Plin,24099100.71,5.44,sintetico
+2025-01,2025,1,Mass,Transferencia,12182310.74,2.75,sintetico
+2025-02,2025,2,Mass,Efectivo,180516952.54,50.6,sintetico
+2025-02,2025,2,Mass,Tarjeta débito,53841266.52,15.09,sintetico
+2025-02,2025,2,Mass,Tarjeta crédito,36469352.17,10.22,sintetico
+2025-02,2025,2,Mass,Yape,57250705.38,16.05,sintetico
+2025-02,2025,2,Mass,Plin,18704066.75,5.24,sintetico
+2025-02,2025,2,Mass,Transferencia,9975215.63,2.8,sintetico
+2025-03,2025,3,Mass,Efectivo,220876537.76,50.32,sintetico
+2025-03,2025,3,Mass,Tarjeta débito,65443943.53,14.91,sintetico
+2025-03,2025,3,Mass,Tarjeta crédito,42996980.48,9.8,sintetico
+2025-03,2025,3,Mass,Yape,73302825.84,16.7,sintetico
+2025-03,2025,3,Mass,Plin,24206710.23,5.51,sintetico
+2025-03,2025,3,Mass,Transferencia,12109319.18,2.76,sintetico
+2025-04,2025,4,Mass,Efectivo,198703950.81,49.25,sintetico
+2025-04,2025,4,Mass,Tarjeta débito,60615345.18,15.02,sintetico
+2025-04,2025,4,Mass,Tarjeta crédito,40638274.52,10.07,sintetico
+2025-04,2025,4,Mass,Yape,69133767.85,17.14,sintetico
+2025-04,2025,4,Mass,Plin,22811082.1,5.65,sintetico
+2025-04,2025,4,Mass,Transferencia,11541708.14,2.86,sintetico
+2025-05,2025,5,Mass,Efectivo,261128006.94,50.18,sintetico
+2025-05,2025,5,Mass,Tarjeta débito,76507279.83,14.7,sintetico
+2025-05,2025,5,Mass,Tarjeta crédito,51155680.89,9.83,sintetico
+2025-05,2025,5,Mass,Yape,87905527.25,16.89,sintetico
+2025-05,2025,5,Mass,Plin,29340268.0,5.64,sintetico
+2025-05,2025,5,Mass,Transferencia,14316802.26,2.75,sintetico
+2025-06,2025,6,Mass,Efectivo,237886164.12,49.23,sintetico
+2025-06,2025,6,Mass,Tarjeta débito,73252597.12,15.16,sintetico
+2025-06,2025,6,Mass,Tarjeta crédito,47236977.2,9.78,sintetico
+2025-06,2025,6,Mass,Yape,82994575.7,17.17,sintetico
+2025-06,2025,6,Mass,Plin,27494756.09,5.69,sintetico
+2025-06,2025,6,Mass,Transferencia,14368735.23,2.97,sintetico
+2025-07,2025,7,Mass,Efectivo,235692771.57,47.98,sintetico
+2025-07,2025,7,Mass,Tarjeta débito,75859960.54,15.44,sintetico
+2025-07,2025,7,Mass,Tarjeta crédito,47430878.79,9.66,sintetico
+2025-07,2025,7,Mass,Yape,87150945.04,17.74,sintetico
+2025-07,2025,7,Mass,Plin,30085204.34,6.12,sintetico
+2025-07,2025,7,Mass,Transferencia,15037286.51,3.06,sintetico
+2025-08,2025,8,Mass,Efectivo,232588215.02,48.86,sintetico
+2025-08,2025,8,Mass,Tarjeta débito,69103344.55,14.52,sintetico
+2025-08,2025,8,Mass,Tarjeta crédito,46558869.99,9.78,sintetico
+2025-08,2025,8,Mass,Yape,84750823.92,17.81,sintetico
+2025-08,2025,8,Mass,Plin,29197371.31,6.13,sintetico
+2025-08,2025,8,Mass,Transferencia,13795470.35,2.9,sintetico

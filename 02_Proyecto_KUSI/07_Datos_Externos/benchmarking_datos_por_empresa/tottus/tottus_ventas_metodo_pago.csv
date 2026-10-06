@@ -1,0 +1,193 @@
+﻿periodo,anio,mes,empresa,metodo_pago,ventas_soles,participacion_pct,origen_ventas
+2023-01,2023,1,Tottus,Efectivo,124732064.55,39.82,sintetico
+2023-01,2023,1,Tottus,Tarjeta débito,69261418.07,22.11,sintetico
+2023-01,2023,1,Tottus,Tarjeta crédito,87896935.93,28.06,sintetico
+2023-01,2023,1,Tottus,Yape,15868228.15,5.07,sintetico
+2023-01,2023,1,Tottus,Plin,9516713.21,3.04,sintetico
+2023-01,2023,1,Tottus,Transferencia,5966607.33,1.9,sintetico
+2023-02,2023,2,Tottus,Efectivo,93485109.99,39.21,sintetico
+2023-02,2023,2,Tottus,Tarjeta débito,51824900.55,21.73,sintetico
+2023-02,2023,2,Tottus,Tarjeta crédito,68249992.22,28.62,sintetico
+2023-02,2023,2,Tottus,Yape,12751621.36,5.35,sintetico
+2023-02,2023,2,Tottus,Plin,7474620.36,3.13,sintetico
+2023-02,2023,2,Tottus,Transferencia,4656793.44,1.95,sintetico
+2023-03,2023,3,Tottus,Efectivo,124110292.42,39.44,sintetico
+2023-03,2023,3,Tottus,Tarjeta débito,66423607.34,21.11,sintetico
+2023-03,2023,3,Tottus,Tarjeta crédito,90111704.01,28.63,sintetico
+2023-03,2023,3,Tottus,Yape,17848511.36,5.67,sintetico
+2023-03,2023,3,Tottus,Plin,10241857.06,3.25,sintetico
+2023-03,2023,3,Tottus,Transferencia,5964887.53,1.9,sintetico
+2023-04,2023,4,Tottus,Efectivo,116847456.6,39.21,sintetico
+2023-04,2023,4,Tottus,Tarjeta débito,64662278.68,21.7,sintetico
+2023-04,2023,4,Tottus,Tarjeta crédito,82616691.51,27.73,sintetico
+2023-04,2023,4,Tottus,Yape,17530850.68,5.88,sintetico
+2023-04,2023,4,Tottus,Plin,10096228.77,3.39,sintetico
+2023-04,2023,4,Tottus,Transferencia,6228298.37,2.09,sintetico
+2023-05,2023,5,Tottus,Efectivo,135981385.58,39.4,sintetico
+2023-05,2023,5,Tottus,Tarjeta débito,74267911.37,21.52,sintetico
+2023-05,2023,5,Tottus,Tarjeta crédito,95191408.2,27.58,sintetico
+2023-05,2023,5,Tottus,Yape,20527717.11,5.95,sintetico
+2023-05,2023,5,Tottus,Plin,12141216.6,3.52,sintetico
+2023-05,2023,5,Tottus,Transferencia,7001050.47,2.03,sintetico
+2023-06,2023,6,Tottus,Efectivo,125896265.93,38.44,sintetico
+2023-06,2023,6,Tottus,Tarjeta débito,69452761.55,21.21,sintetico
+2023-06,2023,6,Tottus,Tarjeta crédito,92679459.15,28.3,sintetico
+2023-06,2023,6,Tottus,Yape,21617721.83,6.6,sintetico
+2023-06,2023,6,Tottus,Plin,11424999.76,3.49,sintetico
+2023-06,2023,6,Tottus,Transferencia,6437832.57,1.97,sintetico
+2023-07,2023,7,Tottus,Efectivo,129256890.11,38.41,sintetico
+2023-07,2023,7,Tottus,Tarjeta débito,75453636.74,22.42,sintetico
+2023-07,2023,7,Tottus,Tarjeta crédito,91773878.3,27.27,sintetico
+2023-07,2023,7,Tottus,Yape,21672460.02,6.44,sintetico
+2023-07,2023,7,Tottus,Plin,11772877.03,3.5,sintetico
+2023-07,2023,7,Tottus,Transferencia,6559203.95,1.95,sintetico
+2023-08,2023,8,Tottus,Efectivo,109050627.67,37.12,sintetico
+2023-08,2023,8,Tottus,Tarjeta débito,66655462.62,22.69,sintetico
+2023-08,2023,8,Tottus,Tarjeta crédito,80842524.41,27.52,sintetico
+2023-08,2023,8,Tottus,Yape,20338449.26,6.92,sintetico
+2023-08,2023,8,Tottus,Plin,10854681.35,3.69,sintetico
+2023-08,2023,8,Tottus,Transferencia,6039350.94,2.06,sintetico
+2023-09,2023,9,Tottus,Efectivo,110442803.88,37.45,sintetico
+2023-09,2023,9,Tottus,Tarjeta débito,63268432.06,21.45,sintetico
+2023-09,2023,9,Tottus,Tarjeta crédito,83854058.56,28.43,sintetico
+2023-09,2023,9,Tottus,Yape,20563980.72,6.97,sintetico
+2023-09,2023,9,Tottus,Plin,10975700.91,3.72,sintetico
+2023-09,2023,9,Tottus,Transferencia,5833005.89,1.98,sintetico
+2023-10,2023,10,Tottus,Efectivo,121662637.08,36.59,sintetico
+2023-10,2023,10,Tottus,Tarjeta débito,72232598.96,21.72,sintetico
+2023-10,2023,10,Tottus,Tarjeta crédito,93492054.79,28.12,sintetico
+2023-10,2023,10,Tottus,Yape,24630377.55,7.41,sintetico
+2023-10,2023,10,Tottus,Plin,13530968.86,4.07,sintetico
+2023-10,2023,10,Tottus,Transferencia,6955604.64,2.09,sintetico
+2023-11,2023,11,Tottus,Efectivo,121366088.98,36.83,sintetico
+2023-11,2023,11,Tottus,Tarjeta débito,72881245.99,22.12,sintetico
+2023-11,2023,11,Tottus,Tarjeta crédito,90003679.87,27.31,sintetico
+2023-11,2023,11,Tottus,Yape,25624870.99,7.78,sintetico
+2023-11,2023,11,Tottus,Plin,12959625.97,3.93,sintetico
+2023-11,2023,11,Tottus,Transferencia,6683988.34,2.03,sintetico
+2023-12,2023,12,Tottus,Efectivo,142958707.08,35.82,sintetico
+2023-12,2023,12,Tottus,Tarjeta débito,89163046.73,22.34,sintetico
+2023-12,2023,12,Tottus,Tarjeta crédito,112242734.42,28.12,sintetico
+2023-12,2023,12,Tottus,Yape,30918296.18,7.75,sintetico
+2023-12,2023,12,Tottus,Plin,15973377.6,4.0,sintetico
+2023-12,2023,12,Tottus,Transferencia,7832479.94,1.96,sintetico
+2024-01,2024,1,Tottus,Efectivo,128755910.62,36.8,sintetico
+2024-01,2024,1,Tottus,Tarjeta débito,75935428.88,21.7,sintetico
+2024-01,2024,1,Tottus,Tarjeta crédito,95040708.08,27.17,sintetico
+2024-01,2024,1,Tottus,Yape,28499422.27,8.15,sintetico
+2024-01,2024,1,Tottus,Plin,14584424.66,4.17,sintetico
+2024-01,2024,1,Tottus,Transferencia,7037969.79,2.01,sintetico
+2024-02,2024,2,Tottus,Efectivo,104211465.13,35.95,sintetico
+2024-02,2024,2,Tottus,Tarjeta débito,64485469.18,22.25,sintetico
+2024-02,2024,2,Tottus,Tarjeta crédito,78647131.42,27.13,sintetico
+2024-02,2024,2,Tottus,Yape,24344459.18,8.4,sintetico
+2024-02,2024,2,Tottus,Plin,12285174.06,4.24,sintetico
+2024-02,2024,2,Tottus,Transferencia,5900557.49,2.04,sintetico
+2024-03,2024,3,Tottus,Efectivo,117647037.16,36.08,sintetico
+2024-03,2024,3,Tottus,Tarjeta débito,72196185.64,22.14,sintetico
+2024-03,2024,3,Tottus,Tarjeta crédito,87786151.2,26.92,sintetico
+2024-03,2024,3,Tottus,Yape,28311476.52,8.68,sintetico
+2024-03,2024,3,Tottus,Plin,13794742.17,4.23,sintetico
+2024-03,2024,3,Tottus,Transferencia,6352896.93,1.95,sintetico
+2024-04,2024,4,Tottus,Efectivo,119853308.5,35.75,sintetico
+2024-04,2024,4,Tottus,Tarjeta débito,73827485.52,22.02,sintetico
+2024-04,2024,4,Tottus,Tarjeta crédito,89130563.26,26.59,sintetico
+2024-04,2024,4,Tottus,Yape,30296087.14,9.04,sintetico
+2024-04,2024,4,Tottus,Plin,15475313.62,4.62,sintetico
+2024-04,2024,4,Tottus,Transferencia,6682565.59,1.99,sintetico
+2024-05,2024,5,Tottus,Efectivo,121896696.72,34.08,sintetico
+2024-05,2024,5,Tottus,Tarjeta débito,81046160.16,22.66,sintetico
+2024-05,2024,5,Tottus,Tarjeta crédito,99026555.36,27.68,sintetico
+2024-05,2024,5,Tottus,Yape,31896031.07,8.92,sintetico
+2024-05,2024,5,Tottus,Plin,16779058.02,4.69,sintetico
+2024-05,2024,5,Tottus,Transferencia,7066712.57,1.98,sintetico
+2024-06,2024,6,Tottus,Efectivo,115375347.96,34.51,sintetico
+2024-06,2024,6,Tottus,Tarjeta débito,72603950.87,21.71,sintetico
+2024-06,2024,6,Tottus,Tarjeta crédito,92296253.23,27.6,sintetico
+2024-06,2024,6,Tottus,Yape,31576484.08,9.44,sintetico
+2024-06,2024,6,Tottus,Plin,15911457.64,4.76,sintetico
+2024-06,2024,6,Tottus,Transferencia,6605950.94,1.98,sintetico
+2024-07,2024,7,Tottus,Efectivo,128019276.46,34.2,sintetico
+2024-07,2024,7,Tottus,Tarjeta débito,83659212.31,22.35,sintetico
+2024-07,2024,7,Tottus,Tarjeta crédito,101053910.02,26.99,sintetico
+2024-07,2024,7,Tottus,Yape,36496502.62,9.75,sintetico
+2024-07,2024,7,Tottus,Plin,17393540.52,4.65,sintetico
+2024-07,2024,7,Tottus,Transferencia,7751522.11,2.07,sintetico
+2024-08,2024,8,Tottus,Efectivo,116740096.22,34.64,sintetico
+2024-08,2024,8,Tottus,Tarjeta débito,71830024.89,21.32,sintetico
+2024-08,2024,8,Tottus,Tarjeta crédito,92639843.36,27.49,sintetico
+2024-08,2024,8,Tottus,Yape,32863495.33,9.75,sintetico
+2024-08,2024,8,Tottus,Plin,16134036.85,4.79,sintetico
+2024-08,2024,8,Tottus,Transferencia,6759725.69,2.01,sintetico
+2024-09,2024,9,Tottus,Efectivo,108300529.24,34.53,sintetico
+2024-09,2024,9,Tottus,Tarjeta débito,67877925.8,21.64,sintetico
+2024-09,2024,9,Tottus,Tarjeta crédito,83903125.79,26.75,sintetico
+2024-09,2024,9,Tottus,Yape,31922729.91,10.18,sintetico
+2024-09,2024,9,Tottus,Plin,15333327.32,4.89,sintetico
+2024-09,2024,9,Tottus,Transferencia,6267926.6,2.0,sintetico
+2024-10,2024,10,Tottus,Efectivo,113026849.69,32.62,sintetico
+2024-10,2024,10,Tottus,Tarjeta débito,75495653.3,21.79,sintetico
+2024-10,2024,10,Tottus,Tarjeta crédito,97065186.63,28.01,sintetico
+2024-10,2024,10,Tottus,Yape,36317498.14,10.48,sintetico
+2024-10,2024,10,Tottus,Plin,17383786.87,5.02,sintetico
+2024-10,2024,10,Tottus,Transferencia,7201941.95,2.08,sintetico
+2024-11,2024,11,Tottus,Efectivo,115335026.25,33.42,sintetico
+2024-11,2024,11,Tottus,Tarjeta débito,75171122.03,21.78,sintetico
+2024-11,2024,11,Tottus,Tarjeta crédito,94581948.69,27.41,sintetico
+2024-11,2024,11,Tottus,Yape,35225639.61,10.21,sintetico
+2024-11,2024,11,Tottus,Plin,17852043.03,5.17,sintetico
+2024-11,2024,11,Tottus,Transferencia,6920949.87,2.01,sintetico
+2024-12,2024,12,Tottus,Efectivo,136300228.44,32.98,sintetico
+2024-12,2024,12,Tottus,Tarjeta débito,88050631.79,21.31,sintetico
+2024-12,2024,12,Tottus,Tarjeta crédito,114706320.44,27.76,sintetico
+2024-12,2024,12,Tottus,Yape,44494901.34,10.77,sintetico
+2024-12,2024,12,Tottus,Plin,21580580.12,5.22,sintetico
+2024-12,2024,12,Tottus,Transferencia,8092779.27,1.96,sintetico
+2025-01,2025,1,Tottus,Efectivo,112647463.13,32.87,sintetico
+2025-01,2025,1,Tottus,Tarjeta débito,74929398.63,21.86,sintetico
+2025-01,2025,1,Tottus,Tarjeta crédito,92871380.89,27.1,sintetico
+2025-01,2025,1,Tottus,Yape,37859325.16,11.05,sintetico
+2025-01,2025,1,Tottus,Plin,17619300.33,5.14,sintetico
+2025-01,2025,1,Tottus,Transferencia,6793223.23,1.98,sintetico
+2025-02,2025,2,Tottus,Efectivo,83717140.94,31.48,sintetico
+2025-02,2025,2,Tottus,Tarjeta débito,58697421.07,22.07,sintetico
+2025-02,2025,2,Tottus,Tarjeta crédito,73956249.32,27.81,sintetico
+2025-02,2025,2,Tottus,Yape,30132007.49,11.33,sintetico
+2025-02,2025,2,Tottus,Plin,14048833.9,5.28,sintetico
+2025-02,2025,2,Tottus,Transferencia,5373122.97,2.02,sintetico
+2025-03,2025,3,Tottus,Efectivo,103360374.14,31.28,sintetico
+2025-03,2025,3,Tottus,Tarjeta débito,75296565.75,22.78,sintetico
+2025-03,2025,3,Tottus,Tarjeta crédito,89201786.01,26.99,sintetico
+2025-03,2025,3,Tottus,Yape,38020870.91,11.5,sintetico
+2025-03,2025,3,Tottus,Plin,18060259.89,5.46,sintetico
+2025-03,2025,3,Tottus,Transferencia,6535889.31,1.98,sintetico
+2025-04,2025,4,Tottus,Efectivo,112215475.18,31.11,sintetico
+2025-04,2025,4,Tottus,Tarjeta débito,77441418.33,21.47,sintetico
+2025-04,2025,4,Tottus,Tarjeta crédito,100027201.91,27.73,sintetico
+2025-04,2025,4,Tottus,Yape,43896883.59,12.17,sintetico
+2025-04,2025,4,Tottus,Plin,20150413.02,5.59,sintetico
+2025-04,2025,4,Tottus,Transferencia,6974104.38,1.93,sintetico
+2025-05,2025,5,Tottus,Efectivo,118686636.4,31.05,sintetico
+2025-05,2025,5,Tottus,Tarjeta débito,83780753.14,21.92,sintetico
+2025-05,2025,5,Tottus,Tarjeta crédito,103182945.07,26.99,sintetico
+2025-05,2025,5,Tottus,Yape,47173965.64,12.34,sintetico
+2025-05,2025,5,Tottus,Plin,21779978.82,5.7,sintetico
+2025-05,2025,5,Tottus,Transferencia,7679205.58,2.01,sintetico
+2025-06,2025,6,Tottus,Efectivo,103415927.31,30.81,sintetico
+2025-06,2025,6,Tottus,Tarjeta débito,72710516.65,21.66,sintetico
+2025-06,2025,6,Tottus,Tarjeta crédito,92164830.73,27.46,sintetico
+2025-06,2025,6,Tottus,Yape,41606837.22,12.4,sintetico
+2025-06,2025,6,Tottus,Plin,19328831.09,5.76,sintetico
+2025-06,2025,6,Tottus,Transferencia,6387471.38,1.9,sintetico
+2025-07,2025,7,Tottus,Efectivo,109514266.53,30.62,sintetico
+2025-07,2025,7,Tottus,Tarjeta débito,79466072.99,22.22,sintetico
+2025-07,2025,7,Tottus,Tarjeta crédito,95716438.51,26.76,sintetico
+2025-07,2025,7,Tottus,Yape,44746519.48,12.51,sintetico
+2025-07,2025,7,Tottus,Plin,21000192.44,5.87,sintetico
+2025-07,2025,7,Tottus,Transferencia,7189867.82,2.01,sintetico
+2025-08,2025,8,Tottus,Efectivo,111960042.48,29.09,sintetico
+2025-08,2025,8,Tottus,Tarjeta débito,82972145.02,21.56,sintetico
+2025-08,2025,8,Tottus,Tarjeta crédito,109274546.43,28.39,sintetico
+2025-08,2025,8,Tottus,Yape,50118250.54,13.02,sintetico
+2025-08,2025,8,Tottus,Plin,22963902.48,5.97,sintetico
+2025-08,2025,8,Tottus,Transferencia,7592893.17,1.97,sintetico

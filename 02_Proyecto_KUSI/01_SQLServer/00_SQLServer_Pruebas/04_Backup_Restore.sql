@@ -1,0 +1,24 @@
+/* 04 — Política de respaldo y restauración probada (Capítulo 6, RF04).
+   AJUSTAR @carpeta (debe existir y tener permisos para el servicio de SQL Server).
+   CAPTURA Figura 8: salida de RESTORE VERIFYONLY + conteo de ventas en ambas bases (esperado 179996 = 179996). */
+USE master;
+GO
+DECLARE @carpeta NVARCHAR(200)=N'C:\KUSI_MINIMARKET\backups\';   -- AJUSTAR
+DECLARE @full NVARCHAR(300)=@carpeta+N'KUSI_FULL.bak', @diff NVARCHAR(300)=@carpeta+N'KUSI_DIFF.bak';
+BACKUP DATABASE KUSI_MINIMARKET TO DISK=@full WITH INIT, CHECKSUM, COMPRESSION, STATS=25;       -- semanal
+BACKUP DATABASE KUSI_MINIMARKET TO DISK=@diff WITH DIFFERENTIAL, INIT, CHECKSUM, COMPRESSION, STATS=25;  -- diario
+RESTORE VERIFYONLY FROM DISK=@full WITH CHECKSUM;
+RESTORE VERIFYONLY FROM DISK=@diff WITH CHECKSUM;
+GO
+/* Restauración de prueba SOBRE OTRA BASE (nunca sobre la productiva).
+   AJUSTAR los nombres lógicos con: RESTORE FILELISTONLY FROM DISK=N'...KUSI_FULL.bak' */
+DECLARE @carpeta NVARCHAR(200)=N'C:\KUSI_MINIMARKET\backups\', @datos NVARCHAR(300)=N'C:\KUSI_MINIMARKET\restore\';  -- AJUSTAR
+DECLARE @full NVARCHAR(300)=@carpeta+N'KUSI_FULL.bak', @diff NVARCHAR(300)=@carpeta+N'KUSI_DIFF.bak';
+DECLARE @mdf NVARCHAR(300)=@datos+N'KUSI_R.mdf', @ldf NVARCHAR(300)=@datos+N'KUSI_R_log.ldf';
+RESTORE DATABASE KUSI_MINIMARKET_RESTAURADA FROM DISK=@full
+  WITH MOVE N'KUSI_MINIMARKET' TO @mdf, MOVE N'KUSI_MINIMARKET_log' TO @ldf, NORECOVERY, REPLACE;   -- AJUSTAR nombres lógicos
+RESTORE DATABASE KUSI_MINIMARKET_RESTAURADA FROM DISK=@diff WITH RECOVERY;
+GO
+SELECT 'KUSI_MINIMARKET' AS base, COUNT(*) AS ventas FROM KUSI_MINIMARKET.dbo.Ventas
+UNION ALL SELECT 'KUSI_MINIMARKET_RESTAURADA', COUNT(*) FROM KUSI_MINIMARKET_RESTAURADA.dbo.Ventas;
+SELECT name, state_desc FROM sys.databases WHERE name LIKE 'KUSI%';

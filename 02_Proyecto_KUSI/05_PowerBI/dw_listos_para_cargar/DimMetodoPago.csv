@@ -1,0 +1,7 @@
+﻿KeyMetodoPago,NombreMetodo,Tipo
+1,Efectivo,efectivo
+2,Tarjeta Débito,tarjeta
+3,Tarjeta Crédito,tarjeta
+4,Yape,billetera_digital
+5,Plin,billetera_digital
+6,Transferencia,transferencia

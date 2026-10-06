@@ -1,0 +1,289 @@
+﻿periodo,anio,mes,empresa,categoria,ventas_soles,participacion_pct,dias_feriado,origen_ventas
+2023-01,2023,1,Tottus,Bebidas sin alcohol,34829151.53,11.12,1,sintetico
+2023-01,2023,1,Tottus,Licores y cervezas,22652519.53,7.23,1,sintetico
+2023-01,2023,1,Tottus,Snacks y golosinas,25768107.55,8.23,1,sintetico
+2023-01,2023,1,Tottus,Abarrotes,96420407.38,30.78,1,sintetico
+2023-01,2023,1,Tottus,Lácteos y embutidos,43966681.61,14.04,1,sintetico
+2023-01,2023,1,Tottus,Panadería y comidas preparadas,18768619.84,5.99,1,sintetico
+2023-01,2023,1,Tottus,Limpieza y cuidado personal,42613261.91,13.6,1,sintetico
+2023-01,2023,1,Tottus,Recargas y servicios,3122967.43,1.0,1,sintetico
+2023-01,2023,1,Tottus,Otros,25100250.46,8.01,1,sintetico
+2023-02,2023,2,Tottus,Bebidas sin alcohol,24549853.14,10.3,0,sintetico
+2023-02,2023,2,Tottus,Licores y cervezas,16464167.91,6.9,0,sintetico
+2023-02,2023,2,Tottus,Snacks y golosinas,18809528.83,7.89,0,sintetico
+2023-02,2023,2,Tottus,Abarrotes,70138226.61,29.42,0,sintetico
+2023-02,2023,2,Tottus,Lácteos y embutidos,38150305.69,16.0,0,sintetico
+2023-02,2023,2,Tottus,Panadería y comidas preparadas,14558880.04,6.11,0,sintetico
+2023-02,2023,2,Tottus,Limpieza y cuidado personal,33877175.3,14.21,0,sintetico
+2023-02,2023,2,Tottus,Recargas y servicios,2382066.95,1.0,0,sintetico
+2023-02,2023,2,Tottus,Otros,19512833.45,8.18,0,sintetico
+2023-03,2023,3,Tottus,Bebidas sin alcohol,32794147.73,10.42,0,sintetico
+2023-03,2023,3,Tottus,Licores y cervezas,21820337.9,6.93,0,sintetico
+2023-03,2023,3,Tottus,Snacks y golosinas,25335062.42,8.05,0,sintetico
+2023-03,2023,3,Tottus,Abarrotes,94997651.58,30.19,0,sintetico
+2023-03,2023,3,Tottus,Lácteos y embutidos,47514910.7,15.1,0,sintetico
+2023-03,2023,3,Tottus,Panadería y comidas preparadas,19141252.83,6.08,0,sintetico
+2023-03,2023,3,Tottus,Limpieza y cuidado personal,43849178.7,13.93,0,sintetico
+2023-03,2023,3,Tottus,Recargas y servicios,3072220.48,0.98,0,sintetico
+2023-03,2023,3,Tottus,Otros,26176097.38,8.32,0,sintetico
+2023-04,2023,4,Tottus,Bebidas sin alcohol,34136638.27,11.46,2,sintetico
+2023-04,2023,4,Tottus,Licores y cervezas,22267963.33,7.47,2,sintetico
+2023-04,2023,4,Tottus,Snacks y golosinas,24847795.33,8.34,2,sintetico
+2023-04,2023,4,Tottus,Abarrotes,84866376.45,28.48,2,sintetico
+2023-04,2023,4,Tottus,Lácteos y embutidos,44966748.02,15.09,2,sintetico
+2023-04,2023,4,Tottus,Panadería y comidas preparadas,18398932.14,6.17,2,sintetico
+2023-04,2023,4,Tottus,Limpieza y cuidado personal,41633725.69,13.97,2,sintetico
+2023-04,2023,4,Tottus,Recargas y servicios,2944857.67,0.99,2,sintetico
+2023-04,2023,4,Tottus,Otros,23918767.71,8.03,2,sintetico
+2023-05,2023,5,Tottus,Bebidas sin alcohol,36167388.14,10.48,1,sintetico
+2023-05,2023,5,Tottus,Licores y cervezas,24200641.55,7.01,1,sintetico
+2023-05,2023,5,Tottus,Snacks y golosinas,27942202.25,8.1,1,sintetico
+2023-05,2023,5,Tottus,Abarrotes,108562845.3,31.46,1,sintetico
+2023-05,2023,5,Tottus,Lácteos y embutidos,52038562.84,15.08,1,sintetico
+2023-05,2023,5,Tottus,Panadería y comidas preparadas,19674274.02,5.7,1,sintetico
+2023-05,2023,5,Tottus,Limpieza y cuidado personal,46480007.66,13.47,1,sintetico
+2023-05,2023,5,Tottus,Recargas y servicios,3562935.03,1.03,1,sintetico
+2023-05,2023,5,Tottus,Otros,26481832.54,7.67,1,sintetico
+2023-06,2023,6,Tottus,Bebidas sin alcohol,34982354.11,10.68,1,sintetico
+2023-06,2023,6,Tottus,Licores y cervezas,23555128.64,7.19,1,sintetico
+2023-06,2023,6,Tottus,Snacks y golosinas,25379069.28,7.75,1,sintetico
+2023-06,2023,6,Tottus,Abarrotes,98549472.94,30.09,1,sintetico
+2023-06,2023,6,Tottus,Lácteos y embutidos,50019511.27,15.27,1,sintetico
+2023-06,2023,6,Tottus,Panadería y comidas preparadas,20237596.81,6.18,1,sintetico
+2023-06,2023,6,Tottus,Limpieza y cuidado personal,45792387.71,13.98,1,sintetico
+2023-06,2023,6,Tottus,Recargas y servicios,3163208.16,0.97,1,sintetico
+2023-06,2023,6,Tottus,Otros,25830311.87,7.89,1,sintetico
+2023-07,2023,7,Tottus,Bebidas sin alcohol,35700976.97,10.61,2,sintetico
+2023-07,2023,7,Tottus,Licores y cervezas,25814253.08,7.67,2,sintetico
+2023-07,2023,7,Tottus,Snacks y golosinas,28314385.59,8.41,2,sintetico
+2023-07,2023,7,Tottus,Abarrotes,98870849.31,29.38,2,sintetico
+2023-07,2023,7,Tottus,Lácteos y embutidos,50595183.95,15.04,2,sintetico
+2023-07,2023,7,Tottus,Panadería y comidas preparadas,19601709.86,5.83,2,sintetico
+2023-07,2023,7,Tottus,Limpieza y cuidado personal,48135278.13,14.31,2,sintetico
+2023-07,2023,7,Tottus,Recargas y servicios,3254072.74,0.97,2,sintetico
+2023-07,2023,7,Tottus,Otros,26202236.52,7.79,2,sintetico
+2023-08,2023,8,Tottus,Bebidas sin alcohol,32849458.59,11.18,1,sintetico
+2023-08,2023,8,Tottus,Licores y cervezas,21195601.14,7.21,1,sintetico
+2023-08,2023,8,Tottus,Snacks y golosinas,24240952.28,8.25,1,sintetico
+2023-08,2023,8,Tottus,Abarrotes,84805182.02,28.87,1,sintetico
+2023-08,2023,8,Tottus,Lácteos y embutidos,45889653.81,15.62,1,sintetico
+2023-08,2023,8,Tottus,Panadería y comidas preparadas,16923815.24,5.76,1,sintetico
+2023-08,2023,8,Tottus,Limpieza y cuidado personal,41966434.28,14.28,1,sintetico
+2023-08,2023,8,Tottus,Recargas y servicios,2842510.18,0.97,1,sintetico
+2023-08,2023,8,Tottus,Otros,23067488.71,7.85,1,sintetico
+2023-09,2023,9,Tottus,Bebidas sin alcohol,32209095.39,10.92,0,sintetico
+2023-09,2023,9,Tottus,Licores y cervezas,21487770.15,7.29,0,sintetico
+2023-09,2023,9,Tottus,Snacks y golosinas,22795454.33,7.73,0,sintetico
+2023-09,2023,9,Tottus,Abarrotes,86521614.41,29.34,0,sintetico
+2023-09,2023,9,Tottus,Lácteos y embutidos,43883182.89,14.88,0,sintetico
+2023-09,2023,9,Tottus,Panadería y comidas preparadas,19366086.2,6.57,0,sintetico
+2023-09,2023,9,Tottus,Limpieza y cuidado personal,42059381.41,14.26,0,sintetico
+2023-09,2023,9,Tottus,Recargas y servicios,2949300.11,1.0,0,sintetico
+2023-09,2023,9,Tottus,Otros,23666097.13,8.02,0,sintetico
+2023-10,2023,10,Tottus,Bebidas sin alcohol,36150897.66,10.87,1,sintetico
+2023-10,2023,10,Tottus,Licores y cervezas,24141439.37,7.26,1,sintetico
+2023-10,2023,10,Tottus,Snacks y golosinas,27621685.02,8.31,1,sintetico
+2023-10,2023,10,Tottus,Abarrotes,104275613.17,31.36,1,sintetico
+2023-10,2023,10,Tottus,Lácteos y embutidos,47244155.19,14.21,1,sintetico
+2023-10,2023,10,Tottus,Panadería y comidas preparadas,19223536.09,5.78,1,sintetico
+2023-10,2023,10,Tottus,Limpieza y cuidado personal,45314548.18,13.63,1,sintetico
+2023-10,2023,10,Tottus,Recargas y servicios,3158707.4,0.95,1,sintetico
+2023-10,2023,10,Tottus,Otros,25373659.8,7.63,1,sintetico
+2023-11,2023,11,Tottus,Bebidas sin alcohol,37103430.4,11.26,1,sintetico
+2023-11,2023,11,Tottus,Licores y cervezas,22819932.75,6.93,1,sintetico
+2023-11,2023,11,Tottus,Snacks y golosinas,27296520.99,8.28,1,sintetico
+2023-11,2023,11,Tottus,Abarrotes,98557014.87,29.91,1,sintetico
+2023-11,2023,11,Tottus,Lácteos y embutidos,48298094.35,14.66,1,sintetico
+2023-11,2023,11,Tottus,Panadería y comidas preparadas,18799684.69,5.71,1,sintetico
+2023-11,2023,11,Tottus,Limpieza y cuidado personal,47548332.1,14.43,1,sintetico
+2023-11,2023,11,Tottus,Recargas y servicios,3423493.65,1.04,1,sintetico
+2023-11,2023,11,Tottus,Otros,25672996.34,7.79,1,sintetico
+2023-12,2023,12,Tottus,Bebidas sin alcohol,39847527.54,9.98,2,sintetico
+2023-12,2023,12,Tottus,Licores y cervezas,36206593.48,9.07,2,sintetico
+2023-12,2023,12,Tottus,Snacks y golosinas,30598565.57,7.67,2,sintetico
+2023-12,2023,12,Tottus,Abarrotes,126082403.92,31.59,2,sintetico
+2023-12,2023,12,Tottus,Lácteos y embutidos,57831101.59,14.49,2,sintetico
+2023-12,2023,12,Tottus,Panadería y comidas preparadas,22759763.08,5.7,2,sintetico
+2023-12,2023,12,Tottus,Limpieza y cuidado personal,52082512.83,13.05,2,sintetico
+2023-12,2023,12,Tottus,Recargas y servicios,3698207.61,0.93,2,sintetico
+2023-12,2023,12,Tottus,Otros,29981966.33,7.51,2,sintetico
+2024-01,2024,1,Tottus,Bebidas sin alcohol,38159387.25,10.91,1,sintetico
+2024-01,2024,1,Tottus,Licores y cervezas,26865758.59,7.68,1,sintetico
+2024-01,2024,1,Tottus,Snacks y golosinas,28917529.16,8.27,1,sintetico
+2024-01,2024,1,Tottus,Abarrotes,102145018.26,29.2,1,sintetico
+2024-01,2024,1,Tottus,Lácteos y embutidos,52356159.58,14.97,1,sintetico
+2024-01,2024,1,Tottus,Panadería y comidas preparadas,22101019.24,6.32,1,sintetico
+2024-01,2024,1,Tottus,Limpieza y cuidado personal,48331694.3,13.81,1,sintetico
+2024-01,2024,1,Tottus,Recargas y servicios,3502818.13,1.0,1,sintetico
+2024-01,2024,1,Tottus,Otros,27474479.79,7.85,1,sintetico
+2024-02,2024,2,Tottus,Bebidas sin alcohol,31991893.83,11.04,0,sintetico
+2024-02,2024,2,Tottus,Licores y cervezas,21808639.82,7.52,0,sintetico
+2024-02,2024,2,Tottus,Snacks y golosinas,23949958.6,8.26,0,sintetico
+2024-02,2024,2,Tottus,Abarrotes,83474815.98,28.8,0,sintetico
+2024-02,2024,2,Tottus,Lácteos y embutidos,44452371.9,15.34,0,sintetico
+2024-02,2024,2,Tottus,Panadería y comidas preparadas,17150765.8,5.92,0,sintetico
+2024-02,2024,2,Tottus,Limpieza y cuidado personal,40993607.84,14.14,0,sintetico
+2024-02,2024,2,Tottus,Recargas y servicios,2848075.18,0.98,0,sintetico
+2024-02,2024,2,Tottus,Otros,23204127.51,8.0,0,sintetico
+2024-03,2024,3,Tottus,Bebidas sin alcohol,35537106.74,10.9,2,sintetico
+2024-03,2024,3,Tottus,Licores y cervezas,23951066.82,7.34,2,sintetico
+2024-03,2024,3,Tottus,Snacks y golosinas,27386841.99,8.4,2,sintetico
+2024-03,2024,3,Tottus,Abarrotes,99552636.93,30.53,2,sintetico
+2024-03,2024,3,Tottus,Lácteos y embutidos,47704656.38,14.63,2,sintetico
+2024-03,2024,3,Tottus,Panadería y comidas preparadas,18790679.38,5.76,2,sintetico
+2024-03,2024,3,Tottus,Limpieza y cuidado personal,43774653.44,13.42,2,sintetico
+2024-03,2024,3,Tottus,Recargas y servicios,3162284.6,0.97,2,sintetico
+2024-03,2024,3,Tottus,Otros,26228563.34,8.04,2,sintetico
+2024-04,2024,4,Tottus,Bebidas sin alcohol,35936360.0,10.72,0,sintetico
+2024-04,2024,4,Tottus,Licores y cervezas,24127251.42,7.2,0,sintetico
+2024-04,2024,4,Tottus,Snacks y golosinas,26479370.8,7.9,0,sintetico
+2024-04,2024,4,Tottus,Abarrotes,102475141.27,30.57,0,sintetico
+2024-04,2024,4,Tottus,Lácteos y embutidos,49769902.13,14.84,0,sintetico
+2024-04,2024,4,Tottus,Panadería y comidas preparadas,20821692.68,6.21,0,sintetico
+2024-04,2024,4,Tottus,Limpieza y cuidado personal,45663321.78,13.62,0,sintetico
+2024-04,2024,4,Tottus,Recargas y servicios,3102170.17,0.93,0,sintetico
+2024-04,2024,4,Tottus,Otros,26890113.38,8.02,0,sintetico
+2024-05,2024,5,Tottus,Bebidas sin alcohol,39222070.35,10.96,1,sintetico
+2024-05,2024,5,Tottus,Licores y cervezas,26237982.77,7.33,1,sintetico
+2024-05,2024,5,Tottus,Snacks y golosinas,30560922.08,8.54,1,sintetico
+2024-05,2024,5,Tottus,Abarrotes,105339610.41,29.45,1,sintetico
+2024-05,2024,5,Tottus,Lácteos y embutidos,54523520.37,15.24,1,sintetico
+2024-05,2024,5,Tottus,Panadería y comidas preparadas,21551010.25,6.02,1,sintetico
+2024-05,2024,5,Tottus,Limpieza y cuidado personal,48521845.15,13.56,1,sintetico
+2024-05,2024,5,Tottus,Recargas y servicios,3822200.5,1.07,1,sintetico
+2024-05,2024,5,Tottus,Otros,27932052.02,7.81,1,sintetico
+2024-06,2024,6,Tottus,Bebidas sin alcohol,34066944.75,10.19,1,sintetico
+2024-06,2024,6,Tottus,Licores y cervezas,26005859.33,7.78,1,sintetico
+2024-06,2024,6,Tottus,Snacks y golosinas,26997277.14,8.07,1,sintetico
+2024-06,2024,6,Tottus,Abarrotes,99878628.41,29.87,1,sintetico
+2024-06,2024,6,Tottus,Lácteos y embutidos,51305671.77,15.34,1,sintetico
+2024-06,2024,6,Tottus,Panadería y comidas preparadas,19541060.92,5.84,1,sintetico
+2024-06,2024,6,Tottus,Limpieza y cuidado personal,46994288.21,14.05,1,sintetico
+2024-06,2024,6,Tottus,Recargas y servicios,3474851.16,1.04,1,sintetico
+2024-06,2024,6,Tottus,Otros,26104863.03,7.81,1,sintetico
+2024-07,2024,7,Tottus,Bebidas sin alcohol,39574709.97,10.57,2,sintetico
+2024-07,2024,7,Tottus,Licores y cervezas,28559693.65,7.63,2,sintetico
+2024-07,2024,7,Tottus,Snacks y golosinas,31237343.64,8.34,2,sintetico
+2024-07,2024,7,Tottus,Abarrotes,111951661.39,29.9,2,sintetico
+2024-07,2024,7,Tottus,Lácteos y embutidos,54532844.21,14.57,2,sintetico
+2024-07,2024,7,Tottus,Panadería y comidas preparadas,21493902.59,5.74,2,sintetico
+2024-07,2024,7,Tottus,Limpieza y cuidado personal,53883297.89,14.39,2,sintetico
+2024-07,2024,7,Tottus,Recargas y servicios,4023766.37,1.07,2,sintetico
+2024-07,2024,7,Tottus,Otros,29116744.33,7.78,2,sintetico
+2024-08,2024,8,Tottus,Bebidas sin alcohol,35446828.19,10.52,1,sintetico
+2024-08,2024,8,Tottus,Licores y cervezas,22745650.67,6.75,1,sintetico
+2024-08,2024,8,Tottus,Snacks y golosinas,28005173.98,8.31,1,sintetico
+2024-08,2024,8,Tottus,Abarrotes,103958989.67,30.85,1,sintetico
+2024-08,2024,8,Tottus,Lácteos y embutidos,50714321.52,15.05,1,sintetico
+2024-08,2024,8,Tottus,Panadería y comidas preparadas,18833896.73,5.59,1,sintetico
+2024-08,2024,8,Tottus,Limpieza y cuidado personal,47208359.69,14.01,1,sintetico
+2024-08,2024,8,Tottus,Recargas y servicios,3287335.41,0.98,1,sintetico
+2024-08,2024,8,Tottus,Otros,26766666.48,7.94,1,sintetico
+2024-09,2024,9,Tottus,Bebidas sin alcohol,34999338.82,11.16,0,sintetico
+2024-09,2024,9,Tottus,Licores y cervezas,23613224.17,7.53,0,sintetico
+2024-09,2024,9,Tottus,Snacks y golosinas,23779914.12,7.58,0,sintetico
+2024-09,2024,9,Tottus,Abarrotes,94349974.33,30.09,0,sintetico
+2024-09,2024,9,Tottus,Lácteos y embutidos,48310079.62,15.4,0,sintetico
+2024-09,2024,9,Tottus,Panadería y comidas preparadas,19293484.76,6.15,0,sintetico
+2024-09,2024,9,Tottus,Limpieza y cuidado personal,42341539.73,13.5,0,sintetico
+2024-09,2024,9,Tottus,Recargas y servicios,3094942.8,0.99,0,sintetico
+2024-09,2024,9,Tottus,Otros,23823066.31,7.6,0,sintetico
+2024-10,2024,10,Tottus,Bebidas sin alcohol,38910245.09,11.23,1,sintetico
+2024-10,2024,10,Tottus,Licores y cervezas,24296952.47,7.01,1,sintetico
+2024-10,2024,10,Tottus,Snacks y golosinas,28450345.63,8.21,1,sintetico
+2024-10,2024,10,Tottus,Abarrotes,101830877.77,29.39,1,sintetico
+2024-10,2024,10,Tottus,Lácteos y embutidos,51800519.99,14.95,1,sintetico
+2024-10,2024,10,Tottus,Panadería y comidas preparadas,20188885.44,5.83,1,sintetico
+2024-10,2024,10,Tottus,Limpieza y cuidado personal,49061980.86,14.16,1,sintetico
+2024-10,2024,10,Tottus,Recargas y servicios,3463068.82,1.0,1,sintetico
+2024-10,2024,10,Tottus,Otros,28488040.51,8.22,1,sintetico
+2024-11,2024,11,Tottus,Bebidas sin alcohol,37740992.44,10.94,1,sintetico
+2024-11,2024,11,Tottus,Licores y cervezas,23776749.24,6.89,1,sintetico
+2024-11,2024,11,Tottus,Snacks y golosinas,28631475.35,8.3,1,sintetico
+2024-11,2024,11,Tottus,Abarrotes,101361921.86,29.37,1,sintetico
+2024-11,2024,11,Tottus,Lácteos y embutidos,52658066.51,15.26,1,sintetico
+2024-11,2024,11,Tottus,Panadería y comidas preparadas,20933101.03,6.07,1,sintetico
+2024-11,2024,11,Tottus,Limpieza y cuidado personal,48272081.29,13.99,1,sintetico
+2024-11,2024,11,Tottus,Recargas y servicios,3494567.64,1.01,1,sintetico
+2024-11,2024,11,Tottus,Otros,28217774.12,8.18,1,sintetico
+2024-12,2024,12,Tottus,Bebidas sin alcohol,42866756.72,10.37,2,sintetico
+2024-12,2024,12,Tottus,Licores y cervezas,38810549.57,9.39,2,sintetico
+2024-12,2024,12,Tottus,Snacks y golosinas,31730697.78,7.68,2,sintetico
+2024-12,2024,12,Tottus,Abarrotes,127362724.28,30.82,2,sintetico
+2024-12,2024,12,Tottus,Lácteos y embutidos,58823444.66,14.24,2,sintetico
+2024-12,2024,12,Tottus,Panadería y comidas preparadas,24497865.04,5.93,2,sintetico
+2024-12,2024,12,Tottus,Limpieza y cuidado personal,55093611.61,13.33,2,sintetico
+2024-12,2024,12,Tottus,Recargas y servicios,3890514.01,0.94,2,sintetico
+2024-12,2024,12,Tottus,Otros,30149277.73,7.3,2,sintetico
+2025-01,2025,1,Tottus,Bebidas sin alcohol,38518530.65,11.24,1,sintetico
+2025-01,2025,1,Tottus,Licores y cervezas,25438890.67,7.42,1,sintetico
+2025-01,2025,1,Tottus,Snacks y golosinas,27856372.8,8.13,1,sintetico
+2025-01,2025,1,Tottus,Abarrotes,102359978.11,29.87,1,sintetico
+2025-01,2025,1,Tottus,Lácteos y embutidos,51593566.96,15.05,1,sintetico
+2025-01,2025,1,Tottus,Panadería y comidas preparadas,19988568.78,5.83,1,sintetico
+2025-01,2025,1,Tottus,Limpieza y cuidado personal,46587173.5,13.59,1,sintetico
+2025-01,2025,1,Tottus,Recargas y servicios,3507282.4,1.02,1,sintetico
+2025-01,2025,1,Tottus,Otros,26869727.5,7.84,1,sintetico
+2025-02,2025,2,Tottus,Bebidas sin alcohol,29618353.39,11.14,0,sintetico
+2025-02,2025,2,Tottus,Licores y cervezas,18402226.37,6.92,0,sintetico
+2025-02,2025,2,Tottus,Snacks y golosinas,21836088.78,8.21,0,sintetico
+2025-02,2025,2,Tottus,Abarrotes,77694341.41,29.22,0,sintetico
+2025-02,2025,2,Tottus,Lácteos y embutidos,40564445.2,15.25,0,sintetico
+2025-02,2025,2,Tottus,Panadería y comidas preparadas,16268970.1,6.12,0,sintetico
+2025-02,2025,2,Tottus,Limpieza y cuidado personal,36116983.3,13.58,0,sintetico
+2025-02,2025,2,Tottus,Recargas y servicios,2820333.2,1.06,0,sintetico
+2025-02,2025,2,Tottus,Otros,22603033.94,8.5,0,sintetico
+2025-03,2025,3,Tottus,Bebidas sin alcohol,37076486.76,11.22,0,sintetico
+2025-03,2025,3,Tottus,Licores y cervezas,22764398.26,6.89,0,sintetico
+2025-03,2025,3,Tottus,Snacks y golosinas,27433744.83,8.3,0,sintetico
+2025-03,2025,3,Tottus,Abarrotes,99947431.88,30.24,0,sintetico
+2025-03,2025,3,Tottus,Lácteos y embutidos,49120803.22,14.86,0,sintetico
+2025-03,2025,3,Tottus,Panadería y comidas preparadas,19455039.31,5.89,0,sintetico
+2025-03,2025,3,Tottus,Limpieza y cuidado personal,45164643.09,13.67,0,sintetico
+2025-03,2025,3,Tottus,Recargas y servicios,3293662.9,1.0,0,sintetico
+2025-03,2025,3,Tottus,Otros,26219535.76,7.93,0,sintetico
+2025-04,2025,4,Tottus,Bebidas sin alcohol,37572772.74,10.42,2,sintetico
+2025-04,2025,4,Tottus,Licores y cervezas,24766204.68,6.87,2,sintetico
+2025-04,2025,4,Tottus,Snacks y golosinas,29719341.11,8.24,2,sintetico
+2025-04,2025,4,Tottus,Abarrotes,110188371.2,30.55,2,sintetico
+2025-04,2025,4,Tottus,Lácteos y embutidos,53811485.23,14.92,2,sintetico
+2025-04,2025,4,Tottus,Panadería y comidas preparadas,21527816.4,5.97,2,sintetico
+2025-04,2025,4,Tottus,Limpieza y cuidado personal,51055346.11,14.15,2,sintetico
+2025-04,2025,4,Tottus,Recargas y servicios,3680268.62,1.02,2,sintetico
+2025-04,2025,4,Tottus,Otros,28383890.32,7.87,2,sintetico
+2025-05,2025,5,Tottus,Bebidas sin alcohol,42821478.69,11.2,1,sintetico
+2025-05,2025,5,Tottus,Licores y cervezas,27344355.31,7.15,1,sintetico
+2025-05,2025,5,Tottus,Snacks y golosinas,31154798.29,8.15,1,sintetico
+2025-05,2025,5,Tottus,Abarrotes,115865115.62,30.31,1,sintetico
+2025-05,2025,5,Tottus,Lácteos y embutidos,57629287.42,15.08,1,sintetico
+2025-05,2025,5,Tottus,Panadería y comidas preparadas,22892054.4,5.99,1,sintetico
+2025-05,2025,5,Tottus,Limpieza y cuidado personal,49522889.65,12.95,1,sintetico
+2025-05,2025,5,Tottus,Recargas y servicios,3794047.68,0.99,1,sintetico
+2025-05,2025,5,Tottus,Otros,31259457.59,8.18,1,sintetico
+2025-06,2025,6,Tottus,Bebidas sin alcohol,36637726.89,10.92,1,sintetico
+2025-06,2025,6,Tottus,Licores y cervezas,24167542.51,7.2,1,sintetico
+2025-06,2025,6,Tottus,Snacks y golosinas,26803971.4,7.99,1,sintetico
+2025-06,2025,6,Tottus,Abarrotes,102125258.58,30.43,1,sintetico
+2025-06,2025,6,Tottus,Lácteos y embutidos,50319717.55,14.99,1,sintetico
+2025-06,2025,6,Tottus,Panadería y comidas preparadas,19728606.16,5.88,1,sintetico
+2025-06,2025,6,Tottus,Limpieza y cuidado personal,46877455.69,13.97,1,sintetico
+2025-06,2025,6,Tottus,Recargas y servicios,3265937.65,0.97,1,sintetico
+2025-06,2025,6,Tottus,Otros,25688197.95,7.65,1,sintetico
+2025-07,2025,7,Tottus,Bebidas sin alcohol,40116844.87,11.22,2,sintetico
+2025-07,2025,7,Tottus,Licores y cervezas,26324156.9,7.36,2,sintetico
+2025-07,2025,7,Tottus,Snacks y golosinas,30516429.95,8.53,2,sintetico
+2025-07,2025,7,Tottus,Abarrotes,107506848.88,30.06,2,sintetico
+2025-07,2025,7,Tottus,Lácteos y embutidos,50994614.18,14.26,2,sintetico
+2025-07,2025,7,Tottus,Panadería y comidas preparadas,21433939.86,5.99,2,sintetico
+2025-07,2025,7,Tottus,Limpieza y cuidado personal,48199346.31,13.48,2,sintetico
+2025-07,2025,7,Tottus,Recargas y servicios,3495701.5,0.98,2,sintetico
+2025-07,2025,7,Tottus,Otros,29045475.32,8.12,2,sintetico
+2025-08,2025,8,Tottus,Bebidas sin alcohol,39671995.8,10.31,1,sintetico
+2025-08,2025,8,Tottus,Licores y cervezas,28284613.34,7.35,1,sintetico
+2025-08,2025,8,Tottus,Snacks y golosinas,31476804.93,8.18,1,sintetico
+2025-08,2025,8,Tottus,Abarrotes,114262079.42,29.69,1,sintetico
+2025-08,2025,8,Tottus,Lácteos y embutidos,59419655.45,15.44,1,sintetico
+2025-08,2025,8,Tottus,Panadería y comidas preparadas,23708751.84,6.16,1,sintetico
+2025-08,2025,8,Tottus,Limpieza y cuidado personal,54068923.68,14.05,1,sintetico
+2025-08,2025,8,Tottus,Recargas y servicios,3699602.59,0.96,1,sintetico
+2025-08,2025,8,Tottus,Otros,30289353.07,7.87,1,sintetico

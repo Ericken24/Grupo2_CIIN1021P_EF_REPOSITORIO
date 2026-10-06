@@ -1,0 +1,7 @@
+﻿id_metodo_pago,nombre,tipo
+1,Efectivo,Efectivo
+2,Tarjeta débito,Tarjeta
+3,Tarjeta crédito,Tarjeta
+4,Yape,Billetera digital
+5,Plin,Billetera digital
+6,Transferencia,Transferencia

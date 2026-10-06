@@ -1,0 +1,31 @@
+﻿temporada,Categoria,venta,indice
+Seca,Cuidado Personal,153104.73,100.8
+Lluviosa,Cuidado Personal,145358.06,99.7
+Transición,Cuidado Personal,40224.07,98.2
+Transición,Helados y Congelados,15693.49,104.0
+Seca,Helados y Congelados,55380.23,99.0
+Lluviosa,Helados y Congelados,53676.37,99.9
+Transición,Botiquín OTC,9698.46,98.8
+Seca,Botiquín OTC,36670.25,100.8
+Lluviosa,Botiquín OTC,34740.87,99.5
+Seca,Abarrotes,252978.37,99.3
+Transición,Abarrotes,69302.95,100.8
+Lluviosa,Abarrotes,245858.77,100.5
+Lluviosa,Lácteos y Refrigerados,154026.9,99.5
+Transición,Lácteos y Refrigerados,42892.63,98.6
+Seca,Lácteos y Refrigerados,162639.06,100.9
+Seca,Bebidas,145456.55,100.8
+Lluviosa,Bebidas,136817.98,98.8
+Transición,Bebidas,39446.13,101.3
+Transición,Limpieza,44423.58,102.9
+Seca,Limpieza,157289.58,98.3
+Lluviosa,Limpieza,155252.42,101.0
+Seca,Snacks y Golosinas,70199.36,101.1
+Lluviosa,Snacks y Golosinas,66465.34,99.7
+Transición,Snacks y Golosinas,18188.82,97.1
+Transición,Panadería y Pastelería,16329.13,97.5
+Lluviosa,Panadería y Pastelería,59886.77,100.5
+Seca,Panadería y Pastelería,62257.44,100.3
+Transición,Hogar y Accesorios,13461.28,96.8
+Seca,Hogar y Accesorios,51741.06,100.4
+Lluviosa,Hogar y Accesorios,49746.07,100.5
