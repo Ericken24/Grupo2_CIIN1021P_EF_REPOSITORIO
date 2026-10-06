@@ -1,0 +1,11 @@
+﻿id_categoria,nombre_categoria,descripcion,activa
+1,Abarrotes,Productos básicos de despensa y cocina,1
+2,Bebidas,"Aguas, gaseosas, jugos, energizantes y bebidas listas",1
+3,Lácteos y Refrigerados,"Leche, yogur, quesos, embutidos y refrigerados",1
+4,Limpieza,Limpieza del hogar y lavandería,1
+5,Cuidado Personal,Higiene y cuidado personal,1
+6,Snacks y Golosinas,"Galletas, chocolates, caramelos, snacks",1
+7,Panadería y Pastelería,"Panificados, postres y productos de consumo rápido",1
+8,Botiquín OTC,Productos OTC y primeros auxilios de venta permitida,1
+9,Helados y Congelados,Helados y productos congelados,1
+10,Hogar y Accesorios,"Bolsas, baterías, menaje y accesorios de uso diario",1

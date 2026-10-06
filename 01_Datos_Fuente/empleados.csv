@@ -1,0 +1,37 @@
+id_empleado,dni,nombre_completo,cargo,id_sucursal,telefono,fecha_ingreso,activo
+1,10200001,Renzo Morales Domínguez,Administrador General,8,910005001,2021-01-15,1
+2,10200002,Johana Cruz Huamán,Analista de Datos,8,910005002,2021-01-15,1
+3,10200003,Yolanda Gonzales Sánchez,Jefe de Operaciones,1,910005003,2020-01-15,1
+4,10200004,Gabriela Puga Ríos,Supervisor de Tienda,1,910005004,2020-01-15,1
+5,10200005,Valeria Salazar Gonzales,Supervisor de Tienda,2,910005005,2021-01-15,1
+6,10200006,Antonio Mendoza Guerrero,Supervisor de Tienda,3,910005006,2021-01-15,1
+7,10200007,Juana Sánchez Guerrero,Supervisor de Tienda,4,910005007,2021-01-15,1
+8,10200008,César Campos Fernández,Cajero,1,910005008,2020-01-15,1
+9,10200009,Marco Reyes Tello,Cajero,1,910005009,2020-01-15,1
+10,10200010,Lucía Puga Puga,Cajero,1,910005010,2020-01-15,1
+11,10200011,Bruno Medina Ramos,Cajero,1,910005011,2020-01-15,1
+12,10200012,Nancy Cárdenas Becerra,Cajero,2,910005012,2021-01-15,1
+13,10200013,Miguel Ibañez López,Cajero,2,910005013,2021-01-15,1
+14,10200014,Daniela Castro Vargas,Cajero,2,910005014,2021-01-15,1
+15,10200015,José Fernández Jiménez,Cajero,3,910005015,2021-01-15,1
+16,10200016,Miguel Domínguez Contreras,Cajero,3,910005016,2021-01-15,1
+17,10200017,Karin Domínguez Reyes,Cajero,3,910005017,2021-01-15,1
+18,10200018,Miguel Díaz Torres,Cajero,4,910005018,2021-01-15,1
+19,10200019,Valeria Puga García,Cajero,4,910005019,2021-01-15,1
+20,10200020,Fernando Flores Fernández,Cajero,4,910005020,2021-01-15,1
+21,10200021,Miguel Flores Medina,Almacenero,1,910005021,2020-01-15,1
+22,10200022,María Herrera Campos,Almacenero,2,910005022,2021-01-15,1
+23,10200023,Juana Jiménez Domínguez,Almacenero,3,910005023,2021-01-15,1
+24,10200024,Lucía Guerrero Campos,Almacenero,4,910005024,2021-01-15,1
+25,10300025,María Vásquez,Supervisor de Tienda,5,920000025,2022-10-01,1
+26,10300026,Rosa Mendoza,Cajero,5,920000026,2022-10-01,1
+27,10300027,Lucía Huamán,Cajero,5,920000027,2022-10-01,1
+28,10300028,Andrea Pérez,Almacenero,5,920000028,2022-10-01,1
+29,10300029,Lucía Huamán,Supervisor de Tienda,6,920000029,2022-10-01,1
+30,10300030,Andrea Pérez,Cajero,6,920000030,2022-10-01,1
+31,10300031,Valeria Salazar,Cajero,6,920000031,2022-10-01,1
+32,10300032,Camila Torres,Almacenero,6,920000032,2022-10-01,1
+33,10300033,Valeria Salazar,Supervisor de Tienda,7,920000033,2023-01-15,1
+34,10300034,Camila Torres,Cajero,7,920000034,2023-01-15,1
+35,10300035,María Vásquez,Cajero,7,920000035,2023-01-15,1
+36,10300036,Rosa Mendoza,Almacenero,7,920000036,2023-01-15,1

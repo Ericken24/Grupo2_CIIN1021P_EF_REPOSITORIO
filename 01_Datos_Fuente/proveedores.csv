@@ -1,0 +1,16 @@
+﻿id_proveedor,ruc,nombre_proveedor,direccion,telefono,email,fecha_registro,activo
+1,20100012345,Distribuidora Norte S.A.C.,"Jr. Comercio 359, Cajamarca",910002001,contacto1@proveedor.com,2022-11-15,1
+2,20100023456,Inversiones Alimenticias E.I.R.L.,"Jr. Comercio 267, Cajamarca",910002002,contacto2@proveedor.com,2022-11-15,1
+3,20100034567,Distribuidora La Libertad S.A.,"Jr. Amazonas 452, Cajamarca",910002003,contacto3@proveedor.com,2022-11-15,1
+4,20100045678,Productos Andinos S.A.C.,"Jr. San Martín 360, Cajamarca",910002004,contacto4@proveedor.com,2022-11-15,1
+5,20100056789,Bebidas del Norte S.A.C.,"Jr. Comercio 193, Cajamarca",910002005,contacto5@proveedor.com,2022-11-15,1
+6,20100067890,Alicorp Distribuciones E.I.R.L.,"Jr. Junín 291, Cajamarca",910002006,contacto6@proveedor.com,2022-11-15,1
+7,20100078901,Lácteos Andinos S.A.C.,"Jr. Junín 507, Cajamarca",910002007,contacto7@proveedor.com,2022-11-15,1
+8,20100089012,Limpieza Total S.A.C.,"Jr. San Martín 473, Cajamarca",910002008,contacto8@proveedor.com,2022-11-15,1
+9,20100090123,Cuidado Peruano E.I.R.L.,"Jr. San Martín 194, Cajamarca",910002009,contacto9@proveedor.com,2022-11-15,1
+10,20100101234,Snacks del Valle S.A.C.,"Jr. Puno 357, Cajamarca",910002010,contacto10@proveedor.com,2022-11-15,1
+11,20100112345,Panadería Industrial Cajamarca,"Jr. San Martín 244, Cajamarca",910002011,contacto11@proveedor.com,2022-11-15,1
+12,20100123456,Distribuidora Botiquín Norte E.I.R.L.,"Jr. Amazonas 217, Cajamarca",910002012,contacto12@proveedor.com,2022-11-15,1
+13,20100134567,Comercializadora El Sol S.A.C.,"Jr. Junín 460, Cajamarca",910002013,contacto13@proveedor.com,2022-11-15,1
+14,20100145678,Comercializadora del Norte E.I.R.L.,"Jr. Puno 317, Cajamarca",910002014,contacto14@proveedor.com,2022-11-15,1
+15,20100156789,Importaciones del Pacífico S.A.C.,"Jr. Puno 662, Cajamarca",910002015,contacto15@proveedor.com,2022-11-15,1

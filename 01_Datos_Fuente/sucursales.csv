@@ -1,0 +1,9 @@
+id,nombre,direccion,ciudad,distrito,tipo,vende,apertura,flujo,ticket
+1,KUSI MINIMARKET - Vía de Evitamiento Norte,"Av. Vía de Evitamiento Norte, Lote 6 Mz. G, Urb. San Luis II Etapa",Cajamarca,Cajamarca,tienda,1,2019-03-15,1.85,0.96
+2,KUSI MINIMARKET - Hoyos Rubio,"Av. Rafael Hoyos Rubio N° 405, Barrio Pueblo Nuevo",Cajamarca,Cajamarca,tienda,1,2020-06-20,1.0,1.02
+3,KUSI MINIMARKET - Amalia Puga,"Ca. Amalia Puga de Lozada N° 762, Barrio 2 de Mayo",Cajamarca,Cajamarca,tienda,1,2021-02-10,0.92,1.07
+4,KUSI MINIMARKET - Del Comercio,"Jr. Del Comercio N° 707, Barrio Cumbe Mayo",Cajamarca,Cajamarca,tienda,1,2021-09-15,0.88,1.05
+5,KUSI MINIMARKET - San Sebastián,"Cal. San Sebastián N° 165, Urb. Cajamarca",Cajamarca,Cajamarca,tienda,1,2022-03-20,0.78,1.0
+6,KUSI MINIMARKET - Silva Santisteban,"Jr. Silva Santisteban N° 216, Urb. San Sebastián",Cajamarca,Cajamarca,tienda,1,2022-08-10,0.72,1.01
+7,KUSI MINIMARKET - San Roque,"Av. San Roque N° A-18, Urb. San Roque",Cajamarca,Cajamarca,tienda,1,2023-01-15,0.68,1.03
+8,KUSI - Sede Legal / Oficina Administrativa,"Jr. Paul Rivet N° 150, Urb. San Luis III Etapa",Cajamarca,Cajamarca,administrativa,0,2024-03-01,0.0,0.0

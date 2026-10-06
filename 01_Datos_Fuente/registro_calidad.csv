@@ -1,0 +1,9 @@
+﻿id_problema,problema,registros,severidad,tratamiento
+Q01,Cobertura temporal fuera del período analítico,2,Media,Conservar en fuente y excluir del DW mediante filtro parametrizado.
+Q02,Ventas sin cliente identificado,54000,Baja/Media,Tratar como venta anónima; no imputar identidad automáticamente.
+Q03,DNI con longitud distinta de 8,12,Media,Enviar a cola de calidad; no completar datos personales inventados.
+Q04,Correos con formato inválido o vacío,213,Media,Marcar como incompleto/no válido y excluir de comunicaciones automatizadas.
+Q05,Distritos con variantes ortográficas/case,9,Media,Aplicar diccionario maestro de normalización en ETL.
+Q06,Ventas con total cero,4,Alta,Aislar/rechazar en validación; no considerarlas venta completada.
+Q07,Ventas de cabecera sin detalle,4,Alta,Aislar en staging y registrar en log de calidad.
+Q08,Stock menor o igual al mínimo,6,Baja,Generar alerta de reabastecimiento; no corregir automáticamente el stock físico.
